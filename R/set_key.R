@@ -6,7 +6,7 @@
 #' @keywords key
 #' @export
 #' @examples
-#' set_key('aAS5ASdf35jasdnadsfj')
+#' my_key <- set_key('aAS5ASdf35jasdnadsfj') # not a real key
 
 set_key <- function(key){
   my_key <- paste('apiKey=', key, sep='')
