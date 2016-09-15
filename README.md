@@ -8,6 +8,16 @@ install.packages('XML')
 library(XML)
 ~~~~
 
+To install this package:
+
+~~~~{.r}
+install.packages("devtools")
+library("devtools")
+
+install_github('davetang/romim')
+library(romim)
+~~~~
+
 # Contact
 
 Email me at davetang dot org (no spaces).
