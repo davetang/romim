@@ -3,7 +3,11 @@ Title: R wrapper functions for the OMIM API
 Version: 0.0.0.9000
 Authors@R: person("Dave", "Tang", email = "me@davetang.org", role = c("aut", "cre"))
 Description: The package contains wrapper functions that make it easier to use the OMIM API.
-Depends: R (>= 3.3.1)
+Depends:
+   R (>= 3.3.1),
+   XML (>= 3.98)
+Imports:
+   XML
 License: GNU General Public License
 Encoding: UTF-8
 LazyData: true
