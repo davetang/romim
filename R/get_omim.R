@@ -9,7 +9,7 @@
 #' @param clinicalSynopsis Include the clinical synopsis with the entry. Default is FALSE.
 #' @param seeAlso Includes the 'see also' field with the entry. Default is FALSE.
 #' @param referenceList Include the reference list with the entry. Default is FALSE.
-#' @param geneMap Include the gene map/phenotype map data with the entry. Default is FALSE.
+#' @param geneMap Include the gene map/phenotype map data with the entry. Default is TRUE.
 #' @param externalLinks Include the external links with the entry. Default is FALSE.
 #' @param contributors Includes the 'contributors' field with the entry. Default is FALSE.
 #' @param creationDate Includes the 'creation date' field with the entry. Default is FALSE.
@@ -19,7 +19,7 @@
 #' @keywords OMIM ID
 #' @export
 #' @examples
-#' get_omim(303600, geneMap=TRUE)
+#' get_omim(303600)
 
 get_omim <- function(omim_id = 100100, #default OMIM ID
   text = FALSE, #Includes the text field sections with the entry.
@@ -28,7 +28,7 @@ get_omim <- function(omim_id = 100100, #default OMIM ID
   clinicalSynopsis = FALSE, #Include the clinical synopsis with the entry.
   seeAlso = FALSE, #Includes the 'see also' field with the entry.
   referenceList = FALSE, #Include the reference list with the entry.
-  geneMap = FALSE, #Include the gene map/phenotype map data with the entry.
+  geneMap = TRUE, #Include the gene map/phenotype map data with the entry.
   externalLinks = FALSE, #Include the external links with the entry.
   contributors = FALSE, #Includes the 'contributors' field with the entry.
   creationDate = FALSE, #Includes the 'creation date' field with the entry.
