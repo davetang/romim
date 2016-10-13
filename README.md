@@ -1,7 +1,7 @@
 README
 ======
 
-See my [blog post](http://davetang.org/muse/2015/03/17/getting-started-with-the-omim-api/) for more information. To use this package, you need to install the XML package.
+To use this package, you need to install the XML package. 
 
 ~~~~{.r}
 install.packages('XML')
@@ -18,6 +18,7 @@ install_github('davetang/romim')
 library(romim)
 ~~~~
 
+
 # Usage
 
 You will need a valid key; request for access on the [OMIM API page](http://www.omim.org/api/).
@@ -28,7 +29,7 @@ library(romim)
 
 # not a real key
 my_key <- set_key('AAAAAAAAAAAAAAAAAAAAAA')
-omim_result <- get_omim(147920)
+omim_result <- get_omim(147920, geneMap = TRUE)
 
 get_gene(omim_result)
 # [1] "KMT2D, MLL2, ALR, KABUK1"
@@ -53,7 +54,7 @@ sapply(my_list_omim, get_title)
 
 # How to modify package
 
-The functions are in the `R` directory and you can modify them as you please.
+The functions are in the `R` directory and you can modify them as you please. If you modify the documentation in these files, you will need to run document(); see below.
 
 ~~~~{.bash}
 ls R
@@ -78,7 +79,7 @@ set_key <- function(key){
 }
 ~~~~
 
-After you have added the file, you'll need to run document().
+After you have added the file (or modified the original files), you'll need to run document().
 
 ~~~~{.r}
 library(roxygen2)
@@ -88,6 +89,10 @@ library(devtools)
 setwd('~/github/romim/')
 document()
 ~~~~
+
+# Further reading
+
+See my [this blog post](http://davetang.org/muse/2015/03/17/getting-started-with-the-omim-api/) for more information on the OMIM API. For more information on creating R packages, see [this blog post](http://davetang.org/muse/2015/02/04/bed-granges/).
 
 # Contact
 

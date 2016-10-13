@@ -6,7 +6,7 @@
 \usage{
 get_omim(omim_id = 100100, text = FALSE, existflags = FALSE,
   allelicVariantList = FALSE, clinicalSynopsis = FALSE, seeAlso = FALSE,
-  referenceList = FALSE, geneMap = TRUE, externalLinks = FALSE,
+  referenceList = FALSE, geneMap = FALSE, externalLinks = FALSE,
   contributors = FALSE, creationDate = FALSE, editHistory = FALSE,
   dates = FALSE, all = FALSE)
 }
@@ -25,7 +25,7 @@ get_omim(omim_id = 100100, text = FALSE, existflags = FALSE,
 
 \item{referenceList}{Include the reference list with the entry. Default is FALSE.}
 
-\item{geneMap}{Include the gene map/phenotype map data with the entry. Default is TRUE.}
+\item{geneMap}{Include the gene map/phenotype map data with the entry. Default is FALSE.}
 
 \item{externalLinks}{Include the external links with the entry. Default is FALSE.}
 
@@ -43,7 +43,7 @@ get_omim(omim_id = 100100, text = FALSE, existflags = FALSE,
 This function builds the URL and queries the OMIM server
 }
 \examples{
-get_omim(303600)
+get_omim(303600, geneMap = TRUE)
 }
 \keyword{ID}
 \keyword{OMIM}
