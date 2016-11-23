@@ -3,5 +3,6 @@
 export(get_gene)
 export(get_inheritance)
 export(get_omim)
+export(get_pheno_key)
 export(get_title)
 export(set_key)
