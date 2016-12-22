@@ -1,0 +1,24 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Hypospadias - PS300633 - 4 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+7q32.2-q36.1	Hypospadias 3, autosomal	2	146450	HYSP3	146450
+Xp11.22	{Hypospadias 4, X-linked, susceptibility to}	2	300856	HYSP4	300856
+Xq12	Hypospadias 1, X-linked	3	300633	AR, DHTR, TFM, SBMA, KD, SMAX1, HYSP1	313700
+Xq28	Hypospadias 2, X-linked	3	300758	MAMLD1, CXorf6, F18, HYSP2	300120
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

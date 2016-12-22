@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Asperger syndrome, susceptibility to - PS608638 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q21-q22	{Asperger syndrome susceptibility 3}	2	608781	ASPG3	608781
+3p24-p21	{Asperger syndrome susceptibility 4}	2	609954	ASPG4	609954
+3q25-q27	{Asperger syndrome susceptibility 1}	2	608638	ASPG1	608638
+17p13	{Asperger syndrome susceptibility 2}	2	608631	ASPG2	608631
+Xp22.32-p22.31	{Asperger syndrome susceptibility, X-linked 2}	3	300497	NLGN4, KIAA1260, AUTSX2, ASPGX2	300427
+Xq13.1	{Asperger syndrome susceptibility, X-linked 1}	3	300494	NLGN3, ASPGX1, AUTSX1	300336
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

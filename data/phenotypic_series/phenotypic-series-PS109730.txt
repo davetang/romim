@@ -1,0 +1,22 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Aortic valve disease - PS109730 - 2 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+9q34.3	Aortic valve disease 1	3	109730	NOTCH1, TAN1, AOS5, AOVD1	190198
+15q22.31	Aortic valve disease 2	3	614823	SMAD6, MADH6, AOVD2	602931
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

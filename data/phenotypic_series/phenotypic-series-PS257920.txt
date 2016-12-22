@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+3MC syndrome - PS257920 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p25.3	3MC syndrome 2	3	265050	COLEC11, CLK1, 3MC2	612502
+3q27.3	3MC syndrome 1	3	257920	MASP1, CRARF, 3MC1	600521
+Not Mapped	3MC syndrome 3		248340	3MC3	248340
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

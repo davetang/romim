@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Epilepsy, nocturnal frontal lobe - PS600513 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q21.3	Epilepsy, nocturnal frontal lobe, 3	3	605375	CHRNB2, EFNL3	118507
+8p21.2	Epilepsy, nocturnal frontal lobe, type 4	3	610353	CHRNA2	118502
+9q34.3	Epilepsy, nocturnal frontal lobe, 5	3	615005	KCNT1, KIAA1422, EIEE14, ENFL5	608167
+15q24	Epilepsy, nocturnal frontal lobe, type 2	2	603204	ENFL2	603204
+20q13.33	Epilepsy, nocturnal frontal lobe, 1	3	600513	CHRNA4, ENFL1	118504
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

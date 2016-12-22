@@ -1,0 +1,22 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Otofaciocervical syndrome - PS166780 - 2 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+8q13.3	?Otofaciocervical syndrome	3	166780	EYA1, BOR, BOS1, OFC1	601653
+20p11.22	?Otofaciocervical syndrome 2	3	615560	PAX1, OFC2	167411
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

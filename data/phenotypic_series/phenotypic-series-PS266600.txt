@@ -1,0 +1,49 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Inflammatory bowel disease - PS266600 - 29 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36	{Inflammatory bowel disease 7}	2	605225	IBD7	605225
+1p31.3	{Inflammatory bowel disease 17, protection against}	3	612261	IL23R, IBD17	607562
+1q32.1	{Inflammatory bowel disease 23}	2	612381	IBD23	612381
+2q37.1	{Inflammatory bowel disease (Crohn disease) 10}	3	611081	ATG16L1, APG16L, IBD10	610767
+3p26	{Inflammatory bowel disease 9}	2	608448	IBD9	608448
+3p21.3	{Inflammatory bowel disease 12}	2	612241	IBD12	612241
+5p13.1	{Inflammatory bowel disease 18}	2	612262	IBD18	612262
+5q31	{Inflammatory bowel disease 5}	2	606348	IBD5	606348
+5q33.1	{Inflammatory bowel disease (Crohn disease) 19}	3	612278	IRGM, LRG47, IFI1, IBD19	608212
+6p21.3	{Inflammatory bowel disease 3}	2	604519	IBD3	604519
+7p15.3	{Crohn disease-associated growth failure}	3	266600	IL6, IFNB2, BSF2, HSF, HGF	147620
+7q21.12	{Inflammatory bowel disease 13}	3	612244	ABCB1, PGY1, MDR1, IBD13, CLCs	171050
+7q22	{Inflammatory bowel disease 11}	2	191390	IBD11	191390
+7q32.1	{Inflammatory bowel disease 14}	3	612245	IRF5, IBD14, SLEB10	607218
+9q32	{Inflammatory bowel disease 16}	2	612259	IBD16	612259
+10q21	{Inflammatory bowel disease 15}	2	612255	IBD15	612255
+10q23-q24	{Inflammatory bowel disease 20}	2	612288	IBD20	612288
+11q23.3	Inflammatory bowel disease 28, early onset, autosomal recessive	3	613148	IL10RA, IL10R, IBD28	146933
+12p13.2-q24.1	{Inflammatory bowel disease 2}	2	601458	IBD2	601458
+12q15	{Inflammatory bowel disease 26}	2	612639	IBD26	612639
+13q13.3	{Inflammatory bowel disease 27}	2	612796	IBD27	612796
+14q11-q12	{Inflammatory bowel disease 4}	2	606675	IBD4	606675
+16p	{Inflammatory bowel disease 8}	2	606668	IBD8	606668
+16q12.1	{Inflammatory bowel disease (Crohn disease) 1}	3	266600	NOD2, CARD15, IBD1, CD, ACUG, PSORAS1	605956
+17q21.2	{Inflammatory bowel disease 22}	2	612380	IBD22	612380
+18p11	{Inflammatory bowel disease 21}	2	612354	IBD21	612354
+19p13	{Inflammatory bowel disease 6}	2	606674	IBD6	606674
+20q13	{Inflammatory bowel disease 24}	2	612566	IBD24	612566
+21q22.11	Inflammatory bowel disease 25, early onset, autosomal recessive	3	612567	CRFB4, IBD25	123889
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

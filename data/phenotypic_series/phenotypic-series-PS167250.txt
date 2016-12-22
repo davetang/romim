@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Paget disease of bone - PS167250 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q21.3	Paget disease of bone 6	3	616833	ZNF687, KIAA1441, PDB6	610568
+5q31	Paget disease of bone 4	2	606263	PDB4	606263
+5q35.3	Paget disease of bone 3	3	167250	SQSTM1, P62, PDB3, FTDALS3, NADGP, DMRV	601530
+8q24.12	Paget disease of bone 5, juvenile-onset	3	239000	TNFRSF11B, OPG, OCIF, PDB5	602643
+18q21.33	{Paget disease of bone 2, early-onset}	3	602080	TNFRSF11A, RANK, ODFR, FEO, OPTB7, PDB2	603499
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,36 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Amelogenesis imperfecta - PS104500 - 16 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q32.2	Amelogenesis imperfecta, type IA	3	104530	LAMB3, AI1A	150310
+2q24.2	Amelogenesis imperfecta, type IH	3	616221	ITGB6, AI1H	147558
+4q13.3	Amelogenesis imperfecta, type IF	3	616270	AMBN, AI1F	601259
+4q13.3	Amelogenesis imperfecta, type IB	3	104500	ENAM, AIH2, AI1C	606585
+4q13.3	Amelogenesis imperfecta, type IC	3	204650	ENAM, AIH2, AI1C	606585
+4q21.1	Amelogenesis imperfecta, type IIA4	3	614832	C4orf26, AI2A4	614829
+8q24.3	Amelogenesis imperfecta, type III	3	130900	FAM83H, AI3	611927
+11q22.2	Amelogenesis imperfecta, type IIA2	3	612529	MMP20, AI2A2	604629
+14q32.11	Amelogenesis imperfecta, hypomaturation type, IIA6	3	617217	GPR68, OGR1, AI2A6	601404
+14q32.12	Amelogenesis imperfecta, type IIA5	3	615887	SLC24A4, NCKX4, SHEP6, AI2A5	609840
+15q21.3	Amelogenesis imperfecta, type IIA3	3	613211	WDR72, AI2A3	613214
+17q21.33	Amelogenesis imperfecta, type IV	3	104510	DLX3, TDO, AI4	600525
+17q24.2	Amelogenesis imperfecta, type IG (enamel-renal syndrome)	3	204690	FAM20A, AIGFS, AI1G	611062
+19q13.41	Amelogenesis imperfecta, type IIA1	3	204700	KLK4, EMSP1, PRSS17, AI2A1	603767
+Xp22.2	Amelogenesis imperfecta, type 1E	3	301200	AMELX, AMG, AIH1, AMGX, AI1E	300391
+Xq22-q28	?Amelogenesis imperfecta, type IE, X-linked 2	2	301201	AI1E2, AIH3	301201
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,27 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Otosclerosis - PS166800 - 7 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3q22-q24	Otosclerosis 5	2	608787	OTSC5	608787
+6p22.3-p21.3	Otosclerosis 3	2	608244	OTSC3	608244
+6q13-q16.1	Otosclerosis 7	2	611572	OTSC7	611572
+7q34-q36	Otosclerosis 2	2	605727	OTSC2	605727
+9p13.1-q21.11	Otosclerosis 8	2	612096	OTSC8	612096
+15q26.1-qter	Otosclerosis 1	2	166800	OTSC1, OTS	166800
+16q22.1-q23.1	{Otosclerosis 4}	2	611571	OTSC4	611571
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,37 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Microcephaly, primary autosomal recessive - PS251200 - 17 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p34.2	Microcephaly 15, primary, autosomal recessive	3	616486	MFSD2A, MCPH15	614397
+1p33	Microcephaly 7, primary, autosomal recessive	3	612703	STIL, SIL, MCPH7	181590
+1p21.2	?Microcephaly 14, primary, autosomal recessive	3	616402	SASS6, SAS6, MCPH14	609321
+1q31.3	Microcephaly 5, primary, autosomal recessive	3	608716	ASPM, MCPH5	605481
+4q12	?Microcephaly 8, primary, autosomal recessive	3	614673	CEP135, KIAA0635, MCPH8	611423
+4q24	?Microcephaly 13, primary, autosomal recessive	3	616051	CENPE, MCPH13	117143
+7q21.2	?Microcephaly 12, primary, autosomal recessive	3	616080	CDK6, PLSTIRE, MCPH12	603368
+8p23.1	Microcephaly 1, primary, autosomal recessive	3	251200	MCPH1	607117
+9q33.2	Microcephaly 3, primary, autosomal recessive	3	604804	CDK5RAP2, KIAA1633, MCPH3	608201
+12p13.31	?Microcephaly 11, primary, autosomal recessive	3	615414	PHC1, EDR1, HPH1, RAE28, MCPH11	602978
+12q24.23	Microcephaly 17, primary, autosomal recessive	3	617090	CIT, STK21, CRIK, MCPH17	605629
+12q24.33	?Microcephaly 16, primary, autosomal recessive	3	616681	ANKLE2, LEM4, KIAA0692, MCPH16	616062
+13q12.12-q12.13	Microcephaly 6, primary, autosomal recessive	3	608393	CENPJ, CPAP, MCPH6, SCKL4	609279
+15q15.1	Microcephaly 4, primary, autosomal recessive	3	604321	CASC5, AF15Q14, KIAA1570, D40, MCPH4	609173
+15q21.1	Microcephaly 9, primary, autosomal recessive	3	614852	CEP152, KIAA0912, MCPH9, SCKL5	613529
+19q13.12	Microcephaly 2, primary, autosomal recessive, with or without cortical malformations	3	604317	WDR62, C19orf14, MCPH2	613583
+20q13.12	?Microcephaly 10, primary, autosomal recessive	3	615095	ZNF335, NIF1, NIF2, MCPH10	610827
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

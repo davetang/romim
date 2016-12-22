@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Photoparoxysmal response - PS132100 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+6p21.1	Photoparoxysmal response 1	2	132100	PPR1	132100
+7q32	Photoparoxysmal response 3	2	609573	PPR3	609573
+13q31.3	Photoparoxysmal response 2	2	609572	PPR2	609572
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

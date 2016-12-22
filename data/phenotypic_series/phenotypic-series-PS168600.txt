@@ -1,0 +1,51 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Parkinson disease - PS168600 - 31 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.23	Parkinson disease 7, autosomal recessive early-onset	3	606324	DJ1, PARK7	602533
+1p36.13	Kufor-Rakeb syndrome	3	606693	ATP13A2, PARK9, KRPPD, CLN12	610513
+1p36.13	?Ceroid lipofuscinosis, neuronal, 12	3	606693	ATP13A2, PARK9, KRPPD, CLN12	610513
+1p36.12	Parkinson disease 6, early onset	3	605909	PINK1, PARK6	608309
+1p32	{Parkinson disease 10}	2	606852	PARK10, AAOPD	606852
+1p31.3	Parkinson disease 19b, early-onset	3	615528	DNAJC6, DJC6, KIAA0473, PARK19	608375
+1p31.3	Parkinson disease 19a, juvenile-onset	3	615528	DNAJC6, DJC6, KIAA0473, PARK19	608375
+1q22	{Parkinson disease, late-onset, susceptibility to}	3	168600	GBA	606463
+1q32	{Parkinson disease 16}	2	613164	PARK16	613164
+2p13	{Parkinson disease 3}	2	602404	PARK3	602404
+2p13.1	{Parkinson disease 13}	3	610297	HTRA2, OMI, PARK13, PRSS25, MGCA8	606441
+2q37.1	{Parkinson disease 11}	3	607688	GIGYF2, KIAA0642, PARK11	612003
+3q22	Parkinson disease 21	2	616361	PARK21	616361
+3q27.1	{Parkinson disease 18}	3	614251	EIF4G1, EIF4G, PARK18	600495
+4p13	?{Parkinson disease 5, susceptibility to}	3	613643	UCHL1, PARK5, NDGOA	191342
+4q22.1	Parkinson disease 1	3	168601	SNCA, NACP, PARK1, PARK4	163890
+4q22.1	Parkinson disease 4	3	605543	SNCA, NACP, PARK1, PARK4	163890
+4q23	{Parkinson disease, susceptibility to}	3	168600	ADH1C, ADH3	103730
+6q26	Parkinson disease, juvenile, type 2	3	600116	PRKN, PARK2, PDJ, LPRS2	602544
+6q27	{Parkinson disease, susceptibility to}	3	168600	TBP, SCA17, HDL4	600075
+7p11.2	Parkinson disease 22, autosomal dominant	3	616710	CHCHD2, PARK22	616244
+12q12	{Parkinson disease 8}	3	607060	LRRK2, PARK8	609007
+12q24.12	{Parkinson disease, late-onset, susceptibility to}	3	168600	ATXN2, ATX2, SCA2, ASL13	601517
+15q22.2	Parkinson disease 23, autosomal recessive, early onset	3	616840	VPS13C, KIAA1421, PARK23	608879
+16q11.2	{Parkinson disease 17}	3	614203	VPS35, MEM3, PARK17	601501
+17q21.31	{Parkinson disease, susceptibility to}	3	168600	MAPT, MTBT1, DDPAC, MSTD	157140
+21q22.11	Parkinson disease 20, early-onset	3	615530	SYNJ1, PARK20	604297
+22q12.3	Parkinson disease 15, autosomal recessive	3	260300	FBXO7, FBX7, FBX, PKPS, PARK15	605648
+22q13.1	Parkinson disease 14, autosomal recessive	3	612953	PLA2G6, IPLA2, INAD1, NBIA2B, NBIA2A, PARK14	603604
+Xq21-q25	{Parkinson disease 12}	2	300557	PARK12	300557
+Xq24	{Parkinson disease, age of onset, modifier}	3	168600	GLUD2	300144
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Miyoshi muscular dystrophy - PS254130 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p13.2	Miyoshi muscular dystrophy 1	3	254130	DYSF, LGMD2B, MMD1	603009
+8q22.3	Miyoshi muscular dystrophy 2	2	613318	MMD2	613318
+11p14.3	Miyoshi muscular dystrophy 3	3	613319	ANO5, TMEM16E, GDD1, LGMD2L	608662
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

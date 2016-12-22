@@ -1,0 +1,30 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Focal segmental glomerulosclerosis - PS603278 - 10 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+6p12.3	Glomerulosclerosis, focal segmental, 3	3	607832	CD2AP, CMS	604241
+7p14.2	Focal segmental glomerulosclerosis 8	3	616032	ANLN, FSFS8	616027
+9q33.3	Focal segmental glomerulosclerosis 9	3	616220	CRB2, FSGS9, VMCKD	609720
+10q24.31	Glomerulosclerosis, focal segmental, 7	3	616002	PAX2, PAPRS, FSGS7	167409
+11q22.1	Glomerulosclerosis, focal segmental, 2	3	603965	TRPC6, TRP6, FSGS2	603652
+14q32.33	Glomerulosclerosis, focal segmental, 5	3	613237	INF2, FSGS5, C14orf173, CMTDIE	610982
+15q22.2	Glomerulosclerosis, focal segmental, 6	3	614131	MYO1E, MYO1C, FSGS6	601479
+19q13.2	Glomerulosclerosis, focal segmental, 1	3	603278	ACTN4, FSGS1, FSGS	604638
+22q12.3	{Glomerulosclerosis, focal segmental, 4, susceptibility to}	3	612551	APOL1, FSGS4	603743
+22q12.3	{End-stage renal disease, nondiabetic, susceptibility to}	3	612551	APOL1, FSGS4	603743
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

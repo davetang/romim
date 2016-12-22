@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Kala-azar, susceptibility to - PS608207 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p22	{Kala-azar, susceptibility to, 2}	2	611381	KAZA2	611381
+6q27	{Kala-azar, susceptibility to, 3}	2	611382	KAZA3	611382
+22q12	{Kala-azar, susceptibility to, 1}	2	608207	KAZA1	608207
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,52 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Amyotrophic lateral sclerosis - PS105400 - 32 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.22	Frontotemporal lobar degeneration, TARDBP-related	3	612069	TARDBP, TDP43, ALS10	605078
+1p36.22	Amyotrophic lateral sclerosis 10, with or without FTD	3	612069	TARDBP, TDP43, ALS10	605078
+2p13.1	{Amyotrophic lateral sclerosis, susceptibility to}	3	105400	DCTN1, HMN7B	601143
+2q33.1	Amyotrophic lateral sclerosis 2, juvenile	3	205100	ALS2, ALSJ, PLSJ, IAHSP	606352
+2q34	Amyotrophic lateral sclerosis 19	3	615515	ERBB4, HER4, ALS19	600543
+2q35	Amyotrophic lateral sclerosis 22 with or without frontotemoral dementia	3	616208	TUBA4A, TUBA1, ALS22	191110
+3p11.2	Amyotrophic lateral sclerosis 17	3	614696	CHMP2B, DMT1, VPS2B, ALS17	609512
+5q31.2	Amyotrophic lateral sclerosis 21	3	606070	MATR3, MPD2, ALS21	164015
+5q35.3	Frontotemporal dementia and/or amyotrophic lateral sclerosis 3	3	616437	SQSTM1, P62, PDB3, FTDALS3, NADGP, DMRV	601530
+6q21	Amyotrophic lateral sclerosis 11	3	612577	FIG4, KIAA0274, SAC3, ALS11, YVS, BTOP	609390
+9p21.2	Frontotemporal dementia and/or amyotrophic lateral sclerosis 1	3	105550	C9orf72, FTDALS1, FTDALS, ALSFTD	614260
+9p13.3	?Amyotrophic lateral sclerosis 16, juvenile	3	614373	SIGMAR1, SRBP, ALS16, DSMA2	601978
+9p13.3	Amyotrophic lateral sclerosis 14, with or without frontotemporal dementia	3	613954	VCP, IBMPFD1, ALS14, CMT2Y	601023
+9q34.13	Amyotrophic lateral sclerosis 4, juvenile	3	602433	SETX, SCAR1, AOA2, ALS4	608465
+10p13	Amyotrophic lateral sclerosis 12	3	613435	OPTN, GLC1E, FIP2, HYPL, NRP, ALS12	602432
+12q13.12	{Amyotrophic lateral sclerosis, susceptibility to}	3	105400	PRPH	170710
+12q13.13	Amyotrophic lateral sclerosis 20	3	615426	HNRNPA1, IBMPFD3, ALS20	164017
+12q14.2	Frontotemporal dementia and/or amyotrophic lateral sclerosis 4	3	616439	TBK1, NAK, FTDALS4	604834
+12q24.12	Spinocerebellar ataxia 2	3	183090	ATXN2, ATX2, SCA2, ASL13	601517
+12q24.12	{Amyotrophic lateral sclerosis, susceptibility to, 13}	3	183090	ATXN2, ATX2, SCA2, ASL13	601517
+14q11.2	Amyotrophic lateral sclerosis 9	3	611895	ANG, RNASE5, ALS9	105850
+15q21.1	Amyotrophic lateral sclerosis 5, juvenile	3	602099	SPG11, KIAA1840, FLJ21439, ALS5, CMT2X	610844
+16p11.2	Amyotrophic lateral sclerosis 6, with or without frontotemporal dementia	3	608030	FUS, TLS, ALS6, ETM4	137070
+17p13.2	Amyotrophic lateral sclerosis 18	3	614808	PFN1, ALS18	176610
+18q21	Amyotrophic lateral sclerosis 3	2	606640	ALS3	606640
+20p13	Amyotrophic lateral sclerosis 7	2	608031	ALS7	608031
+20q13.32	Amyotrophic lateral sclerosis 8	3	608627	VAPB, VAPC, ALS8	605704
+21q22.11	Amyotrophic lateral sclerosis 1	3	105400	SOD1, ALS1	147450
+22q11.23	Frontotemporal dementia and/or amyotrophic lateral sclerosis 2	3	615911	CHCHD10, FTDALS2, SMAJ, IMMD	615903
+22q12.2	?{Amyotrophic lateral sclerosis, susceptibility to}	3	105400	NEFH, CMT2CC	162230
+Xp11.21	Amyotrophic lateral sclerosis 15, with or without frontotemporal dementia	3	300857	UBQLN2, PLIC2, CHAP1, ALS15	300264
+Not Mapped	Amyotrophic lateral sclerosis, juvenile, with dementia		205200	ALSDC	205200
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

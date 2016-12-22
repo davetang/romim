@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Biliary cirrhosis, primary - PS109720 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p31.2	{Biliary cirrhosis, primary, 3}	2	613008	PBC3	613008
+3p12-q13.2	Biliary cirrhosis, primary, 1	2	109720	PBC1	109720
+6p21.3	{Biliary cirrhosis, primary, 2}	2	613007	PBC2	613007
+7q32	Biliary cirrhosis, primary, 4	2	614220	PBC4	614220
+17q12	Biliary cirrhosis, primary, 5	2	614221	PBC5	614221
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

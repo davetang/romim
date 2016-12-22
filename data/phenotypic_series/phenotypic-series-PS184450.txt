@@ -1,0 +1,24 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Stuttering, familial persistent - PS184450 - 4 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3q13.2-q13.33	Stuttering, familial persistent, 3	2	614655	STUT3	614655
+12q24.1	Stuttering, familial persistent, 2	2	609261	STUT2	609261
+15q21.2	Stuttering, familial persistent, 1	3	184450	AP4E1, SPG51, CPSQ4, STUT1	607244
+16q12.1-q23.1	Stuttering, familial persistent, 4	2	614668	STUT4	614668
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

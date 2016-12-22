@@ -1,0 +1,39 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Fanconi anemia - PS227650 - 19 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.22	?Fanconi anemia, complementation group V	3	617243	MAD2L2, MAD2B, FANCV	604094
+1q32.1	Fanconi anemia, complementation group T	3	616435	UBE2T, HSPC150, FANCT	610538
+2p16.1	Fanconi anemia, complementation group L	3	614083	PHF9, FANCL	608111
+3p25.3	Fanconi anemia, complementation group D2	3	227646	FANCD2, FANCD, FACD, FAD	613984
+6p21.31	Fanconi anemia, complementation group E	3	600901	FANCE, FACE	613976
+7q36.1	?Fanconi anemia, complementation group U	3	617247	XRCC2, FANCU	600375
+9p13.3	Fanconi anemia, complementation group G	3	614082	XRCC9, FANCG	602956
+9q22.32	Fanconi anemia, complementation group C	3	227645	FANCC, FACC	613899
+11p14.3	Fanconi anemia, complementation group F	3	603467	FANCF	613897
+13q13.1	Fanconi anemia, complementation group D1	3	605724	BRCA2, FANCD1, BROVCA2, GLM3, PNCA2	600185
+15q15.1	?Fanconi anemia, complementation group R	3	617244	RAD51A, RECA, MRMV2, FANCR	179617
+15q26.1	Fanconi anemia, complementation group I	3	609053	FANCI, KIAA1794	611360
+16p13.3	Fanconi anemia, complementation group P	3	613951	SLX4, BTBD12, MUS312, KIAA1784, KIAA1987, FANCP	613278
+16p13.12	Fanconi anemia, complementation group Q	3	615272	ERCC4, XPF, FANCQ, XFEPS	133520
+16p12.2	Fanconi anemia, complementation group N	3	610832	PALB2, FANCN, PNCA3	610355
+16q24.3	Fanconi anemia, complementation group A	3	227650	FANCA, FACA, FA1, FA, FAA	607139
+17q22	Fanconi anemia, complementation group O	3	613390	RAD51C, FANCO, BROVCA3	602774
+17q23.2	Fanconi anemia, complementation group J	3	609054	BRIP1, BACH1, FANCJ	605882
+Xp22.2	Fanconi anemia, complementation group B	3	300514	FAAP95, FAAP90, FLJ34064, FANCB	300515
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

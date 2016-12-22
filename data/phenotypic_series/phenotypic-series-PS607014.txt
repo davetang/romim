@@ -1,0 +1,32 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Mucopolysaccharidoses - PS607014 - 12 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3p22.3	Mucopolysaccharidosis type IVB (Morquio)	3	253010	GLB1, MPS4B	611458
+3p21.31	?Mucopolysaccharidosis type IX	3	601492	HYAL1, MPS9	607071
+4p16.3	Mucopolysaccharidosis Ih/s	3	607015	IDUA, IDA	252800
+4p16.3	Mucopolysaccharidosis Ih	3	607014	IDUA, IDA	252800
+4p16.3	Mucopolysaccharidosis Is	3	607016	IDUA, IDA	252800
+5q14.1	Mucopolysaccharidosis type VI (Maroteaux-Lamy)	3	253200	ARSB, MPS6	611542
+7q11.21	Mucopolysaccharidosis VII	3	253220	GUSB, MPS7	611499
+8p11.2-p11.1	Mucopolysaccharidosis type IIIC (Sanfilippo C)	3	252930	HGSNAT, TMEM76, MPS3C, RP73	610453
+16q24.3	Mucopolysaccharidosis IVA	3	253000	GALNS, MPS4A	612222
+17q21.2	Mucopolysaccharidosis type IIIB (Sanfilippo B)	3	252920	NAGLU, MPS3B, CMT2V	609701
+17q25.3	Mucopolysaccharidosis type IIIA (Sanfilippo A)	3	252900	SGSH, MPS3A, SFMD	605270
+Xq28	Mucopolysaccharidosis II	3	309900	IDS, MPS2, SIDS	300823
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

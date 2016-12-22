@@ -1,0 +1,42 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Spermatogenic failure - PS258150 - 22 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+Chr.1	Spermatogenic failure 2	2	108420	SPGF2, ASG	108420
+3q26.31	?Spermatogenic failure 6	3	102530	SPATA16, SPGF6	609856
+6p21.31	Spermatogenic failure 3	3	606766	SLC26A8, TAT1, SPGF3	608480
+9q33.3	Spermatogenic failure 8	3	613957	NR5A1, FTZF1, FTZ1, SF1, AD4BP, POF7, SRXY3, SPGF8	184757
+10q26.11	Spermatogenic failure 12	3	615413	NANOS1, NOS1, SPGF12	608226
+10q26.3	?Spermatogenic failure 15	3	616950	SYCE1, POF12, SPGF15	611486
+11q13.1	Spermatogenic failure 7	3	612997	CATSPER1, CATSPER, SPGF7	606389
+12p12.3	?Spermatogenic failure 17	3	617214	PLCZ1, SPGF17	608075
+12q14.2	Spermatogenic failure 9	3	613958	DPY19L2, SPGF9	613893
+12q23.2	Spermatogenic failure 4	3	270960	SYCP3, SCP3, COR1, SPGF4, RPRGL4	604759
+12q23.2	Pregnancy loss, recurrent, 4	3	270960	SYCP3, SCP3, COR1, SPGF4, RPRGL4	604759
+16p13.3	Spermatogenic failure 10	3	614822	SEPT12, SPGF10	611562
+17p13.2	?Spermatogenic failure 14	3	615842	ZMYND15, SPGF14	614312
+17q21.2	Spermatogenic failure 11	3	615081	KLHL10, SPGF11	608778
+18q11.2	?Spermatogenic failure 13	3	615841	TAF4B, TAF2C2, TAFII105, SPGF13	601689
+19q13.43	Spermatogenic failure 5	3	243060	AURKC, STK13, AIE2, SPGF5	603495
+20q11.21	Spermatogenic failure 16	3	617187	SUN5, TSARG4, SPAG4L, SPGF16	613942
+Xq13.1	Spermatogenic failure, X-linked, 2	3	309120	TEX11, SPGFX2	300311
+Yq11	Spermatogenic failure, Y-linked, 1	4	400042	DELYq11, CYDELq11, SPGFY1	400042
+Yq11.221	Spermatogenic failure, Y-linked, 2	3	415000	USP9Y, DFFRY, SPGFY2	400005
+Not Mapped	Spermatogenic failure 1		258150	SPGF1	258150
+Not Mapped	Spermatogenic failure, X-linked, 1		305700	SPGFX1	305700
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,30 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Hermansky-Pudlak syndrome - PS203300 - 10 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3q24	Hermansky-Pudlak syndrome 3	3	614072	HPS3	606118
+5q14.1	Hermansky-Pudlak syndrome 2	3	608233	AP3B1, ADTB3A, HPS2	603401
+6p22.3	Hermansky-Pudlak syndrome 7	3	614076	DTNBP1, HPS7	607145
+10q24.2	Hermansky-Pudlak syndrome 1	3	203300	HPS1	604982
+10q24.32	Hermansky-Pudlak syndrome 6	3	614075	HPS6, RU	607522
+11p15.1	Hermansky-Pudlak syndrome 5	3	614074	HPS5, RU2, KIAA1017	607521
+15q21.1	Hermansky-pudlak syndrome 9	3	614171	BLOC1S6, BLOS6, PLDN, PA, HPS9	604310
+19p13.3	?Hermansky-Pudlak syndrome 10	3	617050	AP3D1, HPS10	607246
+19q13.32	Hermansky-Pudlak syndrome 8	3	614077	BLOC1S3, BLOS3, HPS8	609762
+22q12.1	Hermansky-Pudlak syndrome 4	3	614073	HPS4	606682
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

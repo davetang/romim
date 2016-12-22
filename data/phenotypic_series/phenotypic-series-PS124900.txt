@@ -1,0 +1,74 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Deafness, autosomal dominant - PS124900 - 54 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p34.3	Deafness, autosomal dominant 2B	3	612644	GJB3, CX31, DFNA2B	603324
+1p34.2	Deafness, autosomal dominant 2A	3	600101	KCNQ4, DFNA2A	603537
+1q21-q23	Deafness, autosomal dominant 49	2	608372	DFNA49	608372
+1q21-q23	Deafness, autosomal dominant 7	2	601412	DFNA7	601412
+2p21-p12	Deafness, autosomal dominant 58	2	615654	DFNA58	615654
+2p12	Deafness, autosomal dominant 43	2	608394	DFNA43	608394
+2q23-q24.3	Deafness, autosomal dominant 16	2	603964	DFNA16	603964
+3q21.3	?Deafness, autosomal dominant 70	3	616968	MCM2, CDCL1, DFNA70	116945
+3q22	Deafness, autosomal dominant 18	2	606012	DFNA18	606012
+3q28	?Deafness, autosomal dominant 44	3	607453	CCDC50, C3orf6, DFNA44	611051
+4p16.1	Deafness, autosomal dominant 6/14/38	3	600965	WFS1, WFRS, WFS, DFNA6, DFNA14, DFNA38, WFSL, CTRCT41	606201
+4q12-q13.1	Deafness, autosomal dominant 27	2	612431	DFNA27	612431
+4q35-qter	Deafness, autosomal dominant 24	2	606282	DFNA24	606282
+5q31.1-q32	Deafness, autosomal dominant 52	2	607683	DFNA52, DFNA42	607683
+5q31	Deafness, autosomal dominant 54	2	615649	DFNA54	615649
+5q31.3	Deafness, autosomal dominant 1	3	124900	DIAPH1, DFNA1, LFHL1, SCBMS	602121
+5q32	Deafness, autosomal dominant 15	3	602459	POU4F3, BRN3C	602460
+6p24.1-p22.3	Deafness, autosomal dominant 21	2	607017	DFNA21	607017
+6p21.3	Deafness, autosomal dominant 31	2	608645	DFNA31	608645
+6p21.32	Deafness, autosomal dominant 13	3	601868	COL11A2, STL3, DFNA13, DFNB53, FBCG2	120290
+6q14.1	Deafness, autosomal dominant 22, with hypertrophic cardiomyopathy	3	606346	MYO6, DFNA22, DFNB37	600970
+6q14.1	Deafness, autosomal dominant 22	3	606346	MYO6, DFNA22, DFNB37	600970
+6q21	?Deafness, autosomal dominant 66	3	616969	CD164, DFNA66	603356
+6q23.2	Deafness, autosomal dominant 10	3	601316	EYA4, DFNA10, CMD1J	603550
+7p15.3	Deafness, autosomal dominant 5	3	600994	DFNA5	608798
+7q32.2	Deafness, autosomal dominant 50	3	613074	MIR96, MIRN96, DFNA50	611606
+8q22.3	Deafness, autosomal dominant 28	3	608641	GRHL2, TFCP2L3, DFNA28, ECTDS	608576
+9p22-p21	Deafness, autosomal dominant 47	2	608652	DFNA47, DFNB83	608652
+9q21.11	Deafness, autosomal dominant 51	4	613558	DFNA51, C9DUPq21.11, DUP9q21.11	613558
+9q21.13	Deafness, autosomal dominant 36	3	606705	TMC1, DFNB7, DFNB11, DFNA36	606706
+9q33.1	Deafness, autosomal dominant 56	3	615629	TNC, HXB, DFNA56	187380
+11p14.2-q12.3	Deafness, autosomal dominant 59	2	612642	DFNA59	612642
+11q13.5	Deafness, autosomal dominant 11	3	601317	MYO7A, USH1B, DFNB2, DFNA11	276903
+11q23.3	Deafness, autosomal dominant 8/12	3	601543	TECTA, DFNA8, DFNA12, DFNB21	602574
+12q13-q14	Deafness, autosomal dominant 48	2	607841	DFNA48	607841
+12q21.32	Deafness, autosomal dominant 69, unilateral or asymmetric	3	616697	KITLG, MGF, SF, SCF, SHEP7, FPHH, DCUA, DFNA69	184745
+12q23.1	Deafness, autosomal dominant 25	3	605583	SLC17A8, VGLUT3, DFNA25	607557
+12q24.31	Deafness, autosomal dominant 64	3	614152	SMAC, DIABLO, DFNA64	605219
+12q24.33	Deafness, autosomal dominant 41	3	608224	P2RX2, P2X2, DFNA41	600844
+13q12.11	Deafness, autosomal dominant 3A	3	601544	GJB2, CX26, DFNB1A, PPK, DFNA3A, KID, HID	121011
+13q12.11	Deafness, autosomal dominant 3B	3	612643	GJB6, CX30, DFNA3B, DFNB1B, ECTD2, HED2	604418
+13q34	Deafness, autosomal dominant 33	2	614211	DFNA33	614211
+14q11.2-q12	Deafness, autosomal dominant 53	2	609965	DFNA53	609965
+14q12	Deafness, autosomal dominant 9	3	601369	COCH, DFNA9	603196
+14q23.1	Deafness, autosomal dominant 23	3	605192	SIX1, BOS3, DFNA23	601205
+15q25-q26	Deafness, autosomal dominant 30	2	606451	DFNA30	606451
+15q25.2	?Deafness, autosomal dominant 68	3	616707	HOMER2, HOMER2B, HOMER2A, DFNA68	604799
+16p13.3	Deafness, autosomal dominant 65	3	616044	TBC1D24, KIAA1171, FIME, EIEE16, DOORS, DFNB86, DFNA65	613577
+16p12.2	Deafness, autosomal dominant 40	3	616357	CRYM, DFNA40	123740
+17q25.3	Deafness, autosomal dominant 20/26	3	604717	ACTG1, DFNA20, DFNA26, BRWS2	102560
+19q13.31-q13.32	Deafness, autosomal dominant 4B	3	614614	CEACAM16, CEAL2, DFNA4B	614591
+19q13.33	Deafness, autosomal dominant 4A	3	600652	MYH14, KIAA2034, DFNA4A, PNMHH	608568
+20q13.33	Deafness, autosomal dominant 67	3	616340	OSBPL2, ORP2, KIAA0772, DNFA67	606731
+22q12.3	Deafness, autosomal dominant 17	3	603622	MYH9, MHA, FTNS, DFNA17, BDPLT6	160775
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

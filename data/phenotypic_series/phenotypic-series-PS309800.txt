@@ -1,0 +1,37 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Microphthalmia, syndromic - PS309800 - 17 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3p24.2	Microphthalmia, syndromic 12	3	615524	RARB, HAP, MCOPS12	180220
+3q26.33	Optic nerve hypoplasia and abnormalities of the central nervous system	3	206900	SOX2, MCOPS3	184429
+3q26.33	Microphthalmia, syndromic 3	3	206900	SOX2, MCOPS3	184429
+4q31.3	Microphthalmia, syndromic 14	3	615877	MAB21L2, MCOPS14	604357
+6q21	Microphthalmia, syndromic 8	2	601349	MCOPS8, MMEP	601349
+10q25.3	?Microphthalmia, syndromic 11	3	614402	VAX1, MCOPS11	604294
+14q22.2	Microphthalmia, syndromic 6	3	607932	BMP4, BMP2B1, BMP2B, MCOPS6, OFC11	112262
+14q22.3	Retinal dystrophy, early-onset, with or without pituitary dysfunction	3	610125	OTX2, MCOPS5, CPHD6	600037
+14q22.3	Microphthalmia, syndromic 5	3	610125	OTX2, MCOPS5, CPHD6	600037
+15q24.1	Microphthalmia, syndromic 9	3	601186	STRA6, MCOPS9, MCOPCB8	610745
+15q24.1	Microphthalmia, isolated, with coloboma 8	3	601186	STRA6, MCOPS9, MCOPCB8	610745
+Xp22.2	Linear skin defects with multiple congenital anomalies 1	3	309801	HCCS, MCOPS7, LSDMCA1	300056
+Xp11.4	Microphthalmia, syndromic 2	3	300166	BCOR, KIAA1575, MCOPS2, MAA2, ANOP2	300485
+Xq27-q28	?Microphthalmia, syndromic 4	2	301590	MCOPS4, ANOP1	301590
+Xq28	?Microphthalmia, syndromic 13	3	300915	HMGB3, HMG4, HMG2A, MCOPS13	300193
+Xq28	?Microphthalmia, syndromic 1	3	309800	NAA10, ARD1A, ARD1, TE2, NATD, OGDNS, MCOPS1	300013
+Not Mapped	Microphthalmia, syndromic 10		611222	MCOPS10, MOBA	611222
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

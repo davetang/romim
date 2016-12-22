@@ -1,0 +1,27 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Microvascular complications of diabetes - PS603933 - 7 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2q14.1	{Microvascular complications of diabetes 4}	3	612628	IL1RN, MVCD4, DIRA	147679
+6p22.2	{Microvascular complications of diabetes 7}	3	612635	HFE, HLA-H, HFE1, MVCD7, TFQTL2	613609
+6p21.1	{Microvascular complications of diabetes 1}	3	603933	VEGF, MVCD1	192240
+6q25.3	{Microvascular complications of diabetes 6}	3	612634	SOD2, MNSOD, MVCD6	147460
+7q21.3	{Microvascular complications of diabetes 5}	3	612633	PON1, PON, ESA, MVCD5	168820
+7q22.1	{Microvascular complications of diabetes 2}	3	612623	EPO, MVCD2	133170
+17q23.3	{Microvascular complications of diabetes 3}	3	612624	ACE, DCP1, ACE1, MVCD3, ICH	106180
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

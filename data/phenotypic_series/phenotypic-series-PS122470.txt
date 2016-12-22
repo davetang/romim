@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Cornelia de Lange syndrome - PS122470 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+5p13.2	Cornelia de Lange syndrome 1	3	122470	NIPBL, CDLS1	608667
+8q24.11	Cornelia de Lange syndrome 4	3	614701	RAD21, SCC1, NXP1, KIAA0078, CDLS4	606462
+10q25.2	Cornelia de Lange syndrome 3	3	610759	SMC3, CSPG6, HCAP, BAM, CDLS3	606062
+Xp11.22	Cornelia de Lange syndrome 2	3	300590	DXS423E, SMC1, CDLS2	300040
+Xq13.1	Cornelia de Lange syndrome 5	3	300882	HDAC8, MRXS6, CDLS5	300269
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

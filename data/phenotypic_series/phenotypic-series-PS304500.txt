@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Deafness, X-linked - PS304500 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+Xp22.12	Deafness, X-linked 4	3	300066	SMPX, DFNX4	300226
+Xp21.2	Deafness, X-linked 3	2	300030	DFNX3, DFN4	300030
+Xq21.1	Deafness, X-linked 2	3	304400	POU3F4, DFN3, DFNX2	300039
+Xq22.3	Deafness, X-linked 1	3	304500	PRPS1, CMTX5, DFNX1, DFN2	311850
+Xq22.3	?Deafness, X-linked 6	3	300914	COL4A6, DELXq22.3, CXDELq22.3, DFNX6	303631
+Xq26.1	Deafness, X-linked 5	3	300614	AIFM1, PDCD8, AIF, COXPD6, COWCK, CMTX4, DFNX5	300169
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Moyamoya disease - PS252350 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3p26-p24.2	Moyamoya disease	2	252350	MYMY1, MYMY	252350
+4q32.1	Moyamoya 6 with achalasia	3	615750	GUCY1A3, GUC1A3, GUCSA3, MYMY6	139396
+8q23	Moyamoya disease 3	2	608796	MYMY3	608796
+10q23.31	Moyamoya disease 5	3	614042	ACTA2, ACTSA, AAT6, MYMY5	102620
+17q25.3	{Moyamoya disease 2, susceptibility to}	3	607151	RNF213, ALO17, KIAA1618, MYMY2	613768
+Xq28	Moyamoya disease 4	4	300845	MYMY4, CXDELq38	300845
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

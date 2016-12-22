@@ -1,0 +1,44 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Hypogonadotropic hypogonadism with or without anosmia - PS147950 - 24 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q32.1	?Hypogonadotropic hypogonadism 13 with or without anosmia	3	614842	KISS1, HH13	603286
+2q14.3	{Hypogonadotropic hypogonadism 15 with or without anosmia}	3	614880	HS6ST1, HS6ST, HH15	604846
+3p14.3	Hypogonadotropic hypogonadism 18 with or without anosmia	3	615267	IL17RD, SEF, HH18	606807
+3p13	Hypogonadotropic hypogonadism 4 with or without anosmia	3	610628	PROK2, PK2, BV8, HH4	607002
+4q13.2	Hypogonadotropic hypogonadism 7 without anosmia	3	146110	GNRHR, LHRHR, HH7	138850
+4q24	Hypogonadotropic hypogonadism 11 with or without anosmia	3	614840	TACR3, NK3R, HH11	162332
+5q31.3	Hypogonadotropic hypogonadism 17 with or without anosmia	3	615266	SPRY4, HH17	607984
+7q21.11	{Hypogonadotropic hypogonadism 16 with or without anosmia}	3	614897	SEMA3A, SEMAD, COLL1, HH16	603961
+7q31.32	Hypogonadotropic hypogonadism 22, with or without anosmia	3	616030	FEZF1, FEZ, ZNF312B, HH22	613301
+8p21.3	Hypogonadotropic hypogonadism 20 with or without anosmia	3	615270	FGF17, HH20	603725
+8p21.2	?Hypogonadotropic hypogonadism 12 with or without anosmia	3	614841	GNRH1, LNRH, HH12	152760
+8p11.23	Hypogonadotropic hypogonadism 2 with or without anosmia	3	147950	FGFR1, FLT2, OGD, KAL2, HH2, HRTFDS, ECCL	136350
+8q12.2	Hypogonadotropic hypogonadism 5 with or without anosmia	3	612370	CHD7, HH5	608892
+9q34.3	Hypogonadotropic hypogonadism 9 with or without anosmia	3	614838	NSMF, NELF, HH9	608137
+10q24.32	Hypogonadotropic hypogonadism 6 with or without anosmia	3	612702	FGF8, HH6	600483
+10q26.12	Hypogonadotropic hypogonadism 14 with or without anosmia	3	614858	WDR11, DR11, KIAA1351, BRWD2, HH14	606417
+11p14.1	Hypogonadotropic hypogonadism 24 without anosmia	3	229070	FSHB, HH24	136530
+12q13.3	Hypogonadotropic hypogonadism 10 with or without anosmia	3	614839	TAC3, NKNB, HH10	162330
+12q21.33	Hypogonadotropic hypogonadism 19 with or without anosmia	3	615269	DUSP6, MKP3, PYST1, HH19	602748
+19p13.3	Hypogonadotropic hypogonadism 8 with or without anosmia	3	614837	KISS1R, GPR54, HH8, CPPB1	604161
+19q13.33	Hypogonadotropic hypogonadism 23 with or without anosmia	3	228300	LHB, HH23	152780
+20p12.3	Hypogonadotropic hypogonadism 3 with or without anosmia	3	244200	PROKR2, PKR2, GPR73L1, HH3	607123
+20p12.1	Hypogonadotropic hypogonadism 21 with anosmia	3	615271	FLRT3, HH21	604808
+Xp22.31	Hypogonadotropic hypogonadism 1 with or without anosmia (Kallmann syndrome 1)	3	308700	KAL1, KMS, ADMLX, HH1	300836
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

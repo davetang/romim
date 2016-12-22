@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Corneal dystrophy, Fuchs endothelial - PS136800 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p34.3	Corneal dystrophy, Fuchs endothelial, 1	3	136800	COL8A2, FECD1, PPCD2	120252
+5q33.1-q35.2	Corneal dystrophy, Fuchs endothelial, 5	2	613269	FECD5, FCD3	613269
+9p24.1-p22.1	Corneal dystrophy, Fuchs endothelial, 7	2	613271	FECD7, FCD4	613271
+10p11.22	Corneal dystrophy, Fuchs endothelial, 6	3	613270	ZEB1, TCF8, NIL2A, PPCD3, FECD6	189909
+13pter-q12.13	Corneal dystrophy, Fuchs endothelial, 2	2	610158	FECD2, FCD1	610158
+15q25.3	Corneal dystrophy, Fuchs endothelial, 8	3	615523	AGBL1, CCP4, FECD8	615496
+18q21.2	Corneal dystrophy, Fuchs endothelial, 3	3	613267	TCF4, SEF2, ITF2, PTHS, FECD3	602272
+20p13	Corneal dystrophy, Fuchs endothelial, 4	3	613268	SLC4A11, BTR1, NABC1, CHED, CDPD, FECD4	610206
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Emery-Dreifuss muscular dystrophy - PS310300 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q22	Emery-Dreifuss muscular dystrophy 3, AR	3	616516	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	150330
+1q22	Emery-Dreifuss muscular dystrophy 2, AD	3	181350	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	150330
+3p25.1	Emery-Dreifuss muscular dystrophy 7, AD	3	614302	TMEM43, ARVD5, ARVC5, EDMD7	612048
+6q25.2	Emery-Dreifuss muscular dystrophy 4, autosomal dominant	3	612998	SYNE1, KIAA0796, KIAA1756, KIAA1262, SCAR8, EDMD4	608441
+14q23.2	Emery-Dreifuss muscular dystrophy 5, autosomal dominant	3	612999	SYNE2, NUANCE, KIAA1011, EDMD5	608442
+Xq26.3	Myopathy, X-linked, with postural muscle atrophy	3	300696	FHL1, SLIM1, XMPMA, KYOT, FHL1A, FHL1B, RBMX1A, RBMX1B	300163
+Xq26.3	Emery-Dreifuss muscular dystrophy 6, X-linked	3	300696	FHL1, SLIM1, XMPMA, KYOT, FHL1A, FHL1B, RBMX1A, RBMX1B	300163
+Xq28	Emery-Dreifuss muscular dystrophy 1, X-linked	3	310300	EMD, EDMD, STA	300384
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

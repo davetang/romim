@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Senior-Loken syndrome - PS266900 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.31	Senior-Loken syndrome 4	3	606996	NPHP4, SLSN4	607215
+1q43-q44	Senior-Loken syndrome 7	3	613615	SDCCAG8, CCCAP, SLSN7, BBS16	613524
+2q13	Senior-Loken syndrome-1	3	266900	NPHP1, NPH1, SLSN1, JBTS4	607100
+2q37.3	Senior-Loken syndrome 9	3	616629	TRAF3IP1, MIPT3, SLSN9	607380
+3q13.33	Senior-Loken syndrome 5	3	609254	IQCB1, NPHP5, KIAA0036	609237
+3q22	Senior-Loken syndrome 3	2	606995	SLSN3	606995
+4p14	Senior-Loken syndrome 8	3	616307	WDR19, SRTD5, ATD5, NPHP13, CED4	608151
+12q21.32	Senior-Loken syndrome 6	3	610189	CEP290, KIAA0373, 3H11AG, JBTS5, SLSN6, LCA10, BBS14	610142
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

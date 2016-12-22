@@ -1,0 +1,24 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Nanophthalmos - PS600165 - 4 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2q11-q14	Nanophthalmos 3	2	611897	NNO3	611897
+11p	Nanophthalmos-1	2	600165	NNO1	600165
+11q23.3	Nanophthalmos 2	3	609549	MFRP, MCOP5, NNO2	606227
+17q11.2	Nanophthalmos 4	3	615972	TMEM98, NNO4	615949
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

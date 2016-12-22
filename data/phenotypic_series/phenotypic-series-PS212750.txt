@@ -1,0 +1,35 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Celiac disease - PS212750 - 15 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q31	{Celiac disease, susceptibility to, 7}	2	612005	CELIAC7	612005
+2q11-q12	{Celiac disease, susceptibility to, 8}	2	612006	CELIAC8	612006
+2q33.2	{Celiac disease, susceptibility to, 3}	3	609755	CTLA4, IDDM12, CELIAC3, ALPS5	123890
+3p21	{Celiac disease, susceptibility to, 9}	2	612007	CELIAC9	612007
+3q25-q26	{Celiac disease, susceptibility to, 10}	2	612008	CELIAC10	612008
+3q28	{Celiac disease, susceptibility to, 11}	2	612009	CELIAC11	612009
+4q27	{Celiac disease, susceptibility to, 6}	2	611598	CELIAC6, AIS5	611598
+4q27	{Autoimmune disease, susceptibility to, 5}	2	611598	CELIAC6, AIS5	611598
+5q31-q33	{Celiac disease, susceptibility to, 2}	2	609754	CELIAC2	609754
+6p21.32	{Celiac disease, susceptibility to}	3	212750	HLA-DQA1, CELIAC1	146880
+6p21.32	{Celiac disease, susceptibility to}	3	212750	HLA-DQB1, CELIAC1	604305
+6q25.3	{Celiac disease, susceptibility to, 12}	2	612010	CELIAC12	612010
+12q24	{Celiac disease, susceptibility to, 13}	2	612011	CELIAC13	612011
+15q11-q13	{Celiac disease, susceptibility to, 5}	2	607202	CELIAC5, GSES	607202
+19p13.11	{Celiac disease, susceptibility to, 4}	3	609753	MYO9B, MYR5, CELIAC4	602129
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

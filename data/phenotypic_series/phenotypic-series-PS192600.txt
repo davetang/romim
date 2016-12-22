@@ -1,0 +1,52 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Cardiomyopathy, familial hypertrophic - PS192600 - 32 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p31.1	Cardiomyopathy, hypertrophic, 20	3	613876	NEXN, NELIN, CMD1CC, CMH20	613121
+1q32.1	Cardiomyopathy, hypertrophic, 2	3	115195	TNNT2, CMH2, CMD1D, RCM3, LVNC6	191045
+1q43	Cardiomyopathy, hypertrophic, 23, with or without LVNC	3	612158	ACTN2, CMD1AA, CMH23	102573
+1q43	Cardiomyopathy, dilated, 1AA, with or without LVNC	3	612158	ACTN2, CMD1AA, CMH23	102573
+2q31.2	Cardiomyopathy, familial hypertrophic, 9	3	613765	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, EOMFC	188840
+3p25.3	Cardiomyopathy, familial hypertrophic	3	192600	CAV3, LGMD1C, LQT9	601253
+3p21.31	Cardiomyopathy, hypertrophic, 8	3	608751	MYL3, CMH8	160790
+3p21.1	Cardiomyopathy, hypertrophic, 13	3	613243	TNNC1, CMD1Z, CMH13	191040
+4q26	Cardiomyopathy, hypertrophic, 16	3	613838	MYOZ2, CMH16	605602
+6q22.31	Cardiomyopathy, hypertrophic, 18	3	613874	PLN, PLB, CMD1P, CMH18	172405
+7p12.1-q21	Cardiomyopathy, hypertrophic, 21	2	614676	CMH21	614676
+7q32.1	Cardiomyopathy, familial restrictive 5	3	617047	FLNC, FLN2, ABPA, ABPL, MFM5, MPD4, CMH26, RCM5	102565
+7q36.1	Cardiomyopathy, hypertrophic 6	3	600858	PRKAG2, WPWS, CMH6	602743
+10q21.3	Cardiomyopathy, hypertrophic, 22	3	615248	MYPN, CMD1DD, CMH22, RCM4	608517
+10q21.3	Cardiomyopathy, familial restrictive, 4	3	615248	MYPN, CMD1DD, CMH22, RCM4	608517
+10q21.3	Cardiomyopathy, dilated, 1KK	3	615248	MYPN, CMD1DD, CMH22, RCM4	608517
+10q22.2	Cardiomyopathy, hypertrophic, 15	3	613255	VCL, CMD1W, CMH15	193065
+10q23.2	Left ventricular noncompaction 3	3	601493	LDB3, ZASP, CYPHER, KIAA01613, MFM4, CMD1C, CMH24, LVNC3	605906
+10q23.2	Cardiomyopathy, hypertrophic, 24	3	601493	LDB3, ZASP, CYPHER, KIAA01613, MFM4, CMD1C, CMH24, LVNC3	605906
+10q23.2	Cardiomyopathy, dilated, 1C, with or without LVNC	3	601493	LDB3, ZASP, CYPHER, KIAA01613, MFM4, CMD1C, CMH24, LVNC3	605906
+11p15.1	Cardiomyopathy, hypertrophic, 12	3	612124	CSRP3, CRP3, CLP, CMD1M, CMH12	600824
+11p11.2	Cardiomyopathy, hypertrophic, 4	3	115197	MYBPC3, CMH4, CMD1MM, LVNC10	600958
+12q24.11	Cardiomyopathy, hypertrophic, 10	3	608758	MYL2, CMH10	160781
+14q11.2	Cardiomyopathy, hypertrophic, 14	3	613251	MYH6, ASD3, MYHCA, CMD1EE, CMH14, SSS3	160710
+14q11.2	Cardiomyopathy, hypertrophic, 1	3	192600	MYH7, CMH1, MPD1, CMD1S, SPMM, SPMD	160760
+15q14	Cardiomyopathy, hypertrophic, 11	3	612098	ACTC1, CMD1R, CMH11, ASD5, LVNC4	102540
+15q22.2	Cardiomyopathy, hypertrophic, 3	3	115196	TPM1, CMH3, CMD1Y , LVNC9	191010
+17q12	Cardiomyopathy, hypertrophic, 25	3	607487	TCAP, LGMD2G, CMH25	604488
+19p13.11	?Cardiomyopathy, hypertrophic, 19	3	613875	CALR3, CRT2, CMH19	611414
+19q13.42	Cardiomyopathy, hypertrophic, 7	3	613690	TNNI3, CMH7, CMD2A, RCM1, CMD1FF	191044
+20q11.21	Cardiomyopathy, hypertrophic, 1, digenic	3	192600	MYLK2, MLCK	606566
+20q13.12	Cardiomyopathy, hypertrophic, 17	3	613873	JPH2, JP2, CMH17	605267
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

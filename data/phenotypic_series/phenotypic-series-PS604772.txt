@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Ventricular tachycardia, catecholaminergic polymorphic - PS604772 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p13.1	Ventricular tachycardia, catecholaminergic polymorphic, 2	3	611938	CASQ2	114251
+1q43	Ventricular tachycardia, catecholaminergic polymorphic, 1	3	604772	RYR2, VTSIP, ARVD2, ARVC2	180902
+4q13.1	Ventricular tachycardia, catecholaminergic polymorphic, 3	3	614021	TECRL, TERL, SRD5A2L2, GPSN2L, CPVT3	617242
+6q22.31	Ventricular tachycardia, catecholaminergic polymorphic, 5, with or without muscle weakness	3	615441	TRDN, TDN, CPVT5	603283
+7p22-p14	Ventricular tachycardia, catecholaminergic polymorphic, 3	2	614021	CPVT3	614021
+14q32.11	Ventricular tachycardia, catecholaminergic polymorphic, 4	3	614916	CALM1, PHKD, CPVT4, LQT14	114180
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

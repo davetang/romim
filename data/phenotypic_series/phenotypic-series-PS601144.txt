@@ -1,0 +1,31 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Brugada syndrome - PS601144 - 11 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p13.2	Brugada syndrome 9	3	616399	KCND3, KCND3S, KCND3L, SCA19, SCA22, BRGDA9	605411
+3p22.3	Brugada syndrome 2	3	611777	GPD1L, KIAA0089	611778
+3p22.2	Brugada syndrome 1	3	601144	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	600163
+10p12.33-p12.31	Brugada syndrome 4	3	611876	CACNB2	600003
+11q13.4	Brugada syndrome 6	3	613119	KCNE3, HOKPP, HYPP	604433
+11q24.1	Brugada syndrome 7	3	613120	SCN3B, SCNB3, BRGDA7, ATFB16	608214
+11q24.1	Atrial fibrillation, familial, 16	3	613120	SCN3B, SCNB3, BRGDA7, ATFB16	608214
+12p13.33	Brugada syndrome 3	3	611875	CACNA1C, CACNL1A1, CCHL1A1, TS	114205
+15q24.1	Brugada syndrome 8	3	613123	HCN4, SSS2	605206
+19q13.11	Cardiac conduction defect, nonspecific	3	612838	SCN1B, GEFSP1, BRGDA5, ATFB13	600235
+19q13.11	Brugada syndrome 5	3	612838	SCN1B, GEFSP1, BRGDA5, ATFB13	600235
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

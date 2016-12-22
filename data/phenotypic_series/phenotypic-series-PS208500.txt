@@ -1,0 +1,38 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Short-rib thoracic dysplasia - PS208500 - 18 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p24.1	Short-rib thoracic dysplasia 7 with or without polydactyly	3	614091	WDR35, NAOFEN, KIAA1336, CED2, SRTD7	613602
+2p23.3	Short-rib thoracic dysplasia 10 with or without polydactyly	3	615630	IFT172, SLB, KIAA1179, SRTD10, RP71	607386
+2p21	Short-rib throacic dysplasia 15 with polydactyly	3	617088	DYNC2LI1, D2LIC, LIC3, SRTD15	617083
+2q24.3	Short-rib thoracic dysplasia 4 with or without polydactyly	3	613819	TTC21B, THM1, NPHP12, SRTD4, ATD4	612014
+3q25.33	Short-rib thoracic dysplasia 2 with or without polydactyly	3	611263	IFT80, KIAA1374, WDR56, SRTD2, ATD2	611177
+4p16.2	Ellis-van Creveld syndrome	3	225500	LBN, EVC2, WAD	607261
+4p16.2	Ellis-van Creveld syndrome	3	225500	EVC	604831
+4p14	?Short-rib thoracic dysplasia 5 with or without polydactyly	3	614376	WDR19, SRTD5, ATD5, NPHP13, CED4	608151
+4q33	Short-rib thoracic dysplasia 6 with or without polydactyly	3	263520	NEK1, SRTD6, SRPS2A	604588
+5q23.2	Short-rib thoracic dysplasia 13 with or without polydactyly	3	616300	CEP120, CCDC100, SRTD13	613446
+7q36.3	Short-rib thoracic dysplasia 8 with or without polydactyly	3	615503	WDR60, SRTD8, SRPS6	615462
+9q34.11	Short-rib thoracic dysplasia 11 with or without polydactyly	3	615633	WDR34, SRTD11	613363
+11q22.3	Short-rib thoracic dysplasia 3 with or without polydactyly	3	613091	DYNC2H1, DNCH2, DHC2, ATD3, SRPS2B, SRTD3	603297
+14q23.1	Short-rib thoracic dysplasia 14 with polydactyly	3	616546	KIAA0586, TALPID3, JBTS23, SRTD14	610178
+15q13	Short-rib thoracic dysplasia 1 with or without polydactyly	2	208500	SRTD1, ATD1	208500
+16p13.3	Short-rib thoracic dysplasia 9 with or without polydactyly	3	266920	IFT140, KIAA0590, SRTD9, MZSDS	614620
+20q13.12	Short-rib thoracic dysplasia 16 with or without polydactyly	3	617102	IFT52	617094
+Not Mapped	Short-rib thoracic dysplasia 12		269860	SRTD12	269860
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

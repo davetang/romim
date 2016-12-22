@@ -1,0 +1,30 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Agammaglobulinemia - PS601495 - 10 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+5q13.1	?Agammaglobulinemia 7, autosomal recessive	3	615214	PIK3R1, GRB1, AGM7, SHORT, IMD36	171833
+9q34.11	?Agammaglobulinemia 5	3	613506	LRRC8A, KIAA1437, AGM5	608360
+10q24.1	Agammaglobulinemia 4	3	613502	BLNK, SLP65, AGM4	604515
+14q32.33	Agammaglobulinemia 1	3	601495	IGHM, MU, AGM1	147020
+17q23.3	Agammaglobulinemia 6	3	612692	CD79B, IGB, B29, AGM6	147245
+19p13.3	Agammaglobulinemia 8, autosomal dominant	3	616941	TCF3, E2A, AGM8	147141
+19q13.2	Agammaglobulinemia 3	3	613501	CD79A, IGA	112205
+22q11.23	Agammaglobulinemia 2	3	613500	IGLL1, IGO, IGL5, VPREB2, AGM2	146770
+Xp22	Agammaglobulinemia, X-linked 2	2	300310	AGMX2, XLA2, IMD6	300310
+Xq22.1	Agammaglobulinemia, X-linked 1	3	300755	BTK, AGMX1, IMD1, XLA, AT	300300
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

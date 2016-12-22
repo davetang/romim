@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Patent ductus arteriosus - PS607411 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+5q23.2	Patent ductus arteriosus 3	3	617039	PRDM6, PRISM, PDA3	616982
+6p12.3	Patent ductus arteriosus 2	3	617035	TFAP2B, CHAR, PDA2	601601
+12q24	{Patent ductus arteriosus, susceptibility to}	2	607411	PDA1	607411
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

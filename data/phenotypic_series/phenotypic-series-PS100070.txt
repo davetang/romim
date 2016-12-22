@@ -1,0 +1,24 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Aortic aneurysm, familial abdominal - PS100070 - 4 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+4q31	Aortic aneurysm, familial abdominal 2	2	609782	AAA2	609782
+9p21	{Aneurysm, familial abdominal 3}	2	611891	AAA3	611891
+12q13.3	Aortic aneurysm, familial abdominal, 4	2	614375	AAA4	614375
+19q13	Aortic aneurysm, familial abdominal 1	2	100070	AAA1, AAA	100070
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Pulmonary hypertension, primary - PS178600 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p23.3	Pulmonary hypertension, primary, 4	3	615344	KCNK3, TASK, PPH4	603220
+2q33.1-q33.2	Pulmonary hypertension, primary, fenfluramine or dexfenfluramine-associated	3	178600	BMPR2, PPH1, POVD1	600799
+2q33.1-q33.2	Pulmonary hypertension, familial primary, 1, with or without HHT	3	178600	BMPR2, PPH1, POVD1	600799
+7q31.2	Pulmonary hypertension, primary, 3	3	615343	CAV1, BSCL3, CGL3, PPH3, LCCNS	601047
+13q13.3	Pulmonary hypertension, primary, 2	3	615342	MADH9, SMAD9, MADH6, PPH2	603295
+Not Mapped	Pulmonary hypertension, primary, autosomal recessive		265400	PPHR	265400
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

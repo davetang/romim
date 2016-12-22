@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Seizures, benign familial infantile - PS601764 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.12-p35.1	Seizures, benign familial infantile, 4	2	612627	BFIS4, BFIC4	612627
+2q24.3	Seizures, benign familial infantile, 3	3	607745	SCN2A, SCN2A1, BFIC3, EIEE11, BFIS3, BFNIS	182390
+12q13.13	Seizures, benign familial infantile, 5	3	617080	SCN8A, CIAT, EIEE13, BFIS5	600702
+16p11.2	Seizures, benign familial infantile, 2	3	605751	PRRT2, PKC, DYT10, EKD1, BFIS2, BFIC2, ICCA	614386
+19q	Seizures, benign familial infantile, 1	2	601764	BFIS1, BFIC1	601764
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

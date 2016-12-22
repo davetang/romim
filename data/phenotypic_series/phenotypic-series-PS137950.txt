@@ -1,0 +1,22 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Glomerulopathy with fibronectin deposits - PS137950 - 2 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q32	Glomerulopathy with fibronectin deposits 1	2	137950	GFND1	137950
+2q35	Glomerulopathy with fibronectin deposits 2	3	601894	FN1, FN, LETS, FNZ, GFND2	135600
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

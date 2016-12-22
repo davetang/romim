@@ -1,0 +1,22 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Spinal muscular atrophy with congenital bone fractures - PS616866 - 2 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+10q22.1	?Spinal muscular atrophy with congenital bone fractures 2	3	616867	ASCC1, p50, SMABF2	614215
+15q22.31	Spinal muscular atrophy with congenital bone fractures 1	3	616866	TRIP4, ASC1, SMABF1, MDCDC	604501
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,69 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Epileptic encephalopathy, early infantile - PS308350 - 49 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p34.2	Epileptic encephalopathy, early infantile, 18	3	615476	SZT2, KIAA0467, EIEE18	615463
+1p34.1	Epileptic encephalopathy, early infantile, 15	3	615006	ST3GAL3, SIAT6, ST3GALII, MRT12, EIEE15	606494
+1p31.3	Epileptic encephalopathy, early infantile, 23	3	615859	DOCK7, KIAA1771, EIEE23	615730
+1p13.3	Epileptic encephalopathy, early infantile, 32	3	616366	KCNA2, EIEE32	176262
+1q42.2	Epileptic encephalopathy, early infantile, 38	3	617020	ARV1, EIEE38	611647
+2q24.3	Epileptic encephalopathy, early infantile, 11	3	613721	SCN2A, SCN2A1, BFIC3, EIEE11, BFIS3, BFNIS	182390
+2q24.3	Dravet syndrome	3	607208	SCN1A, GEFSP2, SMEI, FEB3A, EIEE6, FHM3	182389
+2q24.3	{Dravet syndrome, modifier of}	3	607208	SCN9A, NENA, PN1, FEB3B, GEFSP7, SFNP, HSAN2D	603415
+2q31.1	Epileptic encephalopathy, early infantile, 39	3	612949	SLC25A12, ARALAR, EIEE39	603667
+3q22.1	Epileptic encephalopathy, early infantile, 44	3	617132	UBA5, UBE1DC1, EIEE44, SCAR24	610552
+3q28-q29	?Epileptic encephalopathy, early infantile, 47	3	617166	FGF12, FHF1, EIEE47	601513
+4p12	?Epileptic encephalopathy, early infantile, 40	3	617065	GUF1, EF4, EIEE40	617064
+4p12	Epileptic encephalopathy, early infantile, 45	3	617153	GABRB1, EIEE45	137190
+5p12	Epileptic encephalopathy, early infantile, 24	3	615871	HCN1, BCNG1, EIEE24	602780
+5q34	Epileptic encephalopathy, early infantile, 19	3	615744	GABRA1, EJM5, ECA4, EIEE19	137160
+9q31.3	Epileptic encephalopathy, early infantile, 37	3	616981	FRRS1L, C9orf4, CG6, EIEE37	604574
+9q34.11	Epileptic encephalopathy, early infantile, 4	3	612164	STXBP1, UNC18, EIEE4	602926
+9q34.11	Epileptic encephalopathy, early infantile, 31	3	616346	DNM1, EIEE31	602377
+9q34.11	Epileptic encephalopathy, early infantile, 5	3	613477	SPTAN1, NEAS, EIEE5	182810
+9q34.3	Epileptic encephalopathy, early infantile, 14	3	614959	KCNT1, KIAA1422, EIEE14, ENFL5	608167
+11p15.5	Epileptic encephalopathy, early infantile, 3	3	609304	SLC25A22, GC1, EIEE3	609302
+11p13	Epileptic encephalopathy, early infantile, 41	3	617105	SLC1A2, EAAT2, EIEE41	600300
+12p13.31	?Epileptic encephalopathy, early infantile, 21	3	615833	NECAP1, EIEE21	611623
+12p13.1	Epileptic encephalopathy, early infantile, 27	3	616139	GRIN2B, NMDAR2B, MRD6, EIEE27	138252
+12q13.13	Epileptic encephalopathy, early infantile, 13	3	614558	SCN8A, CIAT, EIEE13, BFIS5	600702
+15q12	Epileptic encephalopathy, early infantile, 43	3	617113	GABRB3, ECA5, EIEE43	137192
+16p13.3	Epileptic encephalopathy, early infantile, 16	3	615338	TBC1D24, KIAA1171, FIME, EIEE16, DOORS, DFNB86, DFNA65	613577
+16q13	Epileptic encephalopathy, early infantile, 17	3	615473	GNAO1, EIEE17	139311
+16q22.1	Epileptic encephalopathy, early infantile, 29	3	616339	AARS, CMT2N, EIEE29	601065
+16q23.1-q23.2	Epileptic encephalopathy, early infantile, 28	3	616211	WWOX, FOR, SCAR12, EIEE28	605131
+17p13.1	Epileptic encephalopathy, early infantile, 25	3	615905	SLC13A5, NACT, EIEE25	608305
+19p13.13	Epileptic encephalopathy, early infantile, 42	3	617106	CACNA1A, CACNL1A4, SCA6, EIEE42	601011
+19q13.33	Epileptic encephalopathy, early infantile, 46	3	617162	GRIN2D, NMDAR2D, EIEE46	602717
+19q13.33	Microcephaly, seizures, and developmental delay	3	613402	PNKP, PNK, MCSZ, EIEE10, MCSZ, AOA4	605610
+20p13	Epileptic encephalopathy, early infantile, 35	3	616647	ITPA, EIEE35	147520
+20p12.3	Epileptic encephalopathy, early infantile, 12	3	613722	PLCB1, KIAA0581, PLCB1A, PLCB1B, EIEE12	607120
+20q13.12	Epileptic encephalopathy, early infantile, 34	3	616645	SLC12A5, KCC2, KIAA1176, EIEE34, EIG14	606726
+20q13.13	Epileptic encephalopathy, early infantile, 26	3	616056	KCNB1, EIEE26	600397
+20q13.33	Epileptic encephalopathy, early infantile, 7	3	613720	KCNQ2, EBN1, EIEE7, BFNS1	602235
+20q13.33	Epileptic encephalopathy, early infantile, 33	3	616409	EEF1A2, EIEE33, MRD38	602959
+21q22.3	Epileptic encephalopathy, early infantile, 30	3	616341	SIK1, SNF1LK, MSK, EIEE30	605705
+Xp22.2	Multiple congenital anomalies-hypotonia-seizures syndrome 2	3	300868	PIGA, PNH1, MCAHS2	311770
+Xp22.13	Epileptic encephalopathy, early infantile, 2	3	300672	CDKL5, STK9, ISSX, EIEE2	300203
+Xp21.3	Epileptic encephalopathy, early infantile, 1	3	308350	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54, MRX43, MRX87, MRX29, MRX32	300382
+Xp11.23	Congenital disorder of glycosylation, type IIm	3	300896	SLC35A2, UGALT, UGTL, UGT2, CDGX, CDG2M	314375
+Xq11.1	Epileptic encephalopathy, early infantile, 8	3	300607	ARHGEF9, PEM2, KIAA0424, EIEE8	300429
+Xq22.1	Epileptic encephalopathy, early infantile, 9	3	300088	PCDH19, KIAA1313, EFMR, EIEE9	300460
+Xq23	?Congenital disorder of glycosylation, type Is	3	300884	ALG13, GLT28D1, CDG1S, EIEE36	300776
+Xq23	Epileptic encephalopathy, early infantile, 36	3	300884	ALG13, GLT28D1, CDG1S, EIEE36	300776
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

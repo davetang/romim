@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+3-Methylglutaconic aciduria - PS250950 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p13.1	3-methylglutaconic aciduria, type VIII	3	617248	HTRA2, OMI, PARK13, PRSS25, MGCA8	606441
+3q26.33	3-methylglutaconic aciduria, type V	3	610198	DNAJC19, TIM14	608977
+6q25.3	3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome	3	614739	SERAC1, MEGDEL	614725
+9q22.31	3-methylglutaconic aciduria, type I	3	250950	AUH	600529
+11q13.4	3-methylglutaconic aciduria, type VII, with cataracts, neurologic involvement and neutropenia	3	616271	CLPB, SKD3, MEGCANN, MGCA7	616254
+19q13.32	3-methylglutaconic aciduria, type III	3	258501	OPA3, MGA3	606580
+Xq28	Barth syndrome	3	302060	TAZ, EFE2, BTHS, CMD3A, LVNCX	300394
+Not Mapped	3-methylglutaconic aciduria, type IV		250951	MGCA1, MGA4	250951
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

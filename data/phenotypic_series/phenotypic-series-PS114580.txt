@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Familial candidiasis - PS114580 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p22.3-p21	Candidiasis, familial, 1, autosomal dominant	2	114580	CANDF1, CMCT	114580
+2q32.2	Immunodeficiency 31C, autosomal dominant	3	614162	STAT1, CANDF7, IMD31A, IMD31B, IMD31C	600555
+3p25.3	Candidiasis, familial, 9	3	616445	IL17RC, IL17RL, CANDF9	610925
+6p12.2	?Candidiasis, familial, 6, autosomal dominant	3	613956	IL17F, ML1, CANDF6	606496
+6q21	?Candidiasis, familial, 8	3	615527	TRAF3IP2, C6orf5, ACT1, CIKS, C6orf4, C6orf6, PSORS13, CANDF8	607043
+9q34.3	Candidiasis, familial, 2, autosomal recessive	3	212050	CARD9, CANDF2	607212
+11p13-q12	Candidiasis, familial, 3	2	607644	CANDF3, CANDN1, FCNC	607644
+12p13.2	Candidiasis, familial, 4, autosomal recessive	3	613108	CLEC7A, CLECSF12, DECTIN1, CANDF4	606264
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

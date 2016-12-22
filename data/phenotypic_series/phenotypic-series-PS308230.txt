@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Immunodeficiency with hyper-IgM - PS308230 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+12p13.31	Immunodeficiency with hyper-IgM, type 2	3	605258	AICDA, AID, HIGM2	605257
+12q24.11	Immunodeficiency with hyper IgM, type 5	3	608106	UNG, DGU, HIGM5	191525
+20q13.12	Immunodeficiency with hyper-IgM, type 3	3	606843	CD40, TNFRSF5	109535
+Xq26.3	Immunodeficiency, X-linked, with hyper-IgM	3	308230	TNFSF5, CD40LG, HIGM1, IGM	300386
+Not Mapped	Immunodeficiency with hyper-IgM, type 4		608184	HIGM4	608184
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

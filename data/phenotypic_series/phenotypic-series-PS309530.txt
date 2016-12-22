@@ -1,0 +1,69 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Mental retardation, nonsyndromic, X-linked - PS309530 - 49 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+Xp22.3	Mental retardation, X-linked 2	2	300428	MRX2	300428
+Xp22.2	Mental retardation, X-linked 73	2	300355	MRX73	300355
+Xp22.2	Mental retardation, X-linked 49/15	3	300114	CLCN4, MRX49, MRX15	302910
+Xp22.2	Mental retardation, X-linked 104	3	300983	FRMPD4, PRESO, KIAA0316, MRX104	300838
+Xp22.12	Mental retardation, X-linked 19	3	300844	RPS6KA3, RSK2, MRX19	300075
+Xp22.11	Mental retardation, X-linked 103	3	300982	KLHL15, KIAA1677	300980
+Xp21.3	Mental retardation, X-linked 29 and others	3	300419	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54, MRX43, MRX87, MRX29, MRX32	300382
+Xp21.3-p21.2	Mental retardation, X-linked 21/34	3	300143	IL1RAPL1, IL1R8, MRX21, MRX34	300206
+Xp11-q21	Mental retardation, X-linked 20	2	300047	MRX20	300047
+Xp11.4	Mental retardation, X-linked 58	3	300210	TSPAN7, TM4SF2, MXS1, A15, MRX58	300096
+Xp11.4	Mental retardation, X-linked 99	3	300919	USP9X, DFFRX, MRX99, MRXS99F	300072
+Xp11.4	Mental retardation, X-linked 99, syndromic, female-restricted	3	300968	USP9X, DFFRX, MRX99, MRXS99F	300072
+Xp11.4	Mental retardation, X-linked 102	3	300958	DDX3X, DDX3, DBX, MRX102	300160
+Xp11.3-q13.3	Mental retardation, X-linked 14	2	300062	MRX14	300062
+Xp11.3-p11.21	Mental retardation, X-linked 50	2	300115	MRX50	300115
+Xp11.3-q22.3	Mental retardation, X-linked 84	2	300505	MRX84	300505
+Xp11.3	Mental retardation, X-linked 89	2	300848	MRX89	300848
+Xp11.3	Mental retardation, X-linked 92	2	300851	MRX92	300851
+Xp11.2-q12	Mental retardation, X-linked 81	2	300433	MRX81	300433
+Xp11.23	Mental retardation, X-linked 45	3	300498	ZNF81, MRX45	314998
+Xp11.23	Mental retardation, X-linked 9/44	3	309549	FTSJ1, JM23, SPB1, MRX44, MRX9	300499
+Xp11.23	Mental retardation, X-linked 96	3	300802	SYP, MRXSYP	313475
+Xp11.23	Mental retardation 105	3	300984	USP27X, USP22L, MRX105	300975
+Xp11.22	Xp11.22 microduplication syndrome	4	300705	DUPXp11.22, MRX17, MRX31	300705
+Xp11.22	Mental retardation, X-linked 1/78	3	309530	IQSEC2, KIAA0522, MRX1, MRX78	300522
+Xp11.21-q22.3	Mental retardation, X-linked 52	2	300504	MRX52	300504
+Xq12-q21.3	Mental retardation, X-linked 77	2	300454	MRX77	300454
+Xq13.1	?Mental retardation, X-linked 100	3	300923	KIF4A, KIF4, MRX100	300521
+Xq13.1	Mental retardation, X-linked 90	3	300850	DLG3, NEDLG, SAP102, MRX90	300189
+Xq13.2	Mental retardation, X-linked 61	3	300978	RNF12, RLIM, MRX61	300379
+Xq13.3	Mental retardation, X-linked 98	3	300912	KIAA2022, MRX98	300524
+Xq13.3	?Mental retardation, X-linked 91	3	300577	ZDHHC15, MRX91	300576
+Xq21.1	Mental retardation, X-linked 93	3	300659	BRWD3, MRX93	300553
+Xq21.1	Mental retardation, X-linked 97	3	300803	ZNF711, ZNF6, CMPX1, MRX97	314990
+Xq22.2-q26	Mental retardation, X-linked 53	2	300324	MRX53	300324
+Xq22.3	?Mental retardation, X-linked 101	3	300928	MID2, MRX101	300204
+Xq23-q24	Mental retardation, X-linked 23	2	300046	MRX23	300046
+Xq23	Mental retardation, X-linked 63	3	300387	ACSL4, FACL4, ACS4, MRX63	300157
+Xq23	Mental retardation, X-linked 30/47	3	300558	PAK3, MRX30, MRX47	300142
+Xq24-q25	Mental retardation, X-linked 82	2	300518	MRX82	300518
+Xq24	Mental retardation, X-linked 88	2	300852	MRX88	300852
+Xq25	Mental retardation, X-linked 94	3	300699	GRIA3, GLUR3, MRX94	305915
+Xq25	Mental retardation, X-linked 12/35	3	300957	THOC2, THO2, MRX12, MRX35	300395
+Xq26	Mental retardation, X-linked 42	2	300372	MRX42	300372
+Xq26.3	Mental retardation, X-linked 46	3	300436	ARHGEF6, MRX46, COOL2	300267
+Xq28	Mental retardation, X-linked 3 (methylmalonic acidemia and homocysteinemia, cblX type )	3	309541	HCFC1, HCF1, MRX3	300019
+Xq28	Mental retardation, X-linked 41	3	300849	GDI1, RABGD1A, MRX41, MRX48	300104
+Xq28	Mental retardation, X-linked 72	3	300271	RAB39B, MRX72, WSMN	300774
+Chr.X	Mental retardation, X-linked 95	2	300716	MRX95	300716
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

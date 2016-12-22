@@ -1,0 +1,47 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Myasthenic syndrome, congenital - PS601462 - 27 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.33	Myasthenic syndrome, congenital, 8, with pre- and postsynaptic defects	3	615120	AGRN, CMS8	103320
+1p21.3	?Myasthenic syndrome, congenital, 15, without tubular aggregates	3	616227	ALG14, CMS15	612866
+1q32.1	Myasthenic syndrome, congenital, 7, presynaptic	3	616040	SYT2, CMS7, MYSPC	600104
+2p13.3	Myasthenia, congenital, 12, with tubular aggregates	3	610542	GFPT1, GFAT1, GFPT1L, MSLG, CMS12, CMSTA1	138292
+2q12.3	Myasthenic syndrome, congenital, 20, presynaptic	3	617143	SLC5A7, CHT1, HMN7A, CMS20	608761
+2q31.1	Myasthenic syndrome, congenital, 1B, fast-channel	3	608930	CHRNA1, ACHRD, CMS1B, CMS1A	100690
+2q31.1	Myasthenic syndrome, congenital, 1A, slow-channel	3	601462	CHRNA1, ACHRD, CMS1B, CMS1A	100690
+2q37.1	?Myasthenic syndrome, congenital, 3C, associated with acetylcholine receptor deficiency	3	616323	CHRND, ACHRD, SCCMS, CMS3A, CMS3B, CMS3C	100720
+2q37.1	Myasthenic syndrome, congenital, 3B, fast-channel	3	616322	CHRND, ACHRD, SCCMS, CMS3A, CMS3B, CMS3C	100720
+2q37.1	?Myasthenic syndrome, congenital, 3A, slow-channel	3	616321	CHRND, ACHRD, SCCMS, CMS3A, CMS3B, CMS3C	100720
+3p25.1	Myasthenic syndrome, congenital, 5	3	603034	COLQ, EAD, CMS5	603033
+4p16.3	Myasthenic syndrome, congenital, 10	3	254300	DOK7, C4orf25, CMS10	610285
+9q22.33	Myasthenic syndrome, congenital, 14, with tubular aggregates	3	616228	ALG2, CDGII, CMSTA3, CMS14	607905
+9q31.3	Myasthenic syndrome, congenital, 9, associated with acetylcholine receptor deficiency	3	616325	MUSK, CMS9, FADS	601296
+10q11.23	Myasthenic syndrome, congenital, 6, presynaptic	3	254210	CHAT, CMS6	118490
+10q11.23	Myasthenic syndrome, congenital, 21, presynaptic	3	617239	SLC18A3, VACHT, CMS21	600336
+10q22.1	Myasthenic syndrome, congenital, 19	3	616720	COL13A1, CMS19	120350
+11p11.2	?Myasthenic syndrome, congenital, 17	3	616304	LRP4, MEGF7, CLSS, SOST2, CMS17	604270
+11p11.2	Myasthenic syndrome, congenital, 11, associated with acetylcholine receptor deficiency	3	616326	RAPSN, CMS1D, CMS11, FADS	601592
+11q23.3	Myasthenic syndrome, congenital, 13, with tubular aggregates	3	614750	DPAGT1, DPAGT2, DGPT, CDG1J, CMSTA2, CMS13	191350
+17p13.2	Myasthenic syndrome, congenital, 4A, slow-channel	3	605809	CHRNE, SCCMS, CMS4A, CMS4B, CMS4C	100725
+17p13.2	Myasthenic syndrome, congenital, 4B, fast-channel	3	616324	CHRNE, SCCMS, CMS4A, CMS4B, CMS4C	100725
+17p13.2	Myasthenic syndrome, congenital, 4C, associated with acetylcholine receptor deficiency	3	608931	CHRNE, SCCMS, CMS4A, CMS4B, CMS4C	100725
+17p13.1	?Myasthenic syndrome, congenital, 2C, associated with acetylcholine receptor deficiency	3	616314	CHRNB1, ACHRB, SCCMS, CMS2A, CMS2C	100710
+17p13.1	Myasthenic syndrome, congenital, 2A, slow-channel	3	616313	CHRNB1, ACHRB, SCCMS, CMS2A, CMS2C	100710
+17q23.3	Myasthenic syndrome, congenital, 16	3	614198	SCN4A, HYPP, NAC1A, HOKPP2, CMS16	603967
+20p12.2	?Myasthenic syndrome, congenital, 18	3	616330	SNAP25, CMS18	600322
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

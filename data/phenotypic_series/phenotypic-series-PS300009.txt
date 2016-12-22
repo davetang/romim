@@ -1,0 +1,22 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Dent disease - PS300009 - 2 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+Xp11.23	Dent disease	3	300009	CLCN5, CLCK2, NPHL2, DENTS, NPHL1	300008
+Xq26.1	Dent disease 2	3	300555	OCRL, LOCR, OCRL1, NPHL2	300535
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

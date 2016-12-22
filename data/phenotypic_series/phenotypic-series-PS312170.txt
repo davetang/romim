@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Pyruvate dehydrogenase complex deficiency - PS312170 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3p14.3	Pyruvate dehydrogenase E1-beta deficiency	3	614111	PDHB, PDHBD	179060
+4p14	Hyperglycinemia, lactic acidosis, and seizures	3	614462	LIAS, PDHLD, HGCLAS	607031
+8q22.1	Pyruvate dehydrogenase phosphatase deficiency	3	608782	PDP1, PPM2C, PDP1, PDPC	605993
+11p13	Lacticacidemia due to PDX1 deficiency	3	245349	PDX1	608769
+11q23.1	Pyruvate dehydrogenase E2 deficiency	3	245348	DLAT, PDCE2	608770
+Xp22.12	Pyruvate dehydrogenase E1-alpha deficiency	3	312170	PDHA1, PHE1A, PDHAD	300502
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

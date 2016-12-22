@@ -1,0 +1,54 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Primary ciliary dyskinesia - PS244400 - 34 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p23.3	Ciliary dyskinesia, primary, 21	3	615294	DRC1, CCDC164, C2orf39, CILD21	615288
+3p21.31	Ciliary dyskinesia, primary, 22	3	615444	ZMYND10, BLU	607070
+3q26.33	Ciliary dyskinesia, primary, 14	3	613807	CCDC39	613798
+5p15.2	Ciliary dyskinesia, primary, 3, with or without situs inversus	3	608644	DNAH5, HL1, PCD, CILD3	603335
+5q11.2	Ciliary dyskinesia, primary, 29	3	615872	CCNO, UNG2, CILD29	607752
+6p21.1	Ciliary dyskinesia, primary, 12	3	612650	RSPH9, CILD12	612648
+6q22.1	Ciliary dyskinesia, primary, 11	3	612649	RSPH4A, CILD11	612647
+6q25.3	Ciliary dyskinesia, primary, 32	3	616481	RSPH3, RSHL2, RSP3, CILD32	615876
+7p22.3	Ciliary dyskinesia, primary, 18	3	614874	HEATR2, CILD18	614864
+7p15.3	Ciliary dyskinesia, primary, 7, with or without situs inversus	3	611884	DNAH11, DNAHC11, CILD7, DNAHBL	603339
+7p14.1	Ciliary dyskinesia, primary, 6	3	610852	NME8, TXNDC3, SPTRX2, CILD6	607421
+8q22.2	Ciliary dyskinesia, primary, 28	3	615505	SPAG1, CILD28	603395
+8q24.22	Ciliary dyskinesia, primary, 19	3	614935	LRRC6, LRTP, CILD19	614930
+9p13.3	Ciliary dyskinesia, primary, 1, with or without situs inversus	3	244400	DNAI1, CILD1, ICS, PCD	604366
+10p12.1	Ciliary dyskinesia, primary, 23	3	615451	ARMC4, CILD23	615408
+11q13.4	Ciliary dyskinesia, primary, 34	3	617091	DNAJB13, TSARG6, CILD34	610263
+12q13.12	Ciliary dyskinesia, primary, 27	3	615504	CCDC65, CILD27	611088
+14q21.3	Ciliary dyskinesia, primary, 10	3	612518	KTU, C14orf104, CILD10	612517
+14q24.3	Ciliary dyskinesia, primary, 16	3	614017	DNAL1, C14orf168, CILD16	610062
+15q13.1-q15.1	Ciliary dyskinesia, primary, 4	2	608646	CILD4	608646
+15q21.3	Ciliary dyskinesia, primary, 25	3	615482	DYX1C1, DYXC1, DYX1, CILD25	608706
+15q24-q25	Ciliary dyskinesia, primary, 8	2	612274	CILD8	612274
+16q22.2	Ciliary dyskinesia, primary, 5	3	608647	HYDIN, HYDIN1, CILD5	610812
+16q24.1	Ciliary dyskinesia, primary, 13	3	613193	DNAAF1, LRRC50, ODA7, CILD13	613190
+16q24.3	Ciliary dyskinesia, primary, 33	3	616726	GAS8, GAS11, CILD33	605178
+17q21.2	Ciliary dyskinesia, primary, 35	3	617092	TTC25, CILD35	617095
+17q21.31	Ciliary dyskinesia, primary, 17	3	614679	CCDC103, SMH, PR46B, CILD17	614677
+17q25.1	Ciliary dyskinesia, primary, 9, with or without situs inversus	3	612444	DNAI2, CILD9	605483
+17q25.3	Ciliary dyskinesia, primary, 15	3	613808	CCDC40, KIAA1640	613799
+19p13.2	Ciliary dyskinesia, primary, 30	3	616037	CCDC151, CILD30	615956
+19q13.33	Ciliary dyskinesia, primary, 20	3	615067	CCDC114, CILD20	615038
+19q13.42	Ciliary dyskinesia, primary, 2	3	606763	DNAAF3, PF22, DAB1, CILD2	614566
+21q22.11	Ciliary dyskinesia, primary, 26	3	615500	C21ORF59, CILD26	615494
+21q22.3	Ciliary dyskinesia, primary, 24	3	615481	RSPH1, TSGA2, TSA2, CILD24	609314
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

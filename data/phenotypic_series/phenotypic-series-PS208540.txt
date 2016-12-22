@@ -1,0 +1,22 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Renal-hepatic-pancreatic dysplasia - PS208540 - 2 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3q22.1	Renal-hepatic-pancreatic dysplasia 1	3	208540	NPHP3, NPH3, RHPD1, MKS7	608002
+17q11.2	?Renal-hepatic-pancreatic dysplasia 2	3	615415	NEK8, JCK, NPHP9, RHPD2	609799
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

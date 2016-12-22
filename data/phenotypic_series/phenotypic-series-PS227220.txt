@@ -1,0 +1,43 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Skin/hair/eye pigmentation, variation in - PS227220 - 23 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+5p13.2	[Skin/hair/eye pigmentation 5, dark/light eyes]	3	227240	SLC45A2, MATP, AIM1, SHEP5, OCA4	606202
+5p13.2	[Skin/hair/eye pigmentation 5, dark/fair skin]	3	227240	SLC45A2, MATP, AIM1, SHEP5, OCA4	606202
+5p13.2	[Skin/hair/eye pigmentation 5, black/nonblack hair]	3	227240	SLC45A2, MATP, AIM1, SHEP5, OCA4	606202
+6p25.3	[Skin/hair/eye pigmentation, variation in, 8]	3	611724	IRF4, LSIRF, SHEP8	601900
+9p23	[Skin/hair/eye pigmentation, variation in, 11 (Melanesian blond hair)]	3	612271	TYRP1, CAS2, GP75, SHEP11	115501
+11q13.3	[Skin/hair/eye pigmentation 10, blond/brown hair]	3	612267	TPCN2, TPC2, SHEP10	612163
+11q14.3	[Skin/hair/eye pigmentation 3, light/dark/freckling skin]	3	601800	TYR, SHEP3, CMM8, OCA1A, ATN	606933
+11q14.3	[Skin/hair/eye pigmentation 3, blue/green eyes]	3	601800	TYR, SHEP3, CMM8, OCA1A, ATN	606933
+11q14.3	{Melanoma, cutaneous malignant, susceptibility to, 8}	3	601800	TYR, SHEP3, CMM8, OCA1A, ATN	606933
+12q21.32	[Skin/hair/eye pigmentation 7, blond/brown hair]	3	611664	KITLG, MGF, SF, SCF, SHEP7, FPHH, DCUA, DFNA69	184745
+14q32.12	[Skin/hair/eye pigmentation 6, blue/green eyes]	3	210750	SLC24A4, NCKX4, SHEP6, AI2A5	609840
+14q32.12	[Skin/hair/eye pigmentation 6, blond/brown hair]	3	210750	SLC24A4, NCKX4, SHEP6, AI2A5	609840
+15q12-q13	[Skin/hair/eye pigmentation 1, blond/brown hair]	3	227220	OCA2, P, PED, D15S12, BOCA, EYCL3, HCL3, SHEP1	611409
+15q12-q13	[Skin/hair/eye pigmentation 1, blue/nonblue eyes]	3	227220	OCA2, P, PED, D15S12, BOCA, EYCL3, HCL3, SHEP1	611409
+15q13.1	[Skin/hair/eye pigmentation 1, blue/nonblue eyes]	3	227220	HERC2, SHEP1, MRT38	605837
+15q13.1	[Skin/hair/eye pigmentation 1, blond/brown hair]	3	227220	HERC2, SHEP1, MRT38	605837
+15q21.1	[Skin/hair/eye pigmentation 4, fair/dark skin]	3	113750	SLC24A5, NCKX5, SHEP4, OCA6	609802
+15q21.1	Albinism, oculocutaneous, type VI	3	113750	SLC24A5, NCKX5, SHEP4, OCA6	609802
+16q24.3	[Skin/hair/eye pigmentation 2, red hair/fair skin]	3	266300	MC1R, SHEP2, CMM5	155555
+16q24.3	[Skin/hair/eye pigmentation 2, blond hair/fair skin]	3	266300	MC1R, SHEP2, CMM5	155555
+16q24.3	{UV-induced skin damage}	3	266300	MC1R, SHEP2, CMM5	155555
+20q11.22	[Skin/hair/eye pigmentation 9, dark/light hair]	3	611742	ASIP, AGTIL, SHEP9	600201
+20q11.22	[Skin/hair/eye pigmentation 9, brown/nonbrown eyes]	3	611742	ASIP, AGTIL, SHEP9	600201
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

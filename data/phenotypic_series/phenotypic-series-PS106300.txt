@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Spondyloarthropathy, susceptibility to - PS106300 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2q36.1-q36.3	{Spondyloarthropathy, susceptibility to, 3}	2	613238	SPDA3	613238
+6p21.33	{Spondyloarthropathy, susceptibility to, 1}	3	106300	HLA-B, SPDA1	142830
+9q31-q34	{Spondyloarthropathy, susceptibility to, 2}	2	183840	SPDA2	183840
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

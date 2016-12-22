@@ -1,0 +1,68 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Cataract - PS116200 - 48 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1pter-p36.13	Cataract 8, multiple types	2	115665	CTRCT8, CCV	115665
+1p36.13	Cataract 6, multiple types	3	116600	EPHA2, ECK, ARCC2, CTPP1, CTPA, ARCC2, CTRCT6	176946
+1p34.3-p32.2	Cataract 34, multiple types	2	612968	CTRCT34, CATC3	612968
+1p33	Cataract 34, multiple types	3	612968	FOXE3, FKHL12, ASMD, CTRCT34	601094
+1q21.2	Cataract 1, multiple types	3	116200	GJA8, CX50, CTRCT1, CZP1, CAE1	600897
+2pter-p24	Cataract 29, coralliform	2	115800	CTRCT29	115800
+2p12	Cataract 27, nuclear progressive	2	607304	CTRCT27, CCNP	607304
+2q33.3	Cataract 4, multiple types	3	115700	CRYGD, CRYG4, CTRCT4, CACA, CCA3, PCC	123690
+2q33.3	Cataract 2, multiple types	3	604307	CRYGC, CRYG3, CTRCT2, CCL	123680
+2q33.3	Cataract 39, multiple types, autosomal dominant	3	615188	CRYGB, CRYG2, CTRCT39	123670
+2q35	?Cataract 42	3	115900	CRYBA2, CTRCT42	600836
+3p21.31	Cataract 18, autosomal recessive	3	610019	FYCO1, CATC2, CTRCT18	607182
+3q22.1	Cataract 12, multiple types	3	611597	BFSP2, CP49, CP47, CTRCT12	603212
+3q27.3	Cataract 20, multiple types	3	116100	CRYGS, CRYG8, CTRCT20	123730
+4p16.1	?Cataract 41	3	116400	WFS1, WFRS, WFS, DFNA6, DFNA14, DFNA38, WFSL, CTRCT41	606201
+6p24.3-p24.2	Cataract 13 with adult i phenotype	3	116700	GCNT2, Ii, CTRCT13	600429
+6p21.31	Cataract 46, juvenile-onset	3	212500	LEMD2, NET25, CTRCT42	616312
+6p12-q12	{Cataract 28, age-related cortical, susceptibility to}	2	609026	CTRCT28, ARCC1	609026
+7q34	Cataract 38, autosomal recessive	3	614691	AGK, MULK, MTDPS10, CATC5, CTRCT38	610345
+9q13-q22	Cataract 26, multiple types	2	605749	CTRCT26, CAAR	605749
+9q22.33	Cataract 36	3	613887	TDRD7, KIAA1529, TRAP, CATC4, CTRCT36	611258
+10p13	?Cataract 30, pulverulent	3	116300	VIM, CTRCT30	193060
+10q24.32	Cataract 11, syndromic	3	610623	PITX3, CTPP4, CTRCT11	602669
+10q24.32	Cataract 11, multiple types	3	610623	PITX3, CTPP4, CTRCT11	602669
+11q23.1	Cataract 16, multiple types	3	613763	CRYAB, CRYA2, CTPP2, CMD1II, CTRCT16, MFM2	123590
+12q13.3	Cataract 15, multiple types	3	615274	MIP, AQP0, CTRCT15	154050
+12q24.2-q24.3	Cataract 37, autosomal dominant	2	614422	CTRCT37, CCA5	614422
+13q12.11	Cataract 14, multiple types	3	601885	GJA3, CX46, CZP3, CAE3, CTRCT14	121015
+14q22-q23	Cataract 32, multiple types	2	115650	CTRCT32, CTAA1, CAP, CTPP5	115650
+15q21-q22	Cataract 25	2	605728	CTRCT25, CCSSO	605728
+16q22.1	Cataract 5, multiple types	3	116800	HSF4, CTM, CTRCT5	602438
+16q23.2	Cataract 21, multiple types	3	610202	MAF, CCA4, CTRCT21, AYGRP	177075
+17p13	Cataract 24, anterior polar	2	601202	CTRCT24, CTAA2	601202
+17q11.2	Cataract 10, multiple types	3	600881	CRYBA1, CRYB1, CTRCT10	123610
+17q12	?Cataract 43	3	616279	UNC45B, SMUNC45, CTRCT43	611220
+17q24	Cataract 7	2	115660	CTRCT7, CCA1	115660
+19q13	Cataract 35, congenital nuclear	2	609376	CTRCT35, CATCN1	609376
+19q13.1-q13.2	?Cataract 45	3	616851	SIPA1L3, SPAL3, SPAR3, KIAA0545, CTRCT45	616655
+19q13.41	Cataract 19, multiple types	3	615277	LIM2, MP19, CTRCT19	154045
+20p12.1	Cataract 33	3	611391	BFSP1, CP115, CTRCT33	603307
+20q11.22	Cataract 31, multiple types	3	605387	CHMP4B, SNF7, CTPP3, CTRCT31	610897
+21q22.3	Cataract 9, multiple types	3	604219	CRYAA, CRYA1, CTRCT9	123580
+21q22.3	Cataract 44	3	616509	LSS, OSC, CTRCT44	600909
+22q11.23	Cataract 22, autosomal recessive	3	609741	CRYBB3, CRYB3, CATCN2, CTRCT22	123630
+22q11.23	Cataract 3, multiple types	3	601547	CRYBB2, CRYB2, CTRCT3, CCA2	123620
+22q12.1	Cataract 17, multiple types	3	611544	CRYBB1, CATCN3, CTRCT17	600929
+22q12.1	Cataract 23	3	610425	CRYBA4, CTRCT23	123631
+Xp22.2-p22.1	Cataract 40, X-linked	3	302200	NHS, CXN, CTRCT40	300457
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

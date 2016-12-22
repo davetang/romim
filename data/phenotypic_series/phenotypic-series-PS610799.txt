@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Invasive pneumococcal disease, recurrent isolated - PS610799 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+11q24.2	{Pneumococcal disease, invasive, protection against}	3	610799	TIRAP, BACTS1	606252
+12q12	Invasive pneumococcal disease, recurrent isolated, 1	3	610799	IRAK4, REN64, IPD1	606883
+Xq28	Invasive pneumococcal disease, recurrent isolated, 2	3	300640	IKBKG, NEMO, FIP3, IP, IPD2, AMCBX1, IMD33	300248
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

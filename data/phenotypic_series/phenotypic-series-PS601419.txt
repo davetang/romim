@@ -1,0 +1,30 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Myofibrillar myopathy - PS601419 - 10 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2q35	Myopathy, myofibrillar, 1	3	601419	DES, CMD1I, MFM1, SCPNK, ARVD7, ARVC7, LGMD2R	125660
+3q22.2	Myopathy, myofibrillar, 7	3	617114	KY, MFM7	605739
+5q31.2	Myopathy, spheroid body	3	182920	MYOT, TTOD, MFM3	604103
+5q31.2	Myopathy, myofibrillar, 3	3	609200	MYOT, TTOD, MFM3	604103
+7q32.1	Myopathy, myofibrillar, 5	3	609524	FLNC, FLN2, ABPA, ABPL, MFM5, MPD4, CMH26, RCM5	102565
+10q23.2	Myopathy, myofibrillar, 4	3	609452	LDB3, ZASP, CYPHER, KIAA01613, MFM4, CMD1C, CMH24, LVNC3	605906
+10q26.11	Myopathy, myofibrillar, 6	3	612954	BAG3, MFM6	603883
+11q23.1	Myopathy, myofibrillar, 2	3	608810	CRYAB, CRYA2, CTPP2, CMD1II, CTRCT16, MFM2	123590
+11q23.1	Myopathy, myofibrillar, fatal infantile hypertrophy, alpha-B crystallin-related	3	613869	CRYAB, CRYA2, CTPP2, CMD1II, CTRCT16, MFM2	123590
+12p12.1	Myopathy, myofibrillar, 8	3	617258	PYROXD1, MFM8	617220
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

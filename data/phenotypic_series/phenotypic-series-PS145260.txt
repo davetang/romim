@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Pseudohypoaldosteronism, type II - PS145260 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q31-q42	Pseudohypoaldosteronism, type IIA	2	145260	PHA2A, PHA2	145260
+2q36.2	Pseudohypoaldosteronism, type IIE	3	614496	CUL3, PHA2E	603136
+5q31.2	Pseudohypoaldosteronism, type IID	3	614495	KLHL3, PHA2D	605775
+12p13.33	Pseudohypoaldosteronism, type IIC	3	614492	WNK1, PRKWNK1, KDP, PHA2C, HSAN2, HSN2	605232
+17q21.2	Pseudohypoaldosteronism, type IIB	3	614491	WNK4, PRKWNK4, PHA2B	601844
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

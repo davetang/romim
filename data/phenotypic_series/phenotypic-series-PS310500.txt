@@ -1,0 +1,34 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Night blindness, congenital stationary - PS310500 - 14 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2q37.1	Oguchi disease-1	3	258100	SAG, RP47	181031
+3p21.31	Night blindness, congenital stationary, autosomal dominant 3	3	610444	GNAT1, CSNBAD3, CSNB1G	139330
+3p21.31	?Night blindness, congenital stationary, type 1G	3	616389	GNAT1, CSNBAD3, CSNB1G	139330
+3q22.1	Night blindness, congenital stationary, autosomal dominant 1	3	610445	RHO, RP4, OPN2, CSNBAD1	180380
+4p16.3	Night blindness, congenital stationary, autosomal dominant 2	3	163500	PDE6B, PDEB, RP40, CSNBAD2	180072
+4q25	Night blindness, congenital stationary (complete), 1F, autosomal recessive	3	615058	LRIT3, FIGLER4, CSNB1F	615004
+5q35.3	Night blindness, congenital stationary (complete), 1B, autosomal recessive	3	257270	GRM6, MGLUR6, CSNB1B	604096
+12p13.31	Night blindness, congenital stationary, type 1H	3	617024	GNB3, CSNB1H	139130
+13q34	Oguchi disease-2	3	613411	GRK1, RHOK, RK	180381
+15q13.3	Night blindness, congenital stationary (complete), 1C, autosomal recessive	3	613216	TRPM1, MLSN1, CSNB1C	603576
+15q22.31	Night blindness, congenital stationary (complete), 1D, autosomal recessive	3	613830	SLC24A1, NCKX1, CSNB1D	603617
+17q12	Night blindness, congenital stationary (complete), 1E, autosomal recessive	3	614565	GPR179, GPR158L, GPR158L1, CSNB1E	614515
+Xp11.4	Night blindness, congenital stationary (complete), 1A, X-linked	3	310500	NYX, CSNB1A, NBM1	300278
+Xp11.23	Night blindness, congenital stationary (incomplete), 2A, X-linked	3	300071	CACNA1F, CSNB2, CORDX3, CSNB2A, AIED, OA2	300110
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Pyloric stenosis, infantile hypertrophic - PS179010 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+11q14-q22	Pyloric stenosis, infantile hypertrophic, 3	2	612017	IHPS3	612017
+12q	Pyloric stenosis, infantile hypertrophic 1	2	179010	IHPS1, IHPS	179010
+16p13-p12	Pyloric stenosis, infantile hypertrophic, 2	2	610260	IHPS2	610260
+16q24.3	Pyloric stenosis, infantile hypertrophic, 5	2	612525	IHPS5	612525
+Xq23	Pyloric stenosis, infantile hypertrophic, 4	2	300711	IHPS4	300711
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

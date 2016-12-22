@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Microcephaly and chorioretinopathy - PS251270 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+4q28.1	Microcephaly and chorioretinopathy, autosomal recessive, 2	3	616171	PLK4, STK18, SAK, MCCRP2	605031
+15q15.3	Microcephaly and chorioretinopathy, autosomal recessive, 3	3	616335	TUBGCP4, GCP4, MCCRP3	609610
+22q13.33	Microcephaly and chorioretinopathy, autosomal recessive, 1	3	251270	TUBGCP6, GCP6, KIAA1669, MCCRP1	610053
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

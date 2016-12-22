@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Familial adenomatous polyposis - PS175100 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p34.1	Adenomas, multiple colorectal	3	608456	MUTYH, MYH	604933
+5q14.1	Familial adenomatous polyposis 4	3	617100	MSH3, FAP4	600887
+5q22.2	Gardner syndrome	3	175100	APC, GS, FPC, BTPS2	611731
+5q22.2	Brain tumor-polyposis syndrome 2	3	175100	APC, GS, FPC, BTPS2	611731
+5q22.2	Adenomatous polyposis coli	3	175100	APC, GS, FPC, BTPS2	611731
+16p13.3	Familial adenomatous polyposis 3	3	616415	NTHL1, OCTS3, FAP3	602656
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

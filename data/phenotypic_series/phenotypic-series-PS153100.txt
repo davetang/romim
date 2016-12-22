@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Lymphedema, Hereditary - PS153100 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q42.13	Lymphedema, hereditary, IC	3	613480	GJC2, GJA12, CX47, PMLDAR, HLD2, SPG44, LMPH1C	608803
+4q34.3	Lymphedema, hereditary, ID	3	615907	VEGFC, VRP, LMPH1D	601528
+5q35.3	Lymphedema, hereditary, IA	3	153100	FLT4, VEGFR3, PCL, LMPH1A	136352
+6q16.2-q22.1	Lymphedema, hereditary, IB	2	611944	LMPH1B	611944
+Not Mapped	Lymphedema, hereditary, II		153200	LMPH2	153200
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

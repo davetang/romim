@@ -1,0 +1,31 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Aneurysm, intracranial berry - PS105800 - 11 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.13-p34.3	Aneurysm, intracranial berry, 3	2	609122	ANIB3	609122
+2q33.1	{Aneurysm, intracranial berry, 9}	2	612586	ANIB9	612586
+5p15.2-p14.3	Aneurysm, intracranial berry, 4	2	610213	ANIB4	610213
+7q11.2	Aneurysm, intracranial berry, 1	2	105800	ANIB1	105800
+8p22	Aneurysm, intracranial berry, 11	2	614252	ANIB11	614252
+8q12.1	{Aneurysm, intracranial berry, 10}	2	612587	ANIB10	612587
+9p21	{Aneurysm, intracranial berry, 6}	2	611892	ANIB6	611892
+11q24-q25	Aneurysm, intracranial berry, 7	2	612161	ANIB7	612161
+14q23	Aneurysm, intracranial berry, 8	2	612162	ANIB8	612162
+19q13	Aneurysm, intracranial berry, 2	2	608542	ANIB2	608542
+Xp22	Aneurysm, intracranial berry, 5	2	300870	ANIB5	300870
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

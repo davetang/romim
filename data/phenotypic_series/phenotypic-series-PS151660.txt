@@ -1,0 +1,27 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Lipodystrophy, familial partial - PS151660 - 7 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q22	Lipodystrophy, familial partial, type 2	3	151660	LMNA, LMN1, EMD2, FPLD2, CMD1A, HGPS, LGMD1B	150330
+3p25.3	?Lipodystrophy, familial partial, type 5	3	615238	CIDEC, FSP27, CIDE3, FPLD5	612120
+3p25.2	Lipodystrophy, familial partial, type 3	3	604367	PPARG, PPARG1, PPARG2, CIMT1, GLM1	601487
+3p25.2	Insulin resistance, severe, digenic	3	604367	PPARG, PPARG1, PPARG2, CIMT1, GLM1	601487
+15q26.1	Lipodystrophy, familial partial, type 4	3	613877	PLIN1, PLIN, FPLD4	170290
+19q13.2	Lipodystrophy, familial partial, type 6	3	615980	LIPE, LHS, FPLD6	151750
+Not Mapped	Lipodystrophy, familial partial, type 1		608600	FPLD1	608600
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

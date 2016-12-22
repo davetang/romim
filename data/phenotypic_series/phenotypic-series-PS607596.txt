@@ -1,0 +1,36 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Pontocerebellar hypoplasia - PS607596 - 16 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p13.3	Pontocerebellar hypoplasia, type 9	3	615809	AMPD2, SPG63, PCH9	102771
+1q25.3	Pontocerebellar hypoplasia, type 2F	3	617026	TSEN15, SEN15, C1orf19, PCH2F	608756
+3p25.2	Pontocerebellar hypoplasia type 2B	3	612389	TSEN2, SEN2, PCH2B	608753
+4p15.2	Pontocerebellar hypoplasia type 2D	3	613811	SEPSECS, SLA, LP, PCH2D	613009
+6q15	Pontocerebellar hypoplasia, type 6	3	611523	RARS2, RARSL, PCH6	611524
+7q21.11	?Pontocerebellar hypoplasia, type 3	3	608027	PCLO, PCH3	604918
+9p13.2	Pontocerebellar hypoplasia, type 1B	3	614678	EXOSC3, RRP40, PCH1B	606489
+9q34.3	Epileptic encephalopathy, early infantile, 14	3	614959	KCNT1, KIAA1422, EIEE14, ENFL5	608167
+11q12.1	Pontocerebellar hypoplasia, type 10	3	615803	CLP1, HEAB, PCH10	608757
+14q32.2	Pontocerebellar hypoplasia type 1A	3	607596	VRK1, PCH1A	602168
+16q24.3	Pontocerebellar hypoplasia, type 8	3	614961	CHMP1A, PCOLN3, PRSM1, PCH8	164010
+17p13.3	Pontocerebellar hypoplasia, type 2E	3	615851	VPS53, HCCS1, PCH2E	615850
+17q25.1	?Pontocerebellar hypoplasia type 5	3	610204	TSEN54, SEN54, PCH2A, PCH4, PCH5	608755
+17q25.1	Pontocerebellar hypoplasia type 2A	3	277470	TSEN54, SEN54, PCH2A, PCH4, PCH5	608755
+17q25.1	Pontocerebellar hypoplasia type 4	3	225753	TSEN54, SEN54, PCH2A, PCH4, PCH5	608755
+19q13.42	?Pontocerebellar hypoplasia type 2C	3	612390	TSEN34, PCH2C, LENG5, SEN34	608754
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

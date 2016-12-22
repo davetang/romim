@@ -1,0 +1,24 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Glucocorticoid deficiency - PS202200 - 4 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+5p12	Glucocorticoid deficiency 4, with or without mineralocorticoid deficiency	3	614736	NNT, GCCD4	607878
+8q11.2-q13.2	Glucocorticoid deficiency 3	2	609197	GCCD3, FGD3, GCCD2	609197
+18p11.21	Glucocorticoid deficiency, due to ACTH unresponsiveness	3	202200	MC2R	607397
+21q22.11	Glucocorticoid deficiency 2	3	607398	MRAP, FALP, C21orf61, GCCD2, FGD2	609196
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Tremor, hereditary essential - PS190300 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p25-p22	Tremor, hereditary essential, 2	2	602134	ETM2, ETM	602134
+3q13.31	{Essential tremor, susceptibility to}	3	190300	DRD3, ETM1, FET1	126451
+6p23	Tremor, hereditary essential, 3	2	611456	ETM3	611456
+11q14.1	Tremor, hereditary essential, 5	3	616736	TENM4, ODZ4, TNM4, DOC4, KIAA1302, ETM5	610084
+16p11.2	Tremor, hereditary essential, 4	3	614782	FUS, TLS, ALS6, ETM4	137070
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

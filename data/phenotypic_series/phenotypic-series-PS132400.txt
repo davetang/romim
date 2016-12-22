@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Epiphyseal dysplasia, multiple - PS132400 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p34.2	Epiphyseal dysplasia, multiple, 2	3	600204	COL9A2, EDM2, STL5	120260
+2p24.1	Epiphyseal dysplasia, multiple, 5	3	607078	MATN3, EDM5, HOA, OS2	602109
+5q32	Epiphyseal dysplasia, multiple, 4	3	226900	SLC26A2, DTD, DTDST, D5S1708, EDM4	606718
+6q13	?Epiphyseal dysplasia, multiple, 6	3	614135	COL9A1, EDM6, STL4	120210
+19p13.11	Epiphyseal dysplasia, multiple, 1	3	132400	COMP, EDM1, MED, PSACH	600310
+20q13.33	Epiphyseal dysplasia, multiple, 3, with or without myopathy	3	600969	COL9A3, EDM3, IDD	120270
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

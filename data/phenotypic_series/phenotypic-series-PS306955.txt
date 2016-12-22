@@ -1,0 +1,29 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Heterotaxy, visceral - PS306955 - 9 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2q21.1	Heterotaxy, visceral, 2, autosomal	3	605376	CFC1, CRYPTIC, HTX2	605194
+3p22.2	Heterotaxy, visceral, 4, autosomal	3	613751	ACVR2B, ACTRIIB, HTX4	602730
+6q21	?Heterotaxy, visceral, 3, autosomal	2	606325	HTX3	606325
+7p12.3	Heterotaxy, visceral, 8, autosomal	3	617205	PKD1L1, HTX8	609721
+10q22.1	Heterotaxy, visceral, 5	3	270100	NODAL, HTX5	601265
+10q26.2	Heterotaxy, visceral, 7, autosomal	3	616749	MMP21, HTX7	608416
+18q21.1	Heterotaxy, visceral, 6, autosomal recessive	3	614779	CCDC11, HTX6	614759
+Xq26.3	Heterotaxy, visceral, 1, X-linked	3	306955	ZIC3, HTX1, HTX, VACTERLX	300265
+Xq26.3	Congenital heart defects, nonsyndromic, 1, X-linked	3	306955	ZIC3, HTX1, HTX, VACTERLX	300265
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

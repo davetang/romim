@@ -1,0 +1,34 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Nephrotic syndrome - PS256300 - 14 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q25.2	Nephrotic syndrome, type 2	3	600995	PDCN, NPHS2, SRN1	604766
+3p21.31	Nephrotic syndrome, type 5, with or without ocular abnormalities	3	614199	LAMB2, LAMS, NPHS5	150325
+7q33	?Nephrotic syndrome, type 13	3	616893	NUP205, C7orf14, KIAA0225, NPHS13	614352
+10q23.33	Nephrotic syndrome, type 3	3	610725	PLCE1, KIAA1516, NPHS3	608414
+11p13	Nephrotic syndrome, type 4	3	256370	WT1, NPHS4	607102
+12p12.3	Nephrotic syndrome, type 6	3	614196	PTPRO, GLEPP1, NPHS6	600579
+12q15	Nephrotic syndrome, type 11	3	616730	NUP107, NUP84, NPHS11	607617
+16p13.13	Nephrotic syndrome, type 10	3	615861	EMP2, NPHS10	602334
+16q13	Nephrotic syndrome, type 12	3	616892	NUP93, NIC96, KIAA0095, NPHS12	614351
+17q22	Nephrotic syndrome, type 7	3	615008	DGKE, NPHS7, AHUS7	601440
+17q22	{Hemolytic uremic syndrome, atypical, susceptibility to, 7}	3	615008	DGKE, NPHS7, AHUS7	601440
+17q25.3	Nephrotic syndrome, type 8	3	615244	ARHGDIA, GDIA1, NPHS8	601925
+19q13.12	Nephrotic syndrome, type 1	3	256300	NPHS1, NPHN	602716
+19q13.2	Nephrotic syndrome, type 9	3	615573	COQ8B, ADCK4, NPHS9	615567
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,30 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Optic atrophy - PS165500 - 10 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3q29	Optic atrophy 1	3	165500	OPA1, NTG, NPG, BERHS, MTDPS14	605290
+6q21	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	3	616732	RTN4IP1, NIMP, OPA10	610502
+8q21-q22	Optic atrophy 6	2	258500	OPA6	258500
+11q14.1	Optic atrophy 7	3	612989	TMEM126A, OPA7	612988
+16q21-q22	Optic atroph 8	2	616648	OPA8	616648
+18q12.2-q12.3	Optic atrophy 4	2	605293	OPA4	605293
+19q13.32	Optic atrophy 3 with cataract	3	165300	OPA3, MGA3	606580
+22q12.1-q13.1	Optic atrophy 5	2	610708	OPA5	610708
+22q13.2	?Optic atrophy 9	3	616289	ACO2, ICRD, OPA9	100850
+Xp11.4-p11.21	Optic atrophy 2, X-linked	2	311050	OPA2	311050
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

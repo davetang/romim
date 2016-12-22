@@ -1,0 +1,60 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Mental retardation, X-linked syndromic - PS309510 - 40 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+Xp22.2	Mental retardation, X-linked syndromic 5	3	304340	AP1S2, MRX59, MRXSF, MRXS21, MRXS5, PGS	300629
+Xp22.13-p21.1	MEHMO syndrome	2	300148	MEHMO	300148
+Xp22.11	Mental retardation, X-linked, Snyder-Robinson type	3	309583	SMS, SRS, MRSR	300105
+Xp21.3	Partington syndrome	3	309510	ARX, ISSX, PRTS, MRXS1, MRX36, MRX54, MRX43, MRX87, MRX29, MRX32	300382
+Xp21.1-p11.23	Mental retardation, X-linked, syndromic 17	2	300858	MRXS17	300858
+Xp11	?Mental retardation, X-linked, syndromic 12	2	309545	MRXS12	309545
+Xp11-q21	Prieto syndrome	2	309610	PRS, MRXS2	309610
+Xp11.4	?Mental retardation, X-linked, syndromic, Hedera type	3	300423	ATP6AP2, ATP6M8-9, XMRE, MRXSH, XPDS	300556
+Xp11.4	Mental retardation and microcephaly with pontine and cerebellar hypoplasia	3	300749	CASK, MICPCH, FGS4, CMG, MRXSNA	300172
+Xp11.3-q22	Mental retardation, X-linked syndromic 7	2	300218	MRXS7	300218
+Xp11.23	Renpenning syndrome	3	309500	PQBP1, NPW38, SHS, MRX55, MRXS3, RENS1, MRXS8	300463
+Xp11.22	Mental retardation, X-linked, syndromic, Claes-Jensen type	3	300534	KDM5C, JARID1C, SMCX, DXS1272E, XE169, MRXSCJ	314690
+Xp11.22	?Mental retardation, X-linked syndromic 10	3	300220	HSD17B10, HADH2, ERAB, MRXS10	300256
+Xp11.22	Mental retardation, X-linked syndromic, Turner type	3	300706	HUWE1, UREB1, KIAA0312, LASU1	300697
+Xp11.22	Mental retardation syndrome, X-linked, Siderius type	3	300263	PHF8, ZNF422, KIAA1111, MRXSSD	300560
+Xp11.22	Mental retardation, X-linked syndromic 16	3	305400	FGD1, FGDY, AAS, MRXS16	300546
+Xp11.22	Aarskog-Scott syndrome	3	305400	FGD1, FGDY, AAS, MRXS16	300546
+Xq12-q21.31	Mental retardation, X-linked, syndromic 9	2	300709	MRXS9	300709
+Xq12	Wilson-Turner syndrome	3	309585	LAS1L, WTS	300964
+Xq13-q22	Miles-Carpenter syndrome	2	309605	MCS, MRXS4	309605
+Xq13.1	Corpus callosum, agenesis of, with mental retardation, ocular coloboma and micrognathia	3	300472	IGBP1	300139
+Xq13.1	Mental retardation, X-linked, syndromic 34	3	300967	NONO, NRB54, MRXS34	300084
+Xq13.1	Mental retardation, X-linked, syndromic 33	3	300966	TAF1, TAF2A, CCG1, BA2R, DYT3, MRXS33	313650
+Xq13.2	Mental retardation, X-linked syndromic, Abidi type	2	300262	MRXSAB	300262
+Xq21.33-q23	Mental retardation, X-linked, syndromic, Chudley-Schwartz type	2	300861	MRXSCS	300861
+Xq22.3	Arts syndrome	3	301835	PRPS1, CMTX5, DFNX1, DFN2	311850
+Xq24	Mental retardation, X-linked syndromic, Nascimento-type	3	300860	UBE2A, RAD6A, MRXSN, MRXS30	312180
+Xq24	Mental retardation, X-linked, syndromic 14	3	300676	UPF3B, RENT3B, MRXS14	300298
+Xq24	Mental retardation, X-linked, syndromic 15 (Cabezas type)	3	300354	CUL4B, MRXSC, MRXHF2, SFM2, MRXS15	300304
+Xq25	Mental retardation, X-linked 94	3	300699	GRIA3, GLUR3, MRX94	305915
+Xq26.1	Mental retardation, X-linked syndromic, Raymond type	3	300799	ZDHHC9, DHHC9, MRXSZ	300646
+Xq26.2	Borjeson-Forssman-Lehmann syndrome	3	301900	PHF6, BFLS	300414
+Xq26.3	Mental retardation, X-linked syndromic, Christianson type	3	300243	SLC9A6, NHE6	300231
+Xq26.3	?Mental retardation, X-linked, syndromic 11, Shashi type	3	300238	RBMX, MRXS11	300199
+Xq28	Mental retardation syndrome, X-linked, Armfield type	2	300261	MRXSA	300261
+Xq28	Mental retardation, X-linked syndromic, Lubs type	3	300260	MECP2, RTT, PPMX, MRX16, MRX79, AUTSX3, MRXSL, MRXS13, MRX79, MRX16	300005
+Xq28	Mental retardation, X-linked, syndromic 13	3	300055	MECP2, RTT, PPMX, MRX16, MRX79, AUTSX3, MRXSL, MRXS13, MRX79, MRX16	300005
+Xq28	?Mental retardation, X-linked, syndromic 32	3	300886	CLIC2, XAP121, MRXS32	300138
+Chr.X	Brooks-Wisniewski-Brown syndrome	2	300612	MRXSBWB	300612
+Chr.X	Mental retardation, X-linked, syndromic, Martin-Probst type	2	300519	MRXSMP	300519
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

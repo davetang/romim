@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Hyperphosphatasia with mental retardation syndrome - PS239300 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.11	Hyperphosphatasia with mental retardation syndrome 1	3	239300	PIGV, HPMRS1	610274
+4q22.1	Hyperphosphatasia with mental retardation syndrome 6	3	616809	PIGY, HPMRS6	610662
+9p13.3	Hyperphosphatasia with mental retardation syndrome 2	3	614749	PIGO, HPMRS2	614730
+11p15.4	Hyperphosphatasia with mental retardation syndrome 3	3	614207	PGAP2, FRAG1, HPMRS3, MRT17, MRT21	615187
+17q12	?Hyperphosphatasia with mental retardation syndrome 5	3	616025	PIGW, HPMRS5	610275
+17q12	Hyperphosphatasia with mental retardation syndrome 4	3	615716	PGAP3, PERLD1, CAB2, MGC9753, HPMRS4	611801
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,24 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Polycystic kidney disease - PS173900 - 4 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+4q22.1	Polycystic kidney disease 2	3	613095	PKD2	173910
+6p12.3-p12.2	Polycystic kidney and hepatic disease	3	263200	FCYT, PKHD1, ARPKD	606702
+11q12.3	Polycyctic kidney disease 3	3	600666	GANAB, PKD3	104160
+16p13.3	Polycystic kidney disease, adult type I	3	173900	PKD1	601313
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

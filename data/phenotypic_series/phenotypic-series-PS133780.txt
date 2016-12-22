@@ -1,0 +1,27 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Exudative vitreoretinopathy - PS133780 - 7 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+7q31.31	Exudative vitreoretinopathy 5	3	613310	TSPAN12, NET2, EVR5	613138
+11p13-p12	Exudative vitreoretinopathy 3	2	605750	EVR3	605750
+11p11.2	?Exudative vitreoretinopathy 6	3	616468	ZNF408, EVR6, RP72	616454
+11q13.2	Exudative vitreoretinopathy 4	3	601813	LRP5, BMND1, LRP7, LR3, OPPG, VBCH2, OPTA1, EVR4	603506
+11q14.2	Retinopathy of prematurity	3	133780	FZD4, EVR1	604579
+11q14.2	Exudative vitreoretinopathy 1	3	133780	FZD4, EVR1	604579
+Xp11.3	Exudative vitreoretinopathy 2, X-linked	3	305390	NDP, ND, EVR2	300658
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

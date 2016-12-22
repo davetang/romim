@@ -1,0 +1,40 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Long QT syndrome - PS192500 - 20 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p21	Long QT syndrome 15	3	616249	CALM2, LQT15	114182
+3p25.3	Long QT syndrome 9	3	611818	CAV3, LGMD1C, LQT9	601253
+3p22.2	Long QT syndrome-3	3	603830	SCN5A, LQT3, VF1, HB1, SSS1, CMD1E, CDCD2	600163
+4q25-q26	Long QT syndrome 4	3	600919	ANK2, LQT4	106410
+4q25-q26	Cardiac arrhythmia, ankyrin-B-related	3	600919	ANK2, LQT4	106410
+7q21.2	?Long QT syndrome-11	3	611820	AKAP9, YOTIAO, AKAP450	604001
+7q36.1	{Long QT syndrome 2, acquired, susceptibility to}	3	613688	KCNH2, LQT2, HERG, SQT1	152427
+7q36.1	Long QT syndrome 2	3	613688	KCNH2, LQT2, HERG, SQT1	152427
+11p15.5-p15.4	{Long QT syndrome 1, acquired, susceptibility to}	3	192500	KCNQ1, KCNA9, LQT1, KVLQT1, ATFB3, SQT2	607542
+11p15.5-p15.4	Long QT syndrome 1	3	192500	KCNQ1, KCNA9, LQT1, KVLQT1, ATFB3, SQT2	607542
+11q23.3	Long QT syndrome-10	3	611819	SCN4B, LQT10, ATFB17	608256
+11q23.3	Atrial fibrillation, familial, 17	3	611819	SCN4B, LQT10, ATFB17	608256
+11q24.3	Long QT syndrome 13	3	613485	KCNJ5, GIRK4, KATP1, LQT13	600734
+12p13.33	Timothy syndrome	3	601005	CACNA1C, CACNL1A1, CCHL1A1, TS	114205
+12p11.1	{Long QT syndrome, acquired, reduced susceptibility to}	3	613688	ALG10, KCR1	603313
+14q32.11	Long QT syndrome 14	3	616247	CALM1, PHKD, CPVT4, LQT14	114180
+17q24.3	Andersen syndrome	3	170390	KCNJ2, HHIRK1, KIR2.1, IRK1, LQT7, SQT3, ATFB9	600681
+20q11.21	Long QT syndrome 12	3	612955	SNTA1, SNT1, TACIP1, LQT12	601017
+21q22.11	Long QT syndrome 6	3	613693	KCNE2, MIRP1, LQT6, ATFB4	603796
+21q22.12	Long QT syndrome 5	3	613695	KCNE1, JLNS, LQT5, JLNS2	176261
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

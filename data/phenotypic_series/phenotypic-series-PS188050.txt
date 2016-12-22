@@ -1,0 +1,39 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Thrombophilia - PS188050 - 19 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.22	{Thromboembolism, susceptibility to}	3	188050	MTHFR	607093
+1q24.2	{Thrombophilia, susceptibility to, due to factor V Leiden}	3	188055	F5, THPH2, RPRGL1	612309
+1q24.2	Thrombophilia due to activated protein C resistance	3	188055	F5, THPH2, RPRGL1	612309
+1q25.1	Thrombophilia due to antithrombin III deficiency	3	613118	SERPINC1, AT3, AT3D, THPH7	107300
+2q14.3	Thrombophilia due to protein C deficiency, autosomal recessive	3	612304	PROC, PC, THPH3, THPH4	612283
+2q14.3	Thrombophilia due to protein C deficiency, autosomal dominant	3	176860	PROC, PC, THPH3, THPH4	612283
+3q11.1	Thrombophilia due to protein S deficiency, autosomal recessive	3	614514	PROS1, THPH5, THPH6	176880
+3q11.1	Thrombophilia due to protein S deficiency, autosomal dominant	3	612336	PROS1, THPH5, THPH6	176880
+3q27.3	Thrombophilia due to HRG deficiency	3	613116	HRG, THPH11	142640
+3q27.3	Thrombophilia due to elevated HRG	1	613116	HRG, THPH11	142640
+6p25.1	{Venous thrombosis, protection against}	3	188050	F13A1, F13A	134570
+8p11.21	Thrombophilia, familial, due to decreased release of PLAT	1	612348	PLAT, TPA	173370
+8p11.21	Hyperfibrinolysis, familial, due to increased release of PLAT	1	612348	PLAT, TPA	173370
+10q25.3	{Venous thromboembolism, susceptibility to}	3	188050	HABP2, PHBP, HGFAL, FSAP, NMTC5	603924
+11p11.2	Thrombophilia due to thrombin defect	3	188050	F2, THPH1, RPRGL2	176930
+20p11.21	Thrombophilia due to thrombomodulin defect	3	614486	THBD, THRM, AHUS6, THPH12	188040
+22q11.21	Thrombophilia due to heparin cofactor II deficiency	3	612356	HCF2, HC2, SERPIND1, THPH10	142360
+Xq27.1	Thrombophilia, X-linked, due to factor IX defect	3	300807	F9, HEMB, THPH8	300746
+Xq27.1	{Deep venous thrombosis, protection against}	3	300807	F9, HEMB, THPH8	300746
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

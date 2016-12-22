@@ -1,0 +1,27 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Aicardi-Goutieres syndrome - PS225750 - 7 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q21.3	Aicardi-Goutieres syndrome 6	3	615010	ADAR, DRADA, DSH, DSRAD, IFI4, G1P1, AGS6	146920
+2q24.2	Aicardi-Goutieres syndrome 7	3	615846	IFIH1, MDA5, AGS7, SGMRT1	606951
+3p21.31	Aicardi-Goutieres syndrome 1, dominant and recessive	3	225750	TREX1, AGS1, CRV, HERNS	606609
+11q13.1	Aicardi-Goutieres syndrome 3	3	610329	RNASEH2C, AYP1, FLJ20974, AGS3	610330
+13q14.3	Aicardi-Goutieres syndrome 2	3	610181	RNASEH2B, DLEU8, FLJ11712, AGS2	610326
+19p13.13	Aicardi-Goutieres syndrome 4	3	610333	RNASEH2A, RNHIA, AGS4	606034
+20q11.23	Aicardi-Goutieres syndrome 5	3	612952	SAMHD1, AGS5, DCIP, CHBL2	606754
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

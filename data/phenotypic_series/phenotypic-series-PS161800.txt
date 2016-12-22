@@ -1,0 +1,34 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Nemaline myopathy - PS161800 - 14 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q21.3	Nemaline myopathy 1, autosomal dominant or recessive	3	609284	TPM3, NEM1, CFTD, CAPM1	191030
+1q21.3	CAP myopathy 1	3	609284	TPM3, NEM1, CFTD, CAPM1	191030
+1q42.13	Myopathy, actin, congenital, with cores	3	161800	ACTA1, ASMA, NEM3, CFTD1, SHPM	102610
+1q42.13	Nemaline myopathy 3, autosomal dominant or recessive	3	161800	ACTA1, ASMA, NEM3, CFTD1, SHPM	102610
+1q42.13	Myopathy, actin, congenital, with excess of thin myofilaments	3	161800	ACTA1, ASMA, NEM3, CFTD1, SHPM	102610
+2q23.3	Nemaline myopathy 2, autosomal recessive	3	256030	NEB, NEM2	161650
+2q31.1	Nemaline myopathy 9	3	615731	KLHL41, KBTBD10, SARCOSIN, NEM9	607701
+3p22.1	Nemaline myopathy 8, autosomal recessive	3	615348	KLHL40, SYRP, KBTBD5, NEM8	615340
+3p14.1	Nemaline myopathy 10	3	616165	LMOD3, NEM10	616112
+9p13.3	Nemaline myopathy 4, autosomal dominant	3	609285	TPM2, TMSB, AMCD1, DA1, DA2B, NEM4	190990
+9p13.3	CAP myopathy 2	3	609285	TPM2, TMSB, AMCD1, DA1, DA2B, NEM4	190990
+14q13.1	Nemaline myopathy 7, autosomal recessive	3	610687	CFL2, NEM7	601443
+15q22.31	Nemaline myopathy 6, autosomal dominant	3	609273	KBTBD13, NEM6	613727
+19q13.42	Nemaline myopathy 5, Amish type	3	605355	TNNT1, ANM, NEM5	191041
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

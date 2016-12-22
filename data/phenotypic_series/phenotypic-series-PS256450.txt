@@ -1,0 +1,27 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Hyperinsulinemia hypoglycemia - PS256450 - 7 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p13.2	Hyperinsulinemic hypoglycemia, familial, 7	3	610021	SLC16A1, MCT1, HHF7, MCT1D	600682
+4q25	Hyperinsulinemic hypoglycemia, familial, 4	3	609975	HADHSC, SCHAD, HHF4	601609
+7p13	Hyperinsulinemic hypoglycemia, familial, 3	3	602485	GCK, HHF3	138079
+10q23.2	Hyperinsulinism-hyperammonemia syndrome	3	606762	GLUD1	138130
+11p15.1	Hyperinsulinemic hypoglycemia, familial, 2	3	601820	KCNJ11, BIR, PHHI, HHF2, TNDM3, MODY13	600937
+11p15.1	Hyperinsulinemic hypoglycemia, familial, 1	3	256450	ABCC8, SUR, PHHI, SUR1, HHF1, TNDM2	600509
+19p13.2	Hyperinsulinemic hypoglycemia, familial, 5	3	609968	INSR, HHF5	147670
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

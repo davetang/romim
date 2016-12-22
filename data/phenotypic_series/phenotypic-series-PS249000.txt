@@ -1,0 +1,32 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Meckel syndrome - PS249000 - 12 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q32.1	?Meckel syndrome 12	3	616258	KIF14, KIAA0042, MKS12	611279
+3q22.1	Meckel syndrome 7	3	267010	NPHP3, NPH3, RHPD1, MKS7	608002
+4p15.32	Meckel syndrome 6	3	612284	CC2D2A, KIAA1345, MKS6	612013
+8q22.1	Meckel syndrome 3	3	607361	TMEM67, MKS3, JBTS6, NPHP11	609884
+11q12.2	Meckel syndrome 2	3	603194	TMEM216, JBTS2, CORS2, MKS2	613277
+12q21.32	Meckel syndrome 4	3	611134	CEP290, KIAA0373, 3H11AG, JBTS5, SLSN6, LCA10, BBS14	610142
+12q24.31	?Meckel syndrome 8	3	613885	TCTN2, TECT2, MKS8, JBTS24	613846
+16q12.2	Meckel syndrome 5	3	611561	RPGRIP1L, KIAA1005, JBTS7, MKS5	610937
+16q23.1	Meckel syndrome 11	3	615397	TMEM231, JBTS20, MKS11	614949
+17p11.2	?Meckel syndrome 9	3	614209	B9D1, MKSR1, MKS9, JBTS27	614144
+17q22	Meckel syndrome 1	3	249000	MKS1, MKS, BBS13, JBTS28	609883
+19q13.2	Meckel syndrome 10	3	614175	B9D2, MKS10	611951
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

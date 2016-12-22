@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Hemochromatosis - PS235200 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1q21.1	Hemochromatosis, type 2A	3	602390	HJV, HFE2A	608374
+2q32.2	Hemochromatosis, type 4	3	606069	SLC40A1, SLC11A3, FPN1, IREG1, HFE4	604653
+6p22.2	Hemochromatosis	3	235200	HFE, HLA-H, HFE1, MVCD7, TFQTL2	613609
+7q22.1	Hemochromatosis, type 3	3	604250	TFR2, HFE3	604720
+11q12.3	?Hemochromatosis, type 5	3	615517	FTH1, FTHL6, HFE5	134770
+19q13.12	Hemochromatosis, type 2B	3	613313	HAMP, LEAP1, HEPC, HFE2B	606464
+20p12.3	{HFE hemochromatosis, modifier of}	3	235200	BMP2, BMP2A, BDA2	112261
+Not Mapped	African iron overload		601195	HFEA	601195
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

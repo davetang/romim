@@ -1,0 +1,34 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Diamond-Blackfan anemia - PS105650 - 14 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.11	Diamond-Blackfan anemia 7	3	612562	RPL11, DBA7	604175
+1p22.1	Diamond-Blackfan anemia 6	3	612561	RPL5, DBA6	603634
+2p25.3	Diamond-Blackfan anemia 8	3	612563	RPS7, DBA8	603658
+3p24.2	?Diamond-Blackfan anemia 12	3	615550	RPL15, DBA12	604174
+3q29	Diamond-Blackfan anemia 5	3	612528	RPL35A, DBA5	180468
+6p21.31	Diamond-Blackfan anemia 9	3	613308	RPS10, DBA9	603632
+8p23.3-p22	Diamond-Blackfan anemia 2	2	606129	DBA2	606129
+10q22.3	Diamond-blackfan anemia 3	3	610629	RPS24, DBA3	602412
+12q13.2	Diamond-Blackfan anemia 10	3	613309	RPS26, DBA10	603701
+14q21.3	Diamond-Blackfan anemia 13	3	615909	RPS29, DBA13	603633
+15q25.2	Diamond-Blackfan anemia 4	3	612527	RPS17, RPS17L1, RPS17L2, DBA4	180472
+17p13.1	?Diamond-Blackfan anemia 11	3	614900	RPL26, DBA11	603704
+19q13.2	Diamond-Blackfan anemia 1	3	105650	RPS19, DBA, DBA1	603474
+Xp11.22	?Diamond-Blackfan anemia 14 with mandibulofacial dysostosis	3	300946	TSR2, WGG1, DBA14	300945
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

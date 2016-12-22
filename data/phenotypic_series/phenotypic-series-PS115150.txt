@@ -1,0 +1,24 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Cardiofaciocutaneous syndrome - PS115150 - 4 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+7q34	Cardiofaciocutaneous syndrome	3	115150	BRAF, NS7	164757
+12p12.1	Cardiofaciocutaneous syndrome 2	3	615278	KRAS, KRAS2, RASK2, NS, CFC2, RALD	190070
+15q22.31	Cardiofaciocutaneous syndrome 3	3	615279	MAP2K1, PRKMK1, MKK1, MEK1, CFC3	176872
+19p13.3	Cardiofaciocutaneous syndrome 4	3	615280	MAP2K2, PRKMK2, MEK2, MKK2, CFC4	601263
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

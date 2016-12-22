@@ -1,0 +1,105 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Deafness, autosomal recessive - PS220290 - 85 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.31-p36.13	Deafness, autosomal recessive 96	2	614414	DFNB96	614414
+1p36.31	Deafness, autosomal recessive 36	3	609006	ESPN	606351
+1p34.3	Deafness, digenic, GJB2/GJB3	3	220290	GJB3, CX31, DFNA2B	603324
+1p22.1-p13.3	Deafness, autosomal recessive 32	2	608653	DFNB32	608653
+1p21.2	Deafness, autosomal recessive 105	3	616958	CDC14A, DFNB105	603504
+1q23.2	Enlarged vestibular aqueduct, digenic	3	600791	KCNJ10, SESAME	602208
+1q43-q44	Deafness, autosomal recessive 45	2	612433	DFNB45	612433
+2p25.1-p24.3	Deafness, neurosensory, autosomal recessive 47	2	609946	DFNB47	609946
+2p23.3	Deafness, autosomal recessive 9	3	601071	OTOF, DFNB9, NSRD9, AUNB1	603681
+2p23.3	Auditory neuropathy, autosomal recessive, 1	3	601071	OTOF, DFNB9, NSRD9, AUNB1	603681
+2p16.1	Deafness, autosomal recessive 70	3	614934	PNPT1, OLD35, COXPD13, DFNB70	610316
+2p11.2	?Deafness, autosomal recessive 88	3	615429	ELMOD3, RBED1, DFNB88	615427
+2q23-q31	Deafness, autosomal recessive 27	2	605818	DFNB27	605818
+2q31.2	Deafness, autosomal recessive 59	3	610220	PJVK, DFNB59	610219
+3p25.3	{Deafness, autosomal recessive 12, modifier of}	3	601386	ATP2B2, PMCA2	108733
+3p21.31	Deafness, autosomal recessive 6	3	600971	TMIE, DFNB6	607237
+3q13.33	Deafness, autosomal recessive 42	3	609646	ILDR1, DFNB42	609739
+4p13	Deafness, autosomal recessive 25	3	613285	GRXCR1	613283
+4q12-q13.2	Deafness, autosomal recessive 55	2	609952	DFNB55	609952
+4q31	Deafness, autosomal recessive 26	2	605428	DFNB26	605428
+5q13.2	Deafness, autosomal recessive 49	3	610153	MARVELD2, MARVD2, TRIC, DFNB49	610572
+5q32	?Deafness, autosomal recessive 101	3	615837	GRXCR2, DFNB101	615762
+5q35.1	Enlarged vestibular aqueduct	3	600791	FOXI1, FKHL10, FREAC6	601093
+6p25.2	?Deafness, autosomal recessive 91	3	613453	SERPINB6, PI6, PTI, SPI3, DFNB91	173321
+6p22.3	?Deafness, autosomal recessive 66	3	610212	DCDC2, RU2, KIAA1154, NPHP19, DFNB66	605755
+6p22.3	?Deafness, autosomal recessive 104	3	616515	FAM65B, C6orf32, KIAA0386, PL48, DFNB104	611410
+6p21.32	Deafness, autosomal recessive 53	3	609706	COL11A2, STL3, DFNA13, DFNB53, FBCG2	120290
+6p21.31	Deafness, autosomal recessive 67	3	610265	LHFPL5, TMHS, DFNB67	609427
+6p21.1	?Deafness, autosomal recessive 103	3	616042	CLIC5, DFNB103	607293
+6q14.1	Deafness, autosomal recessive 37	3	607821	MYO6, DFNA22, DFNB37	600970
+6q26-q27	Deafness, autosomal recessive 38	2	608219	DFNB38	608219
+7p12.3	?Deafness, autosomal recessive 44	3	610154	ADCY1, DFNB44	103072
+7q21.11	Deafness, autosomal recessive 39	3	608265	HGF, DFNB39	142409
+7q22.1	?Deafness, autosomal recessive 61	3	613865	SLC26A5, PRES, DFNB61	604943
+7q22.3	Deafness, autosomal recessive 4, with enlarged vestibular aqueduct	3	600791	SLC26A4, PDS, DFNB4, EVA, TDH2B	605646
+7q31	Deafness, autosomal recessive 14	2	603678	DFNB14	603678
+7q31	Deafness, autosomal recessive 17	2	603010	DFNB17	603010
+7q31.2	?Deafness, autosomal recessive 97	3	616705	MET, DFNB97, OSFD	164860
+7q34-q36	Deafness, autosomal recessive 13	2	603098	DFNB13	603098
+8p22-p21.3	Deafness, autosomal recessive 71	2	612789	DFNB71	612789
+9p23-p21.2	Deafness, autosomal recessive 83	2	613685	DFNB83	613685
+9q21.13	Deafness, autosomal recessive 7	3	600974	TMC1, DFNB7, DFNB11, DFNA36	606706
+9q32	Deafness, autosomal recessive 31	3	607084	WHRN, CIP98, KIAA1526, DFNB31, USH2D	607928
+9q34.3	Deafness, autosomal recessive 79	3	613307	TPRN, C9orf75, DFNB79	613354
+10p12.1	Deafness, autosomal recessive 30	3	607101	MYO3A, DFNB30	606808
+10p11.23-q21.1	Deafness, autosomal recessive 33	2	607239	DFNB33	607239
+10q21.1	Deafness, autosomal recessive 23	3	609533	PCDH15, DFNB23, USH1F	605514
+10q22.1	Deafness, autosomal recessive 12	3	601386	CDH23, USH1D	605516
+11p15.1	Deafness, autosomal recessive 18A	3	602092	USH1C, DFNB18A	605242
+11p15.1	Deafness, autosomal recessive 18B	3	614945	OTOG, OTGN, DFNB18B	604487
+11p13-p12	Deafness, autosomal recessive 51	2	609941	DFNB51	609941
+11q13.2	Deafness, autosomal recessive 93	3	614899	CABP2, DFNB93	607314
+11q13.4	Deafness, autosomal recessive 63	3	611451	LRTOMT, LRTOMT1, LRTOMT2, DFNB63	612414
+11q13.5	Deafness, autosomal recessive 2	3	600060	MYO7A, USH1B, DFNB2, DFNA11	276903
+11q22.3	Deafness, autosomal recessive 24	3	611022	RDX, DFNB24	179410
+11q23.3	Deafness, autosomal recessive 21	3	603629	TECTA, DFNA8, DFNA12, DFNB21	602574
+11q25-qter	Deafness, autosomal recessive 20	2	604060	DFNB20	604060
+12p13.2-p11.23	Deafness, autosomal recessive 62	2	610143	DFNB62	610143
+12p12.3	?Deafness, autosomal recessive 102	3	615974	EPS8, DFNB102	600206
+12q14.3	Deafness, autosomal recessive 74	3	613718	MSRB3, DFNB74	613719
+12q21.31	Deafness, autosomal recessive 84B	3	614944	OTOGL, C12orf64, DFNB84B	614925
+12q21.31	Deafness, autosomal recessive 84A	3	613391	PTPRQ, PTPGMC1, DFNB84A	603317
+13q12.11	Deafness, autosomal recessive 1A	3	220290	GJB2, CX26, DFNB1A, PPK, DFNA3A, KID, HID	121011
+13q12.11	Deafness, autosomal recessive 1B	3	612645	GJB6, CX30, DFNA3B, DFNB1B, ECTD2, HED2	604418
+13q12.11	Deafness, digenic GJB2/GJB6	3	220290	GJB6, CX30, DFNA3B, DFNB1B, ECTD2, HED2	604418
+14q12	Deafness, autosomal recessive 5	2	600792	DFNB5	600792
+14q24.3	Deafness, autosomal recessive 35	3	608565	ESRRB, ESRL2, DFNB35	602167
+15q15.3	Deafness, autosomal recessive 16	3	603720	STRC, DFNB16	606440
+15q25.1	Deafness, autosomal recessive 48	3	609439	CIB2, KIP2	605564
+16p13.3	Deafness , autosomal recessive 86	3	614617	TBC1D24, KIAA1171, FIME, EIEE16, DOORS, DFNB86, DFNA65	613577
+16p12.2	Deafness, autosomal recessive 22	3	607039	OTOA, DFNB22	607038
+16q23.1	Deafness, autosomal recessive 89	3	613916	KARS, CMTRIB, DFNB89	601421
+17p12-q11.2	Deafness, autosomal recessive 85	2	613392	DFNB85	613392
+17p11.2	Deafness, autosomal recessive 3	3	600316	MYO15A, DFNB3	602666
+18p11.32-p11.31	Deafness, autosomal recessive 46	2	609647	DFNB46	609647
+18q21.1	Deafness, autosomal recessive 77	3	613079	LOXHD1, DFNB77	613072
+19p13.3	Deafness, autosomal recessive 15	3	601869	GIPC3, DFNB15, DFNB72, DFNB95	608792
+19p13.2	Deafness, autosomal recessive 68	3	610419	S1PR2, EDG5, DFNB68	605111
+19q13.12	Deafness, autosomal recessive 76	3	615540	SYNE4, NESP4, C19orf46, DFNB76	615535
+20q13.2-q13.3	Deafness, autosomal recessive 65	2	610248	DFNB65	610248
+21q22.13	Deafness, autosomal recessive 29	3	614035	CLDN14, DFNB29	605608
+21q22.3	Deafness, autosomal recessive 8/10	3	601072	TMPRSS3, ECHOS1, DFNB8, DFNB10	605511
+21q22.3	Deafness, autosomal recessive 98	3	614861	TSPEAR, C21orf29, DFNB98	612920
+22q11.21-q12.1	Deafness, autosomal recessive 40	2	608264	DFNB40	608264
+22q13.1	Deafness, autosomal recessive 28	3	609823	TRIOBP, KIAA1662	609761
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

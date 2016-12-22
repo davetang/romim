@@ -1,0 +1,26 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Adams-Oliver syndrome - PS100300 - 6 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3p14.1	Adams-Oliver syndrome 4	3	615297	EOGT, EOGT1, C3orf64, AOS4	614789
+3q13.32-q13.33	Adams-Oliver syndrome 1	3	100300	ARHGAP31, CDGAP, KIAA1204, AOS1	610911
+4p15.2	Adams-Oliver syndrome 3	3	614814	RBPJ, RBPSUH, IGKJRB1, AOS3	147183
+9q34.3	Adams-Oliver syndrome 5	3	616028	NOTCH1, TAN1, AOS5, AOVD1	190198
+15q15.1	Adams-Oliver syndrome 6	3	616589	DLL4, AOS6	605185
+19p13.2	Adams-Oliver syndrome 2	3	614219	DOCK6, KIAA1395, AOS2	614194
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

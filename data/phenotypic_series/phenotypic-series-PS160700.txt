@@ -1,0 +1,44 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Myopia - PS160700 - 24 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36	Myopia 14	2	610320	MYP14	610320
+1p22.2	Myopia 21, autosomal dominant	3	614167	ZNF644, MYP21	614159
+2q37.1	Myopia 12	2	609995	MYP12	609995
+3q26	Myopia 8	2	609257	MYP8	609257
+4p16.3	Myopia 23, autosomal recessive	3	615431	LRPAP1, A2MRAP, MYP23	104225
+4q12	Myopia 9	2	609258	MYP9	609258
+4q22-q27	Myopia 11	2	609994	MYP11	609994
+4q35.1	Myopia 22, autosomal dominant	3	615420	CCDC111, MYP22	615421
+5p15.33-p15.2	Myopia 16	2	612554	MYP16	612554
+5p15.1-p13.3	Myopia 19	2	613969	MYP19	613969
+5q31.1	Myopia 25, autosomal dominant	3	617238	P4HA2, MYP25	600608
+7p15	Myopia 17	2	608367	MYP17, MYP4	608367
+8p23	Myopia 10	2	609259	MYP10	609259
+10q21.1	Myopia 15	2	612717	MYP15	612717
+11p13	Myopia 7	2	609256	MYP7	609256
+12q13.3	Myopia 24, autosomal dominant	3	615946	SLC39A5, MYP24	608730
+12q21-q23	Myopia-3	2	603221	MYP3	603221
+13q12.12	Myopia 20, autosomal dominant	2	614166	MYP20	614166
+14q22.1-q24.2	Myopia 18	2	255500	MYP18	255500
+17q21-q22	Myopia 5	2	608474	MYP5	608474
+18p11.31	Myopia-2	2	160700	MYP2	160700
+22q13.33	Myopia 6	3	608908	SCO2, CEMCOX1, MYP6	604272
+Xq23-q27.2	Myopia 13	2	300613	MYP13	300613
+Xq28	Myopia-1	2	310460	MYP1	310460
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

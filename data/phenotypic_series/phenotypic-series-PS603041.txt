@@ -1,0 +1,38 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Mitochondrial DNA depletion syndrome - PS603041 - 18 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+2p23.3	Mitochondrial DNA depletion syndrome 6 (hepatocerebral type)	3	256810	MPV17, MTDPS6	137960
+2p13.1	Mitochondrial DNA depletion syndrome 3 (hepatocerebral type)	3	251880	DGUOK, DGK, MTDPS3, PEOB4, NCPH	601465
+2p11.2	Mitochondrial DNA depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria)	3	245400	SUCLG1, SUCLA1, MTDPS9	611224
+3q29	?Mitochondrial DNA depletion syndrome 14 (encephalocardiomyopathic type)	3	616896	OPA1, NTG, NPG, BERHS, MTDPS14	605290
+4q35.1	Mitochondrial DNA depletion syndrome 12B (cardiomyopathic type) AR	3	615418	SLC25A4, ANT1, T1, PEO3, PEO2, MTDPS12A, PEOA2	103220
+4q35.1	Mitochondrial DNA depletion syndrome 12A (cardiomyopathic type) AD	3	617184	SLC25A4, ANT1, T1, PEO3, PEO2, MTDPS12A, PEOA2	103220
+6q16.1-q16.2	Mitochondrial DNA depletion syndrome 13 (encephalomyopathic type)	3	615471	FBXL4, FBL4, MTDPS13	605654
+7q34	Sengers syndrome	3	212350	AGK, MULK, MTDPS10, CATC5, CTRCT38	610345
+8q22.3	Mitochondrial DNA depletion syndrome 8B (MNGIE type)	3	612075	RRM2B, P53R2, PEOA5, MTDPS8A, MTDPS8B	604712
+8q22.3	Mitochondrial DNA depletion syndrome 8A (encephalomyopathic type with renal tubulopathy)	3	612075	RRM2B, P53R2, PEOA5, MTDPS8A, MTDPS8B	604712
+10q21.1	?Mitochondrial DNA depletion syndrome 15 (hepatocerebral type)	3	617156	TFAM, TCF6L2, TCF6L1, TCF6L3, MTTF1, TCF6, MTDPS15	600438
+10q24.31	Mitochondrial DNA depletion syndrome 7 (hepatocerebral type)	3	271245	C10orf2, TWINKLE, PEOA3, IOSCA, MTDPS7, PRLTS5	606075
+13q14.2	Mitochondrial DNA depletion syndrome 5 (encephalomyopathic with or without methylmalonic aciduria)	3	612073	SUCLA2, MTDPS5	603921
+15q26.1	Mitochondrial DNA depletion syndrome 4B (MNGIE type)	3	613662	POLG, POLG1, POLGA, PEO, SANDO, SCAE, MTDPS4A, MTDPS4B, MIRAS	174763
+15q26.1	Mitochondrial DNA depletion syndrome 4A (Alpers type)	3	203700	POLG, POLG1, POLGA, PEO, SANDO, SCAE, MTDPS4A, MTDPS4B, MIRAS	174763
+16q21	Mitochondrial DNA depletion syndrome 2 (myopathic type)	3	609560	TK2, MTDPS2, PEOB3	188250
+20p11.23	Mitochondrial DNA depletion syndrome 11	3	615084	MGME1, C20orf72, MTDPS11	615076
+22q13.33	Mitochondrial DNA depletion syndrome 1 (MNGIE type)	3	603041	TYMP, ECGF1, MNGIE, PDECGF, MEDPS1, MTDPS1	131222
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

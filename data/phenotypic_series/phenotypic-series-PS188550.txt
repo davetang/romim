@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Thyroid cancer, nonmedullary - PS188550 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p13.2	Thyroid carcinoma, follicular, somatic	3	188470	NRAS, ALPS4, NS6, CMNS, NCMS	164790
+2q21	{Thyroid carcinoma, nonmedullary, 3}	2	606240	NMTC3	606240
+9q22.33	{Thyroid cancer, nonmedullary, 4}	3	616534	FOXE1, FKHL15, TITF2, TTF2, NMTC4	602617
+10q23.2	Thyroid carcinoma, follicular	3	188470	MINPP1, HIPER1	605391
+10q25.3	{?Thyroid cancer, nonmedullary, 5}	3	616535	HABP2, PHBP, HGFAL, FSAP, NMTC5	603924
+11p15.5	{Thyroid carcinoma, follicular, somatic}	3	188470	HRAS	190020
+12q14.2	{Thyroid cancer, nonmedullary, 2}	3	188470	SRGAP1, KIAA1304, NMTC2	606523
+14q13.3	{Thyroid cancer, monmedullary, 1}	3	188550	NKX2-1, TITF1, NKX2A, TTF1, NMTC1	600635
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

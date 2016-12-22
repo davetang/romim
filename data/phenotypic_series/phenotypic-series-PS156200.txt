@@ -1,0 +1,67 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Mental retardation, autosomal dominant - PS156200 - 47 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.33	Mental retardation, autosomal dominant 42	3	616973	GNB1, MRD42	139380
+1p36.11	Coffin-Siris syndrome 2	3	614607	ARID1A, C1orf4, B120, SMARCF1, MRD14, CSS2	603024
+1p36.1-p35.3	Xia-Gibbs syndrome	3	615829	AHDC1, MRD25	615790
+1q21.3	White-Sutton syndrome	3	616364	POGZ, KIAA0461, MRD37, WHSUS	614787
+1q21.3	Mental retardation, autosomal dominant 18	3	615074	GATAD2B, KIAA1150, p68, MRD18	614998
+1q44	?Mental retardation, autosomal dominant 22	3	612337	ZBTB18, ZNF238, RP58, MRD22	608433
+2p25.3	Mental retardation, autosomal dominant 39	3	616521	MYT1L, KIAA1106, MRD39	613084
+2p25.2	Mental retardation, autosomal dominant, 27	3	615866	SOX11, MRD27	600898
+2q23.1	Mental retardation, autosomal dominant 1	3	156200	MBD5, KIAA1461, MRD1	611472
+2q37.3	Mental retardation, autosomal dominant 9	3	614255	KIF1A, ATSV, UNC104, SPG30, HSN2C, MRD9	601255
+3p25.3	Mental retardation, autosomal dominant 23	3	615761	SETD5, KIAA1757	615743
+3p22.1	Mental retardation, autosomal dominant 19	3	615075	CTNNB1, MRD19	116806
+3q26.32	Mental retardation, autosomal dominant 41	3	616944	TBL1XR1, TBLR1, IRA1, C21, MRD41	608628
+5p15.2	Mental retardation, autosomal dominant 44	3	617061	TRIO, MRD44	601893
+5q13.3	Mental retardation, autosomal dominant 34	3	616351	COL4A3BP, GPBP, CERT, MRD34	604677
+5q14.3	Chromosome 5q14.3 deletion syndrome	4	613443	MEF2C, C5DELq14.3, DEL5q14.3	600662
+5q14.3	Mental retardation, stereotypic movements, epilepsy, and/or cerebral malformations	3	613443	MEF2C, C5DELq14.3, DEL5q14.3	600662
+5q31.3	Mental retardation, autosomal dominant 31	3	616158	PURA, PUR1, MRD31	600473
+6p21.32	Mental retardation, autosomal dominant 5	3	612621	SYNGAP1, MRD5	603384
+6p21.1	Mental retardation, autosomal dominant 35	3	616355	PPP2R5D, MRD35	601646
+6q24.2	Mental retardation, autosomal dominant 43	3	616977	HIVEP2, MRD43	143054
+6q25.3	Coffin-Siris syndrome 1	3	135900	ARID1B, BAF250B, KIAA1235, MRD12, CSS1	614556
+7q11.22	Mental retardation, autosomal dominant 26	3	615834	KIAA0442, MRD26	607270
+7q36.2	Mental retardation, autosomal dominant 33	3	616311	DPP6, VF2, MRD33	126141
+8p11.21	Mental retardation, autosomal dominant 32	3	616268	KAT6A, MYST3, MOZ, ZNF220, MRD32	601408
+9p24	Mental retardation, autosomal dominant 2	4	614113	MRD2	614113
+9q34.3	Mental retardation, autosomal dominant 8	3	614254	GRIN1, NMDAR1, MRD8	138249
+9q34.3	Kleefstra syndrome	3	610253	EHMT1, EUHMTASE1, DEL9q34	607001
+10p15.3	Mental retardation, autosomal dominant 30	3	616083	ZMYND11, BS69, BRAM1, MRD30	608668
+11p15.5	Mental retardation, autosomal dominant 24	3	615828	DEAF1, SPN, ZMYND5, MRD24	602635
+11q13.1-q13.2	Schuurs-Hoeijmakers syndrome	3	615009	PACS1, SHMS, MRD17	607492
+11q24.2	Mental retardation, autosomal dominant 4	3	612581	KIRREL3, NEPH2, KIAA1867, KIRRE, MRD4	607761
+12p13.1	Mental retardation, autosomal dominant 6	3	613970	GRIN2B, NMDAR2B, MRD6, EIEE27	138252
+13q34	Mental retardation, autosomal dominant 40	3	616579	CHAMP1, ZNF828, C13orf8, KIAA1802, MRD40	616327
+14q32.31	Mental retardation, autosomal dominant 13	3	614563	DYNC1H1, DNCL, DNECL, CMT20, MRD13, SMALED1	600112
+16q22.1	Mental retardation, autosomal dominant 21	3	615502	CTCF, MRD21	604167
+16q24.3	Mental retardation, autosomal dominant 3	3	612580	CDH15, CDH14, CDH3, MRD3	114019
+17q21.31	Koolen-De Vries syndrome	3	610443	KANSL1, KIAA1267, MSL1V1, KDVS	612452
+18q12.3	Mental retardation, autosomal dominant 29	3	616078	SETBP1, KIAA0437, SEB, MRD29	611060
+19p13.2	Coffin-Siris syndrome 4	3	614609	SMARCA4, BRG1, RTPS2, MRD16, CSS4	603254
+19q13.41	Mental retardation, autosomal dominant 36	3	616362	PPP2R1A, MRD36	605983
+20q11.23	?Mental retardation, autosomal dominant 11	3	614257	EPB41L1, MRD11	602879
+20q13.13	Helsmoortel-van der Aa syndrome	3	615873	ADNP, ADNP1, KIAA0784, HVDAS, MRD28	611386
+20q13.33	Mental retardation, autosomal dominant 38	3	616393	EEF1A2, EIEE33, MRD38	602959
+21q22.13	Mental retardation, autosomal dominant 7	3	614104	DYRK1A, MNBH, MNB, MRD7	600855
+22q11.23	Coffin-Siris syndrome 3	3	614608	SMARCB1, SNF5, INI1, RDT, RTPS1, MRD15, SWNTS1, CSS3	601607
+22q12.3	Mental retardation, autosomal dominant 10	3	614256	CACNG2, MRD10	602911
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

@@ -1,0 +1,35 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Hypotrichosis - PS605389 - 15 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p21.1-q21.3	Hypotrichosis 5	2	612841	HYPT5, MUHH2	612841
+1q32.1	Hypotrichosis 11	3	615059	SNRPE, HYPT11	128260
+3q27.2	Hypotrichosis 7	3	604379	LIPH, LAH2, ARWH2, HYPT7	607365
+3q27.2	Woolly hair, autosomal recessive 2 with or without hypotrichosis	3	604379	LIPH, LAH2, ARWH2, HYPT7	607365
+6p21.33	Hypotrichosis 2	3	146520	CDSN, HTSS1, HYPT2, PSS1	602593
+7p22.3-p21.3	Hypotrichosis 10	2	614238	HYPT10	614238
+8p21.3	Hypotrichosis 4	3	146550	HR, AU, MUHH1, HYPT4	602302
+10q11.23-q22.3	Hypotrichosis 9	2	614237	HYPT9	614237
+12q13.13	?Hypotrichosis 13	3	615896	KRT71, K6IRS1, KRT6IRS1, HYPT13	608245
+12q13.13	?Hypotrichosis 3	3	613981	KRT74, K6IRS4, KRT6IRS4, HTSS2, HYPT3, ADWH	608248
+13q12.2	Hypotrichosis 12	3	615885	RPL21, HYPT12	603636
+13q14.2	Woolly hair, autosomal recessive 1, with or without hypotrichosis	3	278150	LPAR6, P2RY5, P2Y5, LAH3, ARWH1, HYPT8	609239
+13q14.2	Hypotrichosis 8	3	278150	LPAR6, P2RY5, P2Y5, LAH3, ARWH1, HYPT8	609239
+18p11.22	Hypotrichosis 1	3	605389	APCDD1, HHS, HYPT1, HTS	607479
+18q12.1	Hypotrichosis 6	3	607903	DSG4, LAH, HYPT6	607892
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

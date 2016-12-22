@@ -1,0 +1,45 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Muscular dystrophy, limb-girdle, autosomal recessive - PS253600 - 25 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p34.1	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 3	3	613157	POMGNT1, MEB, MDDGA3, MDDGB3, MDDGC3, RP76	606822
+1q25.2	?Muscular dystrophy, limb-girdle, type 2Y	3	617072	TOR1AIP1, LAP1, LAP1B, LGMD2Y	614512
+2p13.2	Muscular dystrophy, limb-girdle, type 2B	3	253601	DYSF, LGMD2B, MMD1	603009
+2q14.3	Muscular dystrophy, limb-girdle, type 2W	3	616827	LIMS2, PINCH2, LGMD2W	607908
+2q31.2	Muscular dystrophy, limb-girdle, type 2J	3	608807	TTN, CMD1G, TMD, LGMD2J, MPRM, HMERF, EOMFC	188840
+2q35	?Muscular dystrophy, limb-girdle, type 2R	3	615325	DES, CMD1I, MFM1, SCPNK, ARVD7, ARVC7, LGMD2R	125660
+3p21.31	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 9	3	613818	DAG1, DAG, MDDGC9, MDDGA9	128239
+3p21.31	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 14	3	615352	GMPPB, KIAA1851, MDDGA14, MDDGB14, MDDGC14	615320
+3q13.33	?Muscular dystrophy, limb-girdle, type 2Z	3	617232	POGLUT1, CLP46, KTELC1, RUMI, C3orf9, DDD4, LGMD2Z	615618
+4q12	Muscular dystrophy, limb-girdle, type 2E	3	604286	SGCB, LGMD2E	600900
+4q35.1	Muscular dystrophy, limb-girdle, type 2S	3	615356	TRAPPC11, C4orf41, LGMD2S	614138
+5q33.2-q33.3	Muscular dystrophy, limb-girdle, type 2F	3	601287	SGCD, SGD, LGMD2F, CMD1L	601411
+6q21	?Muscular dystrophy, limb-girdle, type 2X	3	616812	BVES, HBVES, POPDC1, LGMD2X	604577
+7p21.2	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 7	3	616052	ISPD, MDDGA7, MDDGC7	614631
+8q24.3	Muscular dystrophy, limb-girdle, type 2Q	3	613723	PLEC1, PLEC, PLTN, EBS1, LGMD2Q, EBSOG, EBSPA, EBSMD, EBSND	601282
+9q31.2	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 4	3	611588	FKTN, FCMD, CMD1X, LGMD2M, MDDGA4, MDDGB4, MDDGC4	607440
+9q33.1	Muscular dystrophy, limb-girdle, type 2H	3	254110	TRIM32, HT2A, LGMD2H, BBS11	602290
+9q34.13	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 1	3	609308	POMT1, MDDGA1, MDDGB1, MDDGC1	607423
+11p14.3	Muscular dystrophy, limb-girdle, type 2L	3	611307	ANO5, TMEM16E, GDD1, LGMD2L	608662
+13q12.12	Muscular dystrophy, limb-girdle, type 2C	3	253700	SGCG, LGMD2C, DMDA1, SCG3	608896
+14q24.3	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 2	3	613158	POMT2, MDDGA2, MDDGB2, MDDGC2	607439
+15q15.1	Muscular dystrophy, limb-girdle, type 2A	3	253600	CAPN3, CANP3	114240
+17q12	Muscular dystrophy, limb-girdle, type 2G	3	601954	TCAP, LGMD2G, CMH25	604488
+17q21.33	Muscular dystrophy, limb-girdle, type 2D	3	608099	SGCA, ADL, DAG2, LGMD2D, DMDA2	600119
+19q13.32	Muscular dystrophy-dystroglycanopathy (limb-girdle), type C, 5	3	607155	FKRP, MDC1C, LGMD2I, MDDGA5, MDDGB5, MDDGC5	606596
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

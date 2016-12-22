@@ -1,0 +1,23 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Cerebral creatine deficiency syndrome - PS300352 - 3 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+15q21.1	Cerebral creatine deficiency syndrome 3	3	612718	GATM, AGAT, CCDS3	602360
+19p13.3	Cerebral creatine deficiency syndrome 2	3	612736	GAMT, CCDS2	601240
+Xq28	Cerebral creatine deficiency syndrome 1	3	300352	SLC6A8, CRTR, CCDS1	300036
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

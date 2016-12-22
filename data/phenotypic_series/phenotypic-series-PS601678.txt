@@ -1,0 +1,28 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Bartter syndrome - PS601678 - 8 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+1p36.13	Bartter syndrome, type 4b, digenic	3	613090	CLCNKA	602024
+1p36.13	Bartter syndrome, type 4b, digenic	3	613090	CLCNKB	602023
+1p36.13	Bartter syndrome, type 3	3	607364	CLCNKB	602023
+1p32.3	Sensorineural deafness with mild renal dysfunction	3	602522	BSND	606412
+1p32.3	Bartter syndrome, type 4a	3	602522	BSND	606412
+11q24.3	Bartter syndrome, type 2	3	241200	KCNJ1, ROMK1	600359
+15q21.1	Bartter syndrome, type 1	3	601678	SLC12A1, NKCC2	600839
+Xp11.21	Bartter syndrome, type 5, antenatal, transient	3	300971	MAGED2, MAGED, BARTS5	300470
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+

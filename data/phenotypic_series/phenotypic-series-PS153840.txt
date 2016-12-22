@@ -1,0 +1,25 @@
+Phenotypic Series - 
+Downloaded:	Dec 22, 2016
+Copyright (c) 1966-2015 Johns Hopkins University OMIM, data are provided for research purposes only.
+
+
+Macular dystrophy, vitelliform - PS153840 - 5 Entries
+Location	Phenotype	Phenotype mapping key	Phenotype MIM number	Gene/Locus	Gene/Locus MIM number
+3q12.3	Macular dystrophy, vitelliform, 5	3	616152	IMPG2, IPM200, RP56, VMD5	607056
+6p21.1	Macular dystrophy, vitelliform, 3	3	608161	PRPH2, DS, RP7, PRPH, AVMD, AOFMD, CACD2, MDBS1	179605
+6q14.1	Macular dystrophy, vitelliform, 4	3	616151	IMPG1, IPM150, VMD4	602870
+11q12.3	Macular dystrophy, vitelliform, 2	3	153700	BEST1, VMD2, ARB, RP50	607854
+Not Mapped	Macular dystrophy, vitelliform, 1		153840	VMD1	153840
+
+
+
+
+
+Phenotype Mapping Key
+1 - the disorder is placed on the map due to its association with a gene, but the underlying defect is not known.
+2 - the disorder was placed on the map by statistical methods.
+3 - the molecular basis of the disorder is known.
+4 - a contiguous gene duplication or deletion syndrome in which multiple genes are involved.
+
+
+
