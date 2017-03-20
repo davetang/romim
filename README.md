@@ -50,6 +50,17 @@ sapply(my_list_omim, get_title)
 #  [8] "APERT SYNDROME"                              
 #  [9] "SAETHRE-CHOTZEN SYNDROME; SCS"               
 # [10] "PFEIFFER SYNDROME"
+
+# search OMIM disorders associated with a gene of interest
+my_list <- gene_to_omim('TTN')
+my_list_omim <- sapply(my_list, get_omim)
+sapply(my_list_omim, get_title)
+                                                     604145                                                      613765 
+                       "CARDIOMYOPATHY, DILATED, 1G; CMD1G"            "CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 9; CMH9" 
+                                                     608807                                                      611705 
+         "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J; LGMD2J"   "MYOPATHY, EARLY-ONSET, WITH FATAL CARDIOMYOPATHY; EOMFC" 
+                                                     603689                                                      600334 
+"HEREDITARY MYOPATHY WITH EARLY RESPIRATORY FAILURE; HMERF"                   "TIBIAL MUSCULAR DYSTROPHY, TARDIVE; TMD" 
 ~~~~
 
 # How to modify package
@@ -58,7 +69,7 @@ The functions are in the `R` directory and you can modify them as you please. If
 
 ~~~~{.bash}
 ls R
-get_gene.R      get_omim.R      get_title.R     set_key.R
+gene_to_omim.R          get_gene.R              get_inheritance.R       get_omim.R              get_pheno_key.R         get_title.R             set_key.R
 ~~~~
 
 To add more functions, create an `.R` file inside the `R` directory; the file should follow the [Roxygen process](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html). For example:

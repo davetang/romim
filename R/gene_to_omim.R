@@ -15,6 +15,6 @@ gene_to_omim <- function(gene_symbol = 'FGFR2'){
   my_result  <- xmlParse(my_query)
   my_list    <- xmlToList(my_result)
   my_xml     <- my_list$searchResponse$entryList$entry$geneMap$phenotypeMapList
-  as.vector(sapply(my_xml, function(x) x$phenotypeMimNumber))
+  as.vector(unlist(sapply(my_xml, function(x) x$phenotypeMimNumber)))
 }
  
