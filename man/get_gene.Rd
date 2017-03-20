@@ -16,4 +16,3 @@ This function parses the XML result and extracts the genes associated with an OM
 get_gene(get_omim(303600, geneMap=TRUE))
 }
 \keyword{gene}
-

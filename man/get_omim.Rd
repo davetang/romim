@@ -47,4 +47,3 @@ get_omim(303600, geneMap = TRUE)
 }
 \keyword{ID}
 \keyword{OMIM}
-

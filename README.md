@@ -28,7 +28,7 @@ library(romim)
 # Loading required package: XML
 
 # not a real key
-my_key <- set_key('AAAAAAAAAAAAAAAAAAAAAA')
+set_key('AAAAAAAAAAAAAAAAAAAAAA')
 omim_result <- get_omim(147920, geneMap = TRUE)
 
 get_gene(omim_result)
@@ -75,7 +75,7 @@ To add more functions, create an `.R` file inside the `R` directory; the file sh
 #' my_key <- set_key('aAS5ASdf35jasdnadsfj') # not a real key
 
 set_key <- function(key){
-  my_key <- paste('apiKey=', key, sep='')
+  my_key <<- paste('apiKey=', key, sep='')
 }
 ~~~~
 

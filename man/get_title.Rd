@@ -16,4 +16,3 @@ This function parses the XML result and extracts the title of an OMIM ID
 get_title(get_omim(100200))
 }
 \keyword{title}
-

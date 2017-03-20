@@ -13,7 +13,6 @@ set_key(key)
 This function sets the API key
 }
 \examples{
-my_key <- set_key('aAS5ASdf35jasdnadsfj') # not a real key
+set_key('aAS5ASdf35jasdnadsfj') # not a real key
 }
 \keyword{key}
-

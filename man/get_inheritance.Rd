@@ -16,4 +16,3 @@ This function parses the XML result and extracts the inheritance model associate
 get_inheritance(get_omim(303600, geneMap=TRUE, clinicalSynopsis=TRUE))
 }
 \keyword{inheritance}
-

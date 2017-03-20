@@ -18,4 +18,3 @@ get_pheno_key(get_omim(303600, geneMap=TRUE))
 \keyword{key}
 \keyword{mapping}
 \keyword{phenotype}
-
