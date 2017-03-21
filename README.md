@@ -60,7 +60,11 @@ sapply(my_list_omim, get_title)
                                                      608807                                                      611705 
          "MUSCULAR DYSTROPHY, LIMB-GIRDLE, TYPE 2J; LGMD2J"   "MYOPATHY, EARLY-ONSET, WITH FATAL CARDIOMYOPATHY; EOMFC" 
                                                      603689                                                      600334 
-"HEREDITARY MYOPATHY WITH EARLY RESPIRATORY FAILURE; HMERF"                   "TIBIAL MUSCULAR DYSTROPHY, TARDIVE; TMD" 
+"HEREDITARY MYOPATHY WITH EARLY RESPIRATORY FAILURE; HMERF"                   "TIBIAL MUSCULAR DYSTROPHY, TARDIVE; TMD"
+
+# obtain OMIM IDs from a Phenotypic Series ID
+phenotypic_series('PS213600')
+[1] "606656" "213600" "615007" "615483" "616413"
 ~~~~
 
 # How to modify package
