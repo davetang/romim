@@ -73,7 +73,7 @@ The functions are in the `R` directory and you can modify them as you please. If
 
 ~~~~{.bash}
 ls R
-gene_to_omim.R          get_gene.R              get_inheritance.R       get_omim.R              get_pheno_key.R         get_title.R             set_key.R
+gene_to_omim.R          get_gene.R              get_inheritance.R       get_omim.R              get_pheno_key.R         get_title.R             phenotypic_series.R     search_phenotype.R      set_key.R
 ~~~~
 
 To add more functions, create an `.R` file inside the `R` directory; the file should follow the [Roxygen process](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html). For example:
