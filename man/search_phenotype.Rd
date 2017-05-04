@@ -11,6 +11,7 @@ search_phenotype(search_term = "noonan")
 }
 \description{
 This function returns OMIM phenotypes given a match of a search term in the text meta field of OMIM phenotype entries.
+Recursive apply (rapply) and grep is used because phenotypeMimNumber is not always present in the same XML structure.
 }
 \examples{
 search_phenotype(search_term = 'noonan')

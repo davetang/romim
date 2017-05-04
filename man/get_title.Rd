@@ -10,7 +10,8 @@ get_title(xml)
 \item{xml}{XML result from get_omim()}
 }
 \description{
-This function parses the XML result and extracts the title of an OMIM ID
+Returns the preferred title of an OMIM entry.
+The function assumes that the preferred title is in the XML node /omim/entryList/entry/titles/preferredTitle.
 }
 \examples{
 get_title(get_omim(100200))

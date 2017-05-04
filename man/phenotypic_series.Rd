@@ -11,6 +11,7 @@ phenotypic_series(series = "PS163950")
 }
 \description{
 This function returns OMIM IDs given a OMIM Phenotypic Series ID.
+Recursive apply (rapply) and grep is used because phenotypeMimNumber is not always present in the same XML structure.
 }
 \examples{
 phenotypic_series(series = 'PS308350')

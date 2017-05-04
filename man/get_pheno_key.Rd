@@ -2,7 +2,7 @@
 % Please edit documentation in R/get_pheno_key.R
 \name{get_pheno_key}
 \alias{get_pheno_key}
-\title{Get phenotype mapping key for an OMIM gene}
+\title{Get phenotype mapping key for gene/s associated with an OMIM entry}
 \usage{
 get_pheno_key(xml)
 }
@@ -10,7 +10,8 @@ get_pheno_key(xml)
 \item{xml}{XML result from get_omim()}
 }
 \description{
-This function parses the XML result and extracts the phenotype mapping key for the gene associated with an OMIM ID
+Returns the phenotype mapping key of gene/s associated with an OMIM entry.
+Assumes that the phenotype mapping key is stored in the XML node /omim/entryList/entry/phenotypeMapList/phenotypeMap/phenotypeMappingKey.
 }
 \examples{
 get_pheno_key(get_omim(303600, geneMap=TRUE))

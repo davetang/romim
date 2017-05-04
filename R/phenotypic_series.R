@@ -1,6 +1,7 @@
 #' OMIM Phenotypic Series
 #'
 #' This function returns OMIM IDs given a OMIM Phenotypic Series ID.
+#' Recursive apply (rapply) and grep is used because phenotypeMimNumber is not always present in the same XML structure.
 #' 
 #' @param series Phenotypic Series Number. Default is PS163950.
 #' @keywords Phenotypic Series Number

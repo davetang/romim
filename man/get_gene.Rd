@@ -4,13 +4,14 @@
 \alias{get_gene}
 \title{Get gene/s from an OMIM ID}
 \usage{
-get_gene(xml)
+get_gene(my_xml)
 }
 \arguments{
 \item{xml}{XML result from get_omim()}
 }
 \description{
-This function parses the XML result and extracts the genes associated with an OMIM ID
+Returns the gene/s associated with an OMIM entry. Entries such as 109400 are associated with more than one gene.
+The function assumes that the gene symbol is stored in the XML node /omim/entryList/entry/phenotypeMapList/phenotypeMap/geneSymbols.
 }
 \examples{
 get_gene(get_omim(303600, geneMap=TRUE))

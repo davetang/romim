@@ -1,7 +1,8 @@
 #' Get title from an OMIM ID
 #'
-#' This function parses the XML result and extracts the title of an OMIM ID
-#' 
+#' Returns the preferred title of an OMIM entry.
+#' The function assumes that the preferred title is in the XML node /omim/entryList/entry/titles/preferredTitle.
+#'
 #' @param xml XML result from get_omim()
 #' @keywords title
 #' @export
@@ -9,7 +10,7 @@
 #' get_title(get_omim(100200))
 
 get_title <- function(xml){
-  xml_list <- xmlToList(xml)
-  return(xml_list$entryList$entry$titles$preferredTitle)
+  my_preferred_title_node <- getNodeSet(my_xml, path = "/omim/entryList/entry/titles/preferredTitle")
+  xmlSApply(my_preferred_title_node, xmlValue)
 }
 

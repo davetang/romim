@@ -2,7 +2,7 @@
 % Please edit documentation in R/get_inheritance.R
 \name{get_inheritance}
 \alias{get_inheritance}
-\title{Get inheritance model from an OMIM ID}
+\title{Get inheritance model of genes associated with OMIM ID}
 \usage{
 get_inheritance(xml)
 }
@@ -10,9 +10,12 @@ get_inheritance(xml)
 \item{xml}{XML result from get_omim()}
 }
 \description{
-This function parses the XML result and extracts the inheritance model associated with an OMIM ID
+Returns the inheritance model of a gene/s associated with the OMIM entry.
+An OMIM entry may be associated to more than one gene and therefore will have more than one inheritance model.
+The function assumes that the inheritance model is stored in the XML node /omim/entryList/entry/phenotypeMapList/phenotypeMap/phenotypeInheritance.
+The clinical synopsis contains the inheritance model of the OMIM entry.
 }
 \examples{
-get_inheritance(get_omim(303600, geneMap=TRUE, clinicalSynopsis=TRUE))
+get_inheritance(get_omim(303600, geneMap=TRUE))
 }
 \keyword{inheritance}
