@@ -4,7 +4,7 @@
 \alias{get_title}
 \title{Get title from an OMIM ID}
 \usage{
-get_title(xml)
+get_title(my_xml)
 }
 \arguments{
 \item{xml}{XML result from get_omim()}

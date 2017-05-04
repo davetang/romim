@@ -9,7 +9,7 @@
 #' @examples
 #' get_title(get_omim(100200))
 
-get_title <- function(xml){
+get_title <- function(my_xml){
   my_preferred_title_node <- getNodeSet(my_xml, path = "/omim/entryList/entry/titles/preferredTitle")
   xmlSApply(my_preferred_title_node, xmlValue)
 }

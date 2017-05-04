@@ -11,7 +11,7 @@
 #' @examples
 #' get_inheritance(get_omim(303600, geneMap=TRUE))
 
-get_inheritance <- function(xml){
+get_inheritance <- function(my_xml){
   my_inheritance_node <- getNodeSet(my_xml, path = "/omim/entryList/entry/phenotypeMapList/phenotypeMap/phenotypeInheritance")
   xmlSApply(my_inheritance_node, xmlValue)
 }

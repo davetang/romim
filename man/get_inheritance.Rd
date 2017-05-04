@@ -4,7 +4,7 @@
 \alias{get_inheritance}
 \title{Get inheritance model of genes associated with OMIM ID}
 \usage{
-get_inheritance(xml)
+get_inheritance(my_xml)
 }
 \arguments{
 \item{xml}{XML result from get_omim()}

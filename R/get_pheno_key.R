@@ -9,7 +9,7 @@
 #' @examples
 #' get_pheno_key(get_omim(303600, geneMap=TRUE))
 
-get_pheno_key <- function(xml){
+get_pheno_key <- function(my_xml){
   my_pheno_node <- getNodeSet(my_xml, path = "/omim/entryList/entry/phenotypeMapList/phenotypeMap/phenotypeMappingKey")
   xmlSApply(my_pheno_node, xmlValue)
 }

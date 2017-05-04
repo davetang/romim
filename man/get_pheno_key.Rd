@@ -4,7 +4,7 @@
 \alias{get_pheno_key}
 \title{Get phenotype mapping key for gene/s associated with an OMIM entry}
 \usage{
-get_pheno_key(xml)
+get_pheno_key(my_xml)
 }
 \arguments{
 \item{xml}{XML result from get_omim()}
