@@ -1,29 +1,25 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.574927.svg)](https://doi.org/10.5281/zenodo.574927)
+
 README
 ======
 
-To use this package, you need to install the XML package. 
+The `romim` package can be used to query the OMIM database; it relies on the [OMIM API](https://www.omim.org/help/api). Installing this package requires the `devtools` package.
 
-~~~~{.r}
-install.packages('XML')
-library(XML)
-~~~~
-
-To install this package:
-
-~~~~{.r}
+```r
 install.packages("devtools")
 library("devtools")
 
 install_github('davetang/romim')
 library(romim)
-~~~~
 
+help(package = "romim")
+```
 
 # Usage
 
-You will need a valid key; request for access on the [OMIM API page](http://www.omim.org/api/).
+You will need a valid API key; request for access on the [OMIM API page](http://www.omim.org/api/).
 
-~~~~{.r}
+```r
 library(romim)
 # Loading required package: XML
 
@@ -65,13 +61,36 @@ sapply(my_list_omim, get_title)
 # obtain OMIM IDs from a Phenotypic Series ID
 phenotypic_series('PS213600')
 [1] "606656" "213600" "615007" "615483" "616413"
-~~~~
+
+# search OMIM using free text
+my_search <- search_phenotype("Waardenburg Shah syndrome")
+omim_list <- sapply(my_search, get_omim, geneMap = TRUE)
+sapply(omim_list, get_title)
+                                                                                                             609136 
+"PERIPHERAL DEMYELINATING NEUROPATHY, CENTRAL DYSMYELINATION, WAARDENBURG SYNDROME, AND HIRSCHSPRUNG DISEASE; PCWH" 
+                                                                                                             277580 
+                                                                              "WAARDENBURG SYNDROME, TYPE 4A; WS4A" 
+                                                                                                             600501 
+                                                                                             "ABCD SYNDROME; ABCDS" 
+                                                                                                             142623 
+                                                                "HIRSCHSPRUNG DISEASE, SUSCEPTIBILITY TO, 1; HSCR1" 
+                                                                                                             193500 
+                                                                                "WAARDENBURG SYNDROME, TYPE 1; WS1" 
+                                                                                                             193510 
+                                                                              "WAARDENBURG SYNDROME, TYPE 2A; WS2A" 
+                                                                                                             613265 
+                                                                              "WAARDENBURG SYNDROME, TYPE 4B; WS4B" 
+                                                                                                             613266 
+                                                                              "WAARDENBURG SYNDROME, TYPE 4C; WS4C" 
+                                                                                                             148820 
+                                                                                "WAARDENBURG SYNDROME, TYPE 3; WS3"
+```
 
 # How to modify package
 
 The functions are in the `R` directory and you can modify them as you please. If you modify the documentation in these files, you will need to run document(); see below.
 
-~~~~{.bash}
+```bash
 ls -1 R
 gene_to_omim.R
 get_gene.R
@@ -82,11 +101,11 @@ get_title.R
 phenotypic_series.R
 search_phenotype.R
 set_key.R
-~~~~
+```
 
 To add more functions, create an `.R` file inside the `R` directory; the file should follow the [Roxygen process](https://cran.r-project.org/web/packages/roxygen2/vignettes/rd.html). For example:
 
-~~~~{.r}
+```r
 #' Set API key
 #'
 #' This function sets the API key
@@ -100,18 +119,18 @@ To add more functions, create an `.R` file inside the `R` directory; the file sh
 set_key <- function(key){
   my_key <<- paste('apiKey=', key, sep='')
 }
-~~~~
+```
 
 After you have added the file (or modified the original files), you'll need to run document().
 
-~~~~{.r}
+```r
 library(roxygen2)
 library(devtools)
 
 # change this to where you cloned the repo
 setwd('~/github/romim/')
 document()
-~~~~
+```
 
 # Further reading
 
