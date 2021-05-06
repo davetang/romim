@@ -4,17 +4,19 @@
 \alias{search_phenotype}
 \title{Search OMIM}
 \usage{
-search_phenotype(search_term = "noonan")
+search_phenotype(search_term = "noonan syndrome", show_query = FALSE)
 }
 \arguments{
-\item{series}{Search term. Default is "noonan".}
+\item{show_query}{Show API query. Default is FALSE.}
+
+\item{series}{Search term. Default is "noonan syndrome".}
 }
 \description{
 This function returns OMIM phenotypes given a match of a search term in the text meta field of OMIM phenotype entries.
 Recursive apply (rapply) and grep is used because phenotypeMimNumber is not always present in the same XML structure.
 }
 \examples{
-search_phenotype(search_term = 'noonan')
+search_phenotype(search_term = 'noonan syndrome')
 }
 \keyword{OMIM}
 \keyword{Search}

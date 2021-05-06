@@ -4,14 +4,28 @@
 \alias{get_omim}
 \title{Query OMIM server}
 \usage{
-get_omim(omim_id = 100100, text = FALSE, existflags = FALSE,
-  allelicVariantList = FALSE, clinicalSynopsis = FALSE, seeAlso = FALSE,
-  referenceList = FALSE, geneMap = FALSE, externalLinks = FALSE,
-  contributors = FALSE, creationDate = FALSE, editHistory = FALSE,
-  dates = FALSE, all = FALSE)
+get_omim(
+  omim_id = 100100,
+  show_query = FALSE,
+  text = FALSE,
+  existflags = FALSE,
+  allelicVariantList = FALSE,
+  clinicalSynopsis = FALSE,
+  seeAlso = FALSE,
+  referenceList = FALSE,
+  geneMap = FALSE,
+  externalLinks = FALSE,
+  contributors = FALSE,
+  creationDate = FALSE,
+  editHistory = FALSE,
+  dates = FALSE,
+  all = FALSE
+)
 }
 \arguments{
 \item{omim_id}{OMIM ID. Default is 100100.}
+
+\item{show_query}{Show API query. Default is FALSE.}
 
 \item{text}{Includes the text field sections with the entry. Default is FALSE.}
 

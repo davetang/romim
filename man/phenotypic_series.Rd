@@ -4,10 +4,12 @@
 \alias{phenotypic_series}
 \title{OMIM Phenotypic Series}
 \usage{
-phenotypic_series(series = "PS163950")
+phenotypic_series(series = "PS163950", show_query = FALSE)
 }
 \arguments{
 \item{series}{Phenotypic Series Number. Default is PS163950.}
+
+\item{show_query}{Show API query. Default is FALSE.}
 }
 \description{
 This function returns OMIM IDs given a OMIM Phenotypic Series ID.

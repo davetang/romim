@@ -1,15 +1,19 @@
 Package: romim
 Title: R wrapper functions for the OMIM API
-Version: 0.0.0.9000
+Version: 1.0.1
 Authors@R: person("Dave", "Tang", email = "me@davetang.org", role = c("aut", "cre"))
 Description: The package contains wrapper functions that make it easier to use
     the OMIM API.
 Depends:
-    R (>= 3.3.1),
-    XML (>= 3.98)
+    R (>= 4.0.0),
+    XML (>= 3.98),
+    magrittr (>= 2.0.1),
+    xml2 (>= 1.3.2)
 Imports:
-    XML
+    XML,
+    magrittr,
+    xml2
 License: GNU General Public License
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.1

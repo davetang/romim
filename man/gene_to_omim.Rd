@@ -4,10 +4,12 @@
 \alias{gene_to_omim}
 \title{Gene search}
 \usage{
-gene_to_omim(gene_symbol = "FGFR2")
+gene_to_omim(gene_symbol = "FGFR2", show_query = FALSE)
 }
 \arguments{
 \item{gene_symbol}{Gene Symbol. Default is FGFR2.}
+
+\item{show_query}{Show API query. Default is FALSE.}
 }
 \description{
 This function builds the URL to search the OMIM server based on an input gene

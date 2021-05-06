@@ -4,20 +4,24 @@
 #' Recursive apply (rapply) and grep is used because phenotypeMimNumber is not always present in the same XML structure.
 #' 
 #' @param series Phenotypic Series Number. Default is PS163950.
+#' @param show_query Show API query. Default is FALSE.
 #' @keywords Phenotypic Series Number
 #' @export
 #' @examples
 #' phenotypic_series(series = 'PS308350')
 
-phenotypic_series <- function(series = 'PS163950'){
-  my_search  <- paste('http://api.omim.org/api/entry/search?search=phenotypic_series_number:', series, sep='')
+phenotypic_series <- function(series = 'PS163950', show_query = FALSE){
+  my_search  <- paste('https://api.omim.org/api/entry/search?search=phenotypic_series_number:', series, sep='')
   my_include <- 'include=geneMap'
   start      <- 0
   limit      <- 20 # max limit is 20 when geneMap is included
   my_start   <- paste('start=', start, sep='')
   my_limit   <- paste('limit=', limit, sep='')
   my_query   <- paste(my_search, my_include, my_key, my_start, my_limit, sep = "&")
-  my_result  <- xmlParse(my_query)
+  if (show_query){
+     message(my_query)
+  }
+  my_result  <- read_xml(my_query) %>% xmlParse(.)
   my_list    <- xmlToList(my_result)
   my_total   <- as.numeric(my_list$searchResponse$totalResults)
   tmp        <- rapply(my_list, function(x) x)
@@ -31,7 +35,7 @@ phenotypic_series <- function(series = 'PS163950'){
       start     <- start + 20
       my_start  <- paste('start=', start, sep='')
       my_query  <- paste(my_search, my_include, my_key, my_start, my_limit, sep = "&")
-      my_result <- xmlParse(my_query)
+      my_result <- read_xml(my_query) %>% xmlParse(.)
       my_list   <- xmlToList(my_result)
       my_total  <- as.numeric(my_list$searchResponse$totalResults)
       tmp       <- rapply(my_list, function(x) x)

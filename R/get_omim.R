@@ -3,6 +3,7 @@
 #' This function builds the URL and queries the OMIM server
 #' 
 #' @param omim_id OMIM ID. Default is 100100.
+#' @param show_query Show API query. Default is FALSE.
 #' @param text Includes the text field sections with the entry. Default is FALSE.
 #' @param existflags Include the 'exists' flags with the entry (clinical synopsis, allelic variant, gene map & phenotype map). Default is FALSE.
 #' @param allelicVariantList Includes the allelic variant list with the entry. Default is FALSE.
@@ -22,6 +23,7 @@
 #' get_omim(303600, geneMap = TRUE)
 
 get_omim <- function(omim_id = 100100, #default OMIM ID
+  show_query = FALSE,
   text = FALSE, #Includes the text field sections with the entry.
   existflags = FALSE, #Include the 'exists' flags with the entry (clinical synopsis, allelic variant, gene map & phenotype map).
   allelicVariantList = FALSE, #Includes the allelic variant list with the entry.
@@ -39,16 +41,19 @@ get_omim <- function(omim_id = 100100, #default OMIM ID
   #get all the arguments of the function call
   a <- as.list(match.call())
   my_mim   <- paste('mimNumber=', omim_id, sep='')
-  my_link  <- 'http://api.omim.org/api/entry?'
+  my_link  <- 'https://api.omim.org/api/entry?'
   my_query <- paste(my_link, my_mim, my_key, sep = "&")
   #loop through all the arguments
   for (i in names(a)){
     #skip the omid_id and blank argument
-    if(!i %in% '' && !i %in% 'omim_id'){
+    if(!i %in% '' && !i %in% 'omim_id' && !i %in% 'show_query'){
       my_include <- paste('&', 'include=', i, sep='')
       my_query <- paste(my_query, my_include, sep='')
     }
   }
-  xmlParse(my_query)
+  if (show_query){
+     message(my_query)
+  }
+  read_xml(my_query) %>% xmlParse(.)
 }
  
