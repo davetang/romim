@@ -15,7 +15,11 @@ help(package = "romim")
 
 # Usage
 
-You will need a valid API key, which you can request for on the [OMIM API page](http://www.omim.org/api/). Use `set_key` to use your API key.
+You will need a valid API key, which you can request for on the [OMIM API page](https://www.omim.org/api). Note that in order to apply for API access you need:
+
+>  Access will not be granted without a valid institutional email address. Email addresses from generic email providers such as Gmail, Yahoo, Hotmail, Live, MSN, iCloud, 126.com, 163.com or qq.com will be automatically rejected.
+
+Use `set_key` to use your API key.
 
 ```r
 library(romim)
@@ -188,7 +192,7 @@ The first version of `romim` stopped working when the `xmlParse` function from t
 
 # Further reading
 
-See my [this blog post](http://davetang.org/muse/2015/03/17/getting-started-with-the-omim-api/) for more information on the OMIM API. For more information on creating R packages, see [this blog post](http://davetang.org/muse/2015/02/04/bed-granges/).
+See my [this blog post](https://davetang.org/muse/2015/03/17/getting-started-with-the-omim-api/) for more information on the OMIM API. For more information on creating R packages, see [this blog post](https://davetang.org/muse/2015/02/04/bed-granges/).
 
 # Contact
 
